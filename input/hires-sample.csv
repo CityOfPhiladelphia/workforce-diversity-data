@@ -1,4 +1,4 @@
-Payroll Number,First Name,Last Name,Department,Position,Job Title,Latest Start Date,Job Seniority Date,Total Salary,Gender,Hispanic or Latino of any race,American Indian or Alaskan Native,Asian,Black or African American,Native Hawaiian or Other Pacific,White,Two or More Races,Assignment Status,Assignment Category
+Payroll Number,First Name,Last Name,Department,Position,Job,Latest Start Date,Job Seniority Date,Total Salary,Gender,Hispanic or Latino of any race,American Indian or Alaskan Native,Asian,Black or African American,Native Hawaiian or Other Pacific,White,Two or More Races,Assignment Status,Assignment Category
 865513,Ddene,Burne,Accounting,V299.Department Name.Division Name.02,Financial Analyst,2007-10-01,2007-10-01,114605.38,F,,,True,True,,True,,Active Assignment,Fulltime-Temporary
 350532,Gaston,Benham,Product Management,I641.Department Name.Division Name.09,Project Manager,2001-01-24,2001-01-24,110682.81,M,,,,,,True,,Active Assignment,Fulltime-Temporary
 679526,Lorianne,Beuscher,Marketing,Y892.Department Name.Division Name.06,Staff Scientist,2000-11-09,2000-11-09,127171.62,F,,,,,,,,Active Assignment,Fulltime-Temporary
