@@ -1,0 +1,1001 @@
+payroll_number,first_name,last_name,department,position,job,latest_start_date,job_seniority_date,total_salary,gender,assignment_status,assignment_category,race_ethnicity
+865513,Ddene,Burne,Accounting,V299.Department Name.Division Name.02,Financial Analyst,2007-10-01,2007-10-01,114605.38,F,Active Assignment,Fulltime-Temporary,Asian
+350532,Gaston,Benham,Product Management,I641.Department Name.Division Name.09,Project Manager,2001-01-24,2001-01-24,110682.81,M,Active Assignment,Fulltime-Temporary,White
+679526,Lorianne,Beuscher,Marketing,Y892.Department Name.Division Name.06,Staff Scientist,2000-11-09,2000-11-09,127171.62,F,Active Assignment,Fulltime-Temporary,
+607876,Catrina,Bullimore,Business Development,E399.Department Name.Division Name.01,Environmental Specialist,2004-02-23,2004-02-23,58765.83,F,Active Assignment,Fulltime-Temporary,Asian
+607080,Finn,Kerbey,Services,I365.Department Name.Division Name.01,Professor,2002-11-19,2002-11-19,53895.80,M,Active Assignment,Fulltime-Regular,
+498669,Francyne,Lissandre,Marketing,S258.Department Name.Division Name.03,Office Assistant I,2008-02-05,2008-02-05,141108.35,F,Active Assignment,Fulltime-Temporary,Asian
+741805,Nadean,Joppich,Accounting,S160.Department Name.Division Name.08,Operator,2006-10-30,2006-10-30,93643.26,F,Active Assignment,Fulltime-Regular,White
+577909,Bancroft,D'Alwis,Business Development,N420.Department Name.Division Name.02,Speech Pathologist,2008-01-26,2008-01-26,93183.25,M,Active Assignment,Parttime-Regular,Black or African American
+407185,Sibbie,Kensitt,Engineering,H394.Department Name.Division Name.09,Programmer Analyst IV,2010-03-25,2010-03-25,65680.45,F,Active Assignment,Parttime-Regular,
+993776,Melitta,Hefferon,Training,Y583.Department Name.Division Name.05,Human Resources Manager,2012-07-16,2012-07-16,83110.57,F,Active Assignment,Fulltime-Regular,White
+269216,Osbourne,Menlove,Product Management,V661.Department Name.Division Name.04,Community Outreach Specialist,2008-03-15,2008-03-15,82178.24,M,Active Assignment,Parttime-Regular,Black or African American
+982411,Orazio,Loving,Human Resources,G668.Department Name.Division Name.05,Junior Executive,2013-06-11,2013-06-11,57172.26,M,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+472788,Gelya,Ruppert,Sales,X226.Department Name.Division Name.02,Librarian,2003-06-20,2003-06-20,68245.94,F,Active Assignment,Parttime-Regular,Asian
+283982,Royal,Kann,Business Development,V761.Department Name.Division Name.03,Professor,2005-03-30,2005-03-30,43986.38,M,Active Assignment,Parttime-Regular,Asian
+109249,Susi,Treacher,Human Resources,R076.Department Name.Division Name.09,Programmer II,2004-05-06,2004-05-06,59644.80,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+828038,Shell,Strange,Human Resources,B586.Department Name.Division Name.02,Graphic Designer,2001-09-12,2001-09-12,83418.57,M,Active Assignment,Fulltime-Temporary,Black or African American
+566539,Todd,Syratt,Sales,W928.Department Name.Division Name.04,Sales Representative,2003-10-01,2003-10-01,87734.81,M,Active Assignment,Fulltime-Temporary,Asian
+592924,Consalve,Traice,Support,B133.Department Name.Division Name.05,Software Consultant,2001-03-03,2001-03-03,97056.81,M,Active Assignment,Fulltime-Temporary,Asian
+574340,Delphinia,Gilford,Legal,Z583.Department Name.Division Name.04,Research Associate,2005-03-07,2005-03-07,147875.68,F,Active Assignment,Fulltime-Regular,Black or African American
+791107,Humberto,Kyte,Training,C205.Department Name.Division Name.03,Health Coach I,2016-09-17,2016-09-17,112360.81,M,Active Assignment,Fulltime-Temporary,Black or African American
+151181,Gay,McCulley,Human Resources,R926.Department Name.Division Name.08,General Manager,2007-12-18,2007-12-18,107051.50,F,Active Assignment,Parttime-Regular,Black or African American
+352627,Alf,Peteri,Sales,P802.Department Name.Division Name.03,Web Designer IV,2015-07-14,2015-07-14,124788.61,M,Active Assignment,Fulltime-Regular,Black or African American
+161330,Anton,Sloley,Product Management,N077.Department Name.Division Name.05,Financial Advisor,2001-02-09,2001-02-09,142472.18,M,Active Assignment,Fulltime-Temporary,
+702107,Marcus,Bromehed,Engineering,I719.Department Name.Division Name.08,Senior Editor,2003-11-05,2003-11-05,81303.56,M,Active Assignment,Fulltime-Regular,Black or African American
+496837,Katti,Aiken,Legal,G701.Department Name.Division Name.09,Nuclear Power Engineer,2012-11-01,2012-11-01,121068.89,F,Active Assignment,Fulltime-Temporary,White
+941845,Edythe,Morritt,Human Resources,C828.Department Name.Division Name.05,Project Manager,2011-01-24,2011-01-24,133279.14,F,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+929449,Gerek,Carik,Engineering,A401.Department Name.Division Name.07,Actuary,2004-07-29,2004-07-29,114121.76,M,Active Assignment,Fulltime-Regular,Asian
+957186,Ayn,Boscher,Research and Development,R024.Department Name.Division Name.04,Project Manager,2010-11-05,2010-11-05,135294.48,F,Active Assignment,Fulltime-Temporary,Black or African American
+772060,Ogdan,Elfes,Research and Development,Z875.Department Name.Division Name.06,Director of Sales,2013-04-10,2013-04-10,65406.75,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+266663,Lenette,Keyes,Marketing,X781.Department Name.Division Name.06,Professor,2007-09-06,2007-09-06,63722.70,F,Active Assignment,Fulltime-Regular,Asian
+467231,Andres,Leser,Product Management,G784.Department Name.Division Name.00,Help Desk Operator,2015-11-07,2015-11-07,136715.74,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+498090,Drucill,Roberti,Product Management,Q890.Department Name.Division Name.05,Human Resources Assistant I,2004-09-28,2004-09-28,57085.04,F,Active Assignment,Fulltime-Regular,
+531699,Paulina,Beeston,Marketing,W127.Department Name.Division Name.07,Recruiter,2004-10-12,2004-10-12,73753.93,F,Active Assignment,Fulltime-Regular,Black or African American
+677161,Fowler,Dunkley,Engineering,R048.Department Name.Division Name.04,Civil Engineer,2005-06-15,2005-06-15,80902.63,M,Active Assignment,Fulltime-Regular,Black or African American
+800788,Anderson,Halsall,Engineering,N148.Department Name.Division Name.07,Quality Control Specialist,2012-03-23,2012-03-23,48892.05,M,Active Assignment,Parttime-Regular,Black or African American
+231122,Lianne,Ghidoli,Support,W013.Department Name.Division Name.01,Project Manager,2017-02-06,2017-02-06,83124.17,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+907782,Gordon,Estcot,Engineering,Z112.Department Name.Division Name.09,Web Designer III,2001-03-20,2001-03-20,130373.35,M,Active Assignment,Parttime-Regular,Black or African American
+412322,Berkley,Pride,Business Development,A161.Department Name.Division Name.05,Director of Sales,2005-05-14,2005-05-14,98764.00,M,Active Assignment,Parttime-Regular,White
+765253,Johnny,Porcas,Marketing,B656.Department Name.Division Name.06,Executive Secretary,2012-10-13,2012-10-13,53442.49,M,Active Assignment,Parttime-Regular,
+362217,Korry,Hendrickson,Accounting,B801.Department Name.Division Name.08,Statistician II,2012-09-07,2012-09-07,48718.10,F,Active Assignment,Parttime-Regular,Asian
+622827,Barbara-anne,Keddle,Sales,Y157.Department Name.Division Name.08,Nuclear Power Engineer,2006-05-31,2006-05-31,62609.23,F,Active Assignment,Fulltime-Regular,Black or African American
+848516,Devora,Beseke,Support,W413.Department Name.Division Name.02,Biostatistician II,2011-05-10,2011-05-10,66801.39,F,Active Assignment,Fulltime-Regular,
+468802,Weber,Kleyn,Human Resources,H437.Department Name.Division Name.02,Senior Editor,2008-06-26,2008-06-26,66548.75,M,Active Assignment,Fulltime-Temporary,Asian
+132383,Towney,Durham,Legal,P046.Department Name.Division Name.03,Help Desk Technician,2017-02-14,2017-02-14,88535.95,M,Active Assignment,Fulltime-Regular,White
+170533,Alysia,Tarply,Sales,K840.Department Name.Division Name.08,Teacher,2017-05-21,2017-05-21,117246.11,F,Active Assignment,Fulltime-Regular,Asian
+862415,Frankie,Ruckman,Engineering,M992.Department Name.Division Name.00,Human Resources Manager,2011-06-19,2011-06-19,59242.64,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+238250,Lindsay,Paler,Product Management,K213.Department Name.Division Name.07,Cost Accountant,2013-07-18,2013-07-18,55473.65,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+595997,Keen,Henmarsh,Legal,C783.Department Name.Division Name.08,Human Resources Assistant I,2003-09-24,2003-09-24,80935.05,M,Active Assignment,Fulltime-Temporary,White
+911787,Leopold,Stiffell,Accounting,M480.Department Name.Division Name.05,Environmental Tech,2003-03-07,2003-03-07,80239.54,M,Active Assignment,Parttime-Regular,Black or African American
+888397,Kris,Clemonts,Support,I712.Department Name.Division Name.01,Environmental Specialist,2012-08-08,2012-08-08,131412.66,F,Active Assignment,Parttime-Regular,Asian
+123445,Tammy,Blodg,Support,V061.Department Name.Division Name.07,Research Associate,2011-01-14,2011-01-14,133378.38,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+145923,Bab,Manske,Research and Development,V101.Department Name.Division Name.09,Physical Therapy Assistant,2015-11-05,2015-11-05,59460.59,F,Active Assignment,Fulltime-Temporary,White
+514697,Marthena,Huckin,Research and Development,W806.Department Name.Division Name.00,Research Assistant II,2006-03-17,2006-03-17,84102.21,F,Active Assignment,Fulltime-Temporary,White
+342135,Blinnie,Yandle,Business Development,P692.Department Name.Division Name.02,Staff Scientist,2009-08-07,2009-08-07,57530.43,F,Active Assignment,Fulltime-Temporary,Black or African American
+865803,Ax,Petrushanko,Support,Q428.Department Name.Division Name.03,Senior Cost Accountant,2005-07-25,2005-07-25,48221.88,M,Active Assignment,Parttime-Regular,Black or African American
+533674,Colan,MacGillacolm,Product Management,Q509.Department Name.Division Name.08,Help Desk Operator,2002-06-20,2002-06-20,59223.48,M,Active Assignment,Fulltime-Temporary,Asian
+207594,Garwin,Gallemore,Human Resources,G694.Department Name.Division Name.01,Financial Advisor,2002-11-29,2002-11-29,108614.88,M,Active Assignment,Fulltime-Temporary,Asian
+433333,Dunc,Hempshall,Support,H154.Department Name.Division Name.02,Civil Engineer,2005-11-01,2005-11-01,145847.27,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+512070,Myrta,Rutgers,Accounting,X769.Department Name.Division Name.08,Clinical Specialist,2001-02-12,2001-02-12,79181.57,F,Active Assignment,Fulltime-Regular,Asian
+610928,Phip,McKinless,Sales,B999.Department Name.Division Name.05,Junior Executive,2011-03-12,2011-03-12,93409.38,M,Active Assignment,Fulltime-Regular,Black or African American
+117591,Pansy,Bullant,Research and Development,R789.Department Name.Division Name.01,Recruiter,2009-08-31,2009-08-31,41132.45,F,Active Assignment,Fulltime-Temporary,
+115748,Sanford,Beams,Marketing,U038.Department Name.Division Name.00,Assistant Manager,2017-01-15,2017-01-15,98301.15,M,Active Assignment,Parttime-Regular,
+779916,Joelynn,Cicchinelli,Accounting,H493.Department Name.Division Name.06,Professor,2016-10-22,2016-10-22,53692.83,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+154897,Dewey,Phittiplace,Marketing,N492.Department Name.Division Name.06,Help Desk Technician,2013-02-24,2013-02-24,144091.12,M,Active Assignment,Fulltime-Regular,Asian
+413904,Wilow,Kinch,Support,D077.Department Name.Division Name.02,Senior Financial Analyst,2001-02-09,2001-02-09,112494.68,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+617850,Allen,German,Legal,U625.Department Name.Division Name.03,Structural Engineer,2014-08-09,2014-08-09,72399.32,M,Active Assignment,Parttime-Regular,Black or African American
+324382,Cord,Guillerman,Services,X949.Department Name.Division Name.04,Chemical Engineer,2009-09-13,2009-09-13,97898.51,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+740475,Lisa,Massei,Human Resources,U082.Department Name.Division Name.02,Human Resources Manager,2013-03-25,2013-03-25,99004.68,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+285508,Davidde,Mitten,Sales,L604.Department Name.Division Name.08,Web Developer I,2008-08-24,2008-08-24,132385.73,M,Active Assignment,Fulltime-Temporary,Asian
+767446,Darnell,Lightwing,Accounting,A164.Department Name.Division Name.03,Geologist I,2001-06-27,2001-06-27,78629.41,M,Active Assignment,Fulltime-Temporary,
+843638,Shaylah,Thomton,Human Resources,K385.Department Name.Division Name.02,Office Assistant III,2009-01-10,2009-01-10,117030.75,F,Active Assignment,Fulltime-Temporary,Black or African American
+289093,Joann,Witt,Accounting,R021.Department Name.Division Name.07,Project Manager,2014-08-01,2014-08-01,68772.96,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+962239,Cristian,Frackiewicz,Services,N933.Department Name.Division Name.06,VP Product Management,2004-05-28,2004-05-28,118493.21,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+109894,Marice,Baulk,Training,J631.Department Name.Division Name.09,Project Manager,2013-06-16,2013-06-16,114512.27,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+848331,Jock,Klug,Legal,S974.Department Name.Division Name.07,Physical Therapy Assistant,2009-10-28,2009-10-28,123411.01,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+826922,Elizabet,Idell,Engineering,Y409.Department Name.Division Name.02,Junior Executive,2005-03-24,2005-03-24,108715.83,F,Active Assignment,Fulltime-Temporary,
+719753,Anson,Hain,Business Development,F699.Department Name.Division Name.08,Chemical Engineer,2011-04-24,2011-04-24,65558.61,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+709274,Derek,Gerram,Business Development,I040.Department Name.Division Name.05,Staff Accountant IV,2013-07-30,2013-07-30,101883.54,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+162776,Kristofer,Healks,Services,B128.Department Name.Division Name.06,Safety Technician IV,2013-03-10,2013-03-10,131312.37,M,Active Assignment,Parttime-Regular,Asian
+503107,Jules,Dafydd,Sales,C151.Department Name.Division Name.02,Assistant Manager,2016-02-08,2016-02-08,120765.63,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+154510,Frederic,Waldren,Research and Development,N357.Department Name.Division Name.00,Human Resources Assistant IV,2006-09-05,2006-09-05,109940.01,M,Active Assignment,Fulltime-Regular,Asian
+890766,Sioux,Menary,Sales,L900.Department Name.Division Name.02,Research Assistant III,2013-12-11,2013-12-11,72098.93,F,Active Assignment,Fulltime-Regular,Black or African American
+758238,Ailsun,Romi,Legal,F241.Department Name.Division Name.05,Analyst Programmer,2002-11-21,2002-11-21,144824.80,F,Active Assignment,Parttime-Regular,Asian
+361909,Nancey,Tearny,Human Resources,O908.Department Name.Division Name.06,Quality Engineer,2013-05-05,2013-05-05,61045.15,F,Active Assignment,Parttime-Regular,Black or African American
+530829,Ilse,Van der Velden,Training,T456.Department Name.Division Name.05,Account Executive,2004-11-08,2004-11-08,54419.90,F,Active Assignment,Fulltime-Regular,
+659512,Kat,Lucks,Training,H571.Department Name.Division Name.04,Account Coordinator,2002-03-03,2002-03-03,149707.71,F,Active Assignment,Fulltime-Temporary,
+716937,Simon,Seel,Human Resources,O656.Department Name.Division Name.00,Financial Advisor,2007-05-28,2007-05-28,65033.37,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+541234,Rosalyn,Manvell,Human Resources,N321.Department Name.Division Name.09,Project Manager,2001-07-01,2001-07-01,54384.27,F,Active Assignment,Parttime-Regular,White
+404769,Liane,Betje,Services,M709.Department Name.Division Name.06,Research Associate,2010-08-11,2010-08-11,76477.30,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+285129,Glori,Klesl,Support,P609.Department Name.Division Name.09,Research Assistant II,2012-11-06,2012-11-06,72651.63,F,Active Assignment,Fulltime-Regular,Asian
+561840,Farand,Berriball,Engineering,Y947.Department Name.Division Name.08,Information Systems Manager,2009-02-15,2009-02-15,56352.63,F,Active Assignment,Fulltime-Regular,Black or African American
+281504,Joete,Dommett,Engineering,N445.Department Name.Division Name.07,Computer Systems Analyst III,2012-03-28,2012-03-28,123264.76,F,Active Assignment,Fulltime-Temporary,Asian
+477208,Dallis,Duffree,Engineering,X295.Department Name.Division Name.04,Senior Developer,2017-01-07,2017-01-07,75977.75,M,Active Assignment,Fulltime-Regular,Black or African American
+389677,Josi,Oseland,Human Resources,B958.Department Name.Division Name.03,Geological Engineer,2007-08-24,2007-08-24,62618.08,F,Active Assignment,Fulltime-Temporary,Black or African American
+679389,Juanita,Currum,Training,O034.Department Name.Division Name.06,Actuary,2007-04-07,2007-04-07,40009.83,F,Active Assignment,Fulltime-Regular,Black or African American
+379265,Rochester,Quartly,Engineering,D890.Department Name.Division Name.06,Marketing Assistant,2005-07-10,2005-07-10,84612.87,M,Active Assignment,Fulltime-Regular,
+933033,Gunilla,Derks,Business Development,Z879.Department Name.Division Name.06,Internal Auditor,2009-11-04,2009-11-04,118330.82,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+628586,Fowler,Wadley,Sales,L937.Department Name.Division Name.04,Assistant Professor,2012-02-14,2012-02-14,76566.22,M,Active Assignment,Fulltime-Temporary,White
+415052,Regan,Totaro,Marketing,I924.Department Name.Division Name.08,Physical Therapy Assistant,2006-12-12,2006-12-12,63489.89,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+962615,Thorn,Cran,Support,G346.Department Name.Division Name.06,Biostatistician II,2006-02-10,2006-02-10,88208.04,M,Active Assignment,Fulltime-Regular,
+397882,Gaby,Whitelaw,Sales,T225.Department Name.Division Name.09,Accountant II,2011-12-19,2011-12-19,132176.69,F,Active Assignment,Fulltime-Regular,Asian
+688526,Elysee,Greenlies,Services,E098.Department Name.Division Name.06,Financial Analyst,2017-01-19,2017-01-19,126296.33,F,Active Assignment,Fulltime-Regular,Black or African American
+413601,Magdaia,Chung,Product Management,M785.Department Name.Division Name.05,Senior Developer,2004-09-22,2004-09-22,66656.87,F,Active Assignment,Fulltime-Regular,Asian
+170482,Waite,Aspenlon,Research and Development,P573.Department Name.Division Name.02,Marketing Assistant,2004-04-01,2004-04-01,80784.27,M,Active Assignment,Fulltime-Regular,Black or African American
+749310,Javier,Kubin,Engineering,A692.Department Name.Division Name.05,Pharmacist,2003-02-14,2003-02-14,81252.94,M,Active Assignment,Parttime-Regular,Black or African American
+461257,Gian,Osgorby,Training,D835.Department Name.Division Name.03,Electrical Engineer,2001-02-03,2001-02-03,108245.61,M,Active Assignment,Fulltime-Regular,Black or African American
+544410,Bobbie,Jagiello,Legal,Q203.Department Name.Division Name.01,Software Engineer I,2013-04-24,2013-04-24,48997.97,M,Active Assignment,Fulltime-Temporary,White
+144095,Benjy,Evans,Support,M939.Department Name.Division Name.00,Speech Pathologist,2002-04-27,2002-04-27,86221.53,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+898374,Gussy,Shaw,Human Resources,Y335.Department Name.Division Name.08,Marketing Assistant,2010-11-05,2010-11-05,149514.75,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+535456,Veronike,Foynes,Research and Development,S359.Department Name.Division Name.07,Programmer Analyst III,2007-02-05,2007-02-05,57527.73,F,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+597272,Brook,Wasielewski,Research and Development,R278.Department Name.Division Name.02,Environmental Tech,2009-11-12,2009-11-12,67171.64,M,Active Assignment,Parttime-Regular,Black or African American
+966929,Shepherd,Dellar,Product Management,V830.Department Name.Division Name.03,Sales Associate,2000-10-14,2000-10-14,106228.97,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+320851,Danita,Cowl,Business Development,D598.Department Name.Division Name.04,Financial Analyst,2015-02-27,2015-02-27,142082.59,F,Active Assignment,Fulltime-Regular,Black or African American
+473526,Rhetta,Anthill,Product Management,R712.Department Name.Division Name.06,Database Administrator II,2014-07-12,2014-07-12,135515.38,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+505670,Stanford,Dykins,Marketing,D116.Department Name.Division Name.09,Research Assistant II,2007-12-09,2007-12-09,149956.83,M,Active Assignment,Fulltime-Regular,White
+376128,Rosalind,Perrot,Research and Development,Z574.Department Name.Division Name.07,Office Assistant II,2009-10-28,2009-10-28,126272.96,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+542405,Ag,Matches,Legal,Y514.Department Name.Division Name.01,Statistician III,2003-09-19,2003-09-19,59319.83,F,Active Assignment,Parttime-Regular,Black or African American
+931759,Jacquenette,Nother,Accounting,I044.Department Name.Division Name.04,Chief Design Engineer,2015-01-26,2015-01-26,101160.86,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+587595,Jermaine,Cheater,Human Resources,M229.Department Name.Division Name.06,VP Sales,2009-02-03,2009-02-03,75927.74,M,Active Assignment,Fulltime-Temporary,Asian
+722912,Boonie,Iskower,Product Management,M878.Department Name.Division Name.03,Research Nurse,2001-11-07,2001-11-07,137024.74,M,Active Assignment,Fulltime-Regular,Black or African American
+783411,Audie,Honnicott,Training,G717.Department Name.Division Name.07,Engineer IV,2015-01-07,2015-01-07,44440.60,F,Active Assignment,Fulltime-Temporary,White
+330278,Rik,Dungate,Marketing,J426.Department Name.Division Name.02,Senior Sales Associate,2001-08-22,2001-08-22,74764.11,M,Active Assignment,Fulltime-Regular,Asian
+468419,Sybila,Olfert,Product Management,Y520.Department Name.Division Name.07,Nurse,2001-07-07,2001-07-07,67200.35,F,Active Assignment,Parttime-Regular,Black or African American
+468135,Edouard,Tregien,Training,J914.Department Name.Division Name.07,Sales Representative,2011-09-16,2011-09-16,112128.64,M,Active Assignment,Parttime-Regular,Asian
+211682,Olag,MacLaverty,Accounting,P605.Department Name.Division Name.07,Quality Engineer,2002-12-12,2002-12-12,120963.54,M,Active Assignment,Parttime-Regular,
+213748,Marco,Coslett,Engineering,J532.Department Name.Division Name.04,Director of Sales,2014-10-24,2014-10-24,92973.39,M,Active Assignment,Fulltime-Regular,Black or African American
+740139,Karyl,Gonzalo,Accounting,R115.Department Name.Division Name.05,Design Engineer,2012-11-01,2012-11-01,40627.84,F,Active Assignment,Parttime-Regular,Black or African American
+633913,Shaine,Latehouse,Accounting,L356.Department Name.Division Name.09,Environmental Specialist,2002-06-15,2002-06-15,54042.84,M,Active Assignment,Parttime-Regular,White
+819488,Kameko,Kielty,Business Development,Y136.Department Name.Division Name.07,Civil Engineer,2002-09-16,2002-09-16,51060.26,F,Active Assignment,Parttime-Regular,Black or African American
+529295,Neil,Child,Research and Development,A583.Department Name.Division Name.02,Executive Secretary,2002-05-17,2002-05-17,46859.57,M,Active Assignment,Parttime-Regular,Asian
+322840,Penn,Guillford,Training,N533.Department Name.Division Name.08,Business Systems Development Analyst,2015-03-30,2015-03-30,50583.90,M,Active Assignment,Fulltime-Regular,Asian
+402455,Brunhilde,Mordaunt,Research and Development,N503.Department Name.Division Name.03,Web Developer IV,2002-06-10,2002-06-10,100985.85,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+313202,Raleigh,Gorini,Research and Development,W501.Department Name.Division Name.00,Developer II,2009-11-06,2009-11-06,42405.31,M,Active Assignment,Parttime-Regular,Asian
+184509,Sky,Dicey,Accounting,P360.Department Name.Division Name.08,Programmer Analyst IV,2013-12-09,2013-12-09,63918.86,M,Active Assignment,Fulltime-Regular,Asian
+112547,Gertrud,De Vile,Product Management,K422.Department Name.Division Name.03,Desktop Support Technician,2013-06-18,2013-06-18,54756.39,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+210833,Robinett,Bernucci,Business Development,D041.Department Name.Division Name.02,Physical Therapy Assistant,2010-03-01,2010-03-01,110171.08,F,Active Assignment,Fulltime-Temporary,Black or African American
+424179,Ricardo,Suggitt,Accounting,J341.Department Name.Division Name.02,Marketing Manager,2004-09-13,2004-09-13,119000.50,M,Active Assignment,Parttime-Regular,White
+695866,Bar,Kops,Business Development,K568.Department Name.Division Name.02,Associate Professor,2002-02-12,2002-02-12,132072.44,M,Active Assignment,Fulltime-Regular,Black or African American
+934706,Dimitri,Gudge,Research and Development,D129.Department Name.Division Name.04,Information Systems Manager,2014-06-10,2014-06-10,125784.49,M,Active Assignment,Parttime-Regular,Asian
+808967,Lewie,Marshal,Business Development,G136.Department Name.Division Name.04,Senior Financial Analyst,2013-09-16,2013-09-16,52248.69,M,Active Assignment,Parttime-Regular,Asian
+951318,Glenda,Auckland,Support,Z051.Department Name.Division Name.03,Assistant Manager,2015-07-29,2015-07-29,98050.33,F,Active Assignment,Parttime-Regular,White
+666889,Cori,Hannon,Human Resources,D518.Department Name.Division Name.05,Software Test Engineer III,2003-05-26,2003-05-26,50773.29,F,Active Assignment,Parttime-Regular,Asian
+636322,Lorne,Brannigan,Engineering,D001.Department Name.Division Name.05,Automation Specialist II,2014-04-09,2014-04-09,82780.84,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+987978,Sibylle,Whyke,Accounting,P348.Department Name.Division Name.07,Project Manager,2017-02-11,2017-02-11,86351.09,F,Active Assignment,Parttime-Regular,Asian
+820272,Donaugh,Mapother,Legal,K368.Department Name.Division Name.09,Sales Associate,2007-02-02,2007-02-02,55465.81,M,Active Assignment,Fulltime-Regular,
+936071,Laurens,Stenners,Human Resources,C454.Department Name.Division Name.03,Legal Assistant,2001-08-06,2001-08-06,149968.19,M,Active Assignment,Fulltime-Regular,Black or African American
+480386,Randi,Gerhts,Marketing,W799.Department Name.Division Name.01,GIS Technical Architect,2010-11-30,2010-11-30,124899.19,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+779069,Jule,Torrans,Legal,W097.Department Name.Division Name.02,Software Engineer I,2005-01-25,2005-01-25,61229.19,M,Active Assignment,Parttime-Regular,Black or African American
+303985,Raquel,Hobson,Marketing,Q324.Department Name.Division Name.01,Compensation Analyst,2008-12-16,2008-12-16,127473.71,F,Active Assignment,Parttime-Regular,
+856156,Panchito,Regi,Engineering,F435.Department Name.Division Name.09,VP Quality Control,2007-04-13,2007-04-13,142032.55,M,Active Assignment,Parttime-Regular,Black or African American
+979795,Shelley,Phoebe,Training,W294.Department Name.Division Name.07,Safety Technician III,2010-12-11,2010-12-11,50102.24,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+810087,Blanca,Coppenhall,Marketing,H823.Department Name.Division Name.06,Marketing Manager,2013-03-27,2013-03-27,127425.80,F,Active Assignment,Fulltime-Regular,Asian
+467748,Jeane,O'Brogane,Product Management,O222.Department Name.Division Name.00,Software Test Engineer III,2013-02-11,2013-02-11,136189.01,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+904054,Quinn,Smardon,Legal,B743.Department Name.Division Name.02,Accounting Assistant I,2013-08-23,2013-08-23,69929.95,M,Active Assignment,Fulltime-Temporary,Black or African American
+371621,Carolynn,Laxtonne,Training,N923.Department Name.Division Name.06,Chemical Engineer,2015-08-20,2015-08-20,122073.72,F,Active Assignment,Parttime-Regular,Asian
+801483,Brandice,Anthonies,Human Resources,V193.Department Name.Division Name.01,Accounting Assistant IV,2005-06-25,2005-06-25,64683.48,F,Active Assignment,Fulltime-Temporary,Asian
+275945,Ilene,Martynov,Legal,Z033.Department Name.Division Name.09,Operator,2011-12-30,2011-12-30,101827.19,F,Active Assignment,Fulltime-Regular,Asian
+255023,Haily,Johannesson,Business Development,W094.Department Name.Division Name.03,Associate Professor,2015-06-09,2015-06-09,143589.48,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+595064,Niccolo,Meynell,Sales,N554.Department Name.Division Name.07,Media Manager IV,2008-10-26,2008-10-26,133781.43,M,Active Assignment,Fulltime-Temporary,Black or African American
+754624,Annmaria,Dreye,Marketing,T535.Department Name.Division Name.04,Programmer III,2010-06-12,2010-06-12,100116.61,F,Active Assignment,Fulltime-Temporary,
+386558,Dolf,Maddocks,Services,R001.Department Name.Division Name.07,Media Manager I,2004-07-11,2004-07-11,144753.54,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+429375,Ingamar,Charles,Engineering,E413.Department Name.Division Name.01,Analog Circuit Design manager,2010-02-10,2010-02-10,91439.61,M,Active Assignment,Fulltime-Temporary,Asian
+729389,Annabell,Schroter,Marketing,A138.Department Name.Division Name.03,Web Developer I,2004-01-06,2004-01-06,47480.75,F,Active Assignment,Fulltime-Temporary,Asian
+170261,Gerek,Thackston,Support,R263.Department Name.Division Name.01,Graphic Designer,2005-01-06,2005-01-06,144079.34,M,Active Assignment,Parttime-Regular,Asian
+710581,Sigvard,Clayden,Business Development,T840.Department Name.Division Name.08,Librarian,2001-10-11,2001-10-11,148479.51,M,Active Assignment,Parttime-Regular,Asian
+656822,Jacquelynn,Evequot,Training,P405.Department Name.Division Name.02,Engineer IV,2002-12-17,2002-12-17,140815.54,F,Active Assignment,Fulltime-Regular,Asian
+721296,Donnajean,Gery,Research and Development,Z661.Department Name.Division Name.09,Civil Engineer,2011-09-21,2011-09-21,127587.56,F,Active Assignment,Parttime-Regular,Black or African American
+446766,Jeremias,Abbatucci,Services,N661.Department Name.Division Name.09,Senior Cost Accountant,2015-01-17,2015-01-17,122248.56,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+228745,Robena,Reyes,Support,S902.Department Name.Division Name.03,Web Designer II,2001-02-22,2001-02-22,144341.43,F,Active Assignment,Fulltime-Temporary,Asian
+337794,Ernie,Ferson,Legal,R770.Department Name.Division Name.03,Accounting Assistant III,2003-12-26,2003-12-26,104850.13,M,Active Assignment,Fulltime-Regular,
+652422,Charline,Lubeck,Legal,E877.Department Name.Division Name.05,Human Resources Manager,2007-12-20,2007-12-20,58644.47,F,Active Assignment,Fulltime-Temporary,Black or African American
+179721,Ava,OIlier,Services,R428.Department Name.Division Name.03,Electrical Engineer,2013-07-05,2013-07-05,77473.35,F,Active Assignment,Fulltime-Regular,White
+715863,Aloin,Hansel,Sales,T814.Department Name.Division Name.03,Accounting Assistant III,2010-08-05,2010-08-05,105780.41,M,Active Assignment,Fulltime-Temporary,White
+964373,Briano,Aberkirder,Business Development,G903.Department Name.Division Name.08,Sales Associate,2001-05-06,2001-05-06,94828.47,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+872043,Ianthe,Mangion,Sales,Q983.Department Name.Division Name.06,General Manager,2001-03-14,2001-03-14,101010.93,F,Active Assignment,Fulltime-Temporary,American Indian or Alaskan Native
+249642,Leta,Coxon,Accounting,Q640.Department Name.Division Name.09,Electrical Engineer,2004-03-23,2004-03-23,142556.31,F,Active Assignment,Parttime-Regular,Black or African American
+527707,Hannie,Zimek,Engineering,K883.Department Name.Division Name.06,Human Resources Assistant IV,2006-07-06,2006-07-06,123460.22,F,Active Assignment,Fulltime-Temporary,Black or African American
+775515,Madelena,McGlashan,Training,A829.Department Name.Division Name.04,Compensation Analyst,2005-03-09,2005-03-09,90602.79,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+260153,Jolie,Ratcliff,Services,N838.Department Name.Division Name.05,Budget/Accounting Analyst I,2008-04-05,2008-04-05,44637.00,F,Active Assignment,Parttime-Regular,Asian
+622470,Dinah,Mangeot,Accounting,P761.Department Name.Division Name.05,Human Resources Manager,2011-08-22,2011-08-22,74432.40,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+354437,Katinka,Johns,Human Resources,E341.Department Name.Division Name.03,Developer IV,2006-02-05,2006-02-05,90850.61,F,Active Assignment,Fulltime-Temporary,Black or African American
+495166,Rachel,Carrivick,Services,U876.Department Name.Division Name.02,General Manager,2013-07-29,2013-07-29,135594.38,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+784778,Sandor,Throssell,Human Resources,Y516.Department Name.Division Name.06,Staff Accountant II,2011-10-12,2011-10-12,43689.83,M,Active Assignment,Fulltime-Regular,
+342707,Hi,Cheney,Engineering,H020.Department Name.Division Name.06,Sales Associate,2003-04-12,2003-04-12,56784.24,M,Active Assignment,Fulltime-Regular,Black or African American
+739135,Gran,Exer,Accounting,O581.Department Name.Division Name.05,GIS Technical Architect,2015-09-19,2015-09-19,142734.95,M,Active Assignment,Fulltime-Regular,Black or African American
+440309,Gustie,Luparti,Business Development,G655.Department Name.Division Name.02,Human Resources Assistant I,2004-06-17,2004-06-17,94173.03,F,Active Assignment,Fulltime-Temporary,Black or African American
+895610,Eveline,Ridings,Engineering,E175.Department Name.Division Name.08,Nurse,2014-04-09,2014-04-09,59674.52,F,Active Assignment,Fulltime-Temporary,Black or African American
+143562,Seth,Souness,Human Resources,Z173.Department Name.Division Name.04,Legal Assistant,2016-05-18,2016-05-18,138878.79,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+527189,Marie-jeanne,O'Corrin,Accounting,G725.Department Name.Division Name.03,Assistant Manager,2012-10-26,2012-10-26,40421.63,F,Active Assignment,Fulltime-Temporary,White
+735812,Rainer,Large,Human Resources,J022.Department Name.Division Name.02,VP Product Management,2016-02-22,2016-02-22,45961.32,M,Active Assignment,Parttime-Regular,Asian
+199169,Mitchael,Bell,Engineering,A793.Department Name.Division Name.06,Paralegal,2016-05-27,2016-05-27,73126.16,M,Active Assignment,Parttime-Regular,Black or African American
+725310,Early,Dowthwaite,Legal,Y478.Department Name.Division Name.04,Project Manager,2016-03-29,2016-03-29,102326.05,M,Active Assignment,Fulltime-Regular,Asian
+989973,Mavis,Coils,Legal,N213.Department Name.Division Name.00,Environmental Tech,2014-04-27,2014-04-27,65764.21,F,Active Assignment,Parttime-Regular,Black or African American
+104144,Zach,Shafto,Legal,G521.Department Name.Division Name.02,Assistant Manager,2017-04-18,2017-04-18,147251.48,M,Active Assignment,Fulltime-Regular,
+984548,Leontine,Cartmer,Research and Development,N636.Department Name.Division Name.01,Human Resources Assistant III,2007-12-27,2007-12-27,109036.17,F,Active Assignment,Fulltime-Temporary,Black or African American
+633939,Marga,Pohl,Business Development,Z038.Department Name.Division Name.06,Nurse,2005-08-08,2005-08-08,120425.35,F,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+344246,Amabelle,MacNulty,Human Resources,H854.Department Name.Division Name.05,Recruiter,2004-06-28,2004-06-28,44888.65,F,Active Assignment,Fulltime-Temporary,Black or African American
+815566,Rivi,Raund,Business Development,H514.Department Name.Division Name.08,Accounting Assistant II,2012-11-11,2012-11-11,124818.93,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+326623,Bern,Creffeild,Engineering,U347.Department Name.Division Name.01,Database Administrator II,2008-02-14,2008-02-14,96190.04,M,Active Assignment,Fulltime-Regular,Asian
+372642,Demetris,Hessentaler,Research and Development,Q520.Department Name.Division Name.02,VP Quality Control,2013-08-17,2013-08-17,90268.41,F,Active Assignment,Fulltime-Temporary,Black or African American
+576422,Betta,Hanretty,Accounting,H603.Department Name.Division Name.07,Accountant III,2002-09-01,2002-09-01,138663.97,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+328980,Gauthier,Louys,Marketing,L407.Department Name.Division Name.01,Dental Hygienist,2012-05-02,2012-05-02,74142.61,M,Active Assignment,Fulltime-Temporary,
+554723,Kelsi,Maxweell,Product Management,E911.Department Name.Division Name.06,Chief Design Engineer,2014-11-09,2014-11-09,115694.49,F,Active Assignment,Fulltime-Regular,White
+951017,Bart,Vidineev,Human Resources,K173.Department Name.Division Name.00,Nurse,2008-10-01,2008-10-01,104251.52,M,Active Assignment,Fulltime-Temporary,
+129162,Quintana,Gonnard,Research and Development,I802.Department Name.Division Name.02,Senior Cost Accountant,2008-10-03,2008-10-03,132851.83,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+865373,Lisbeth,Casa,Sales,V225.Department Name.Division Name.08,Clinical Specialist,2011-06-12,2011-06-12,92924.09,F,Active Assignment,Parttime-Regular,White
+177781,Matteo,Torresi,Research and Development,M681.Department Name.Division Name.07,Account Executive,2006-03-17,2006-03-17,53140.12,M,Active Assignment,Fulltime-Temporary,
+551008,Ricki,Sudy,Business Development,C195.Department Name.Division Name.03,Director of Sales,2015-05-29,2015-05-29,52832.24,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+723467,Codi,Oldcote,Business Development,Q981.Department Name.Division Name.07,Programmer Analyst II,2002-09-24,2002-09-24,88147.97,M,Active Assignment,Fulltime-Regular,Black or African American
+747032,Gwyn,Leadbeater,Product Management,C944.Department Name.Division Name.06,Paralegal,2007-05-21,2007-05-21,71222.95,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+866881,Megan,Dubarry,Accounting,J361.Department Name.Division Name.07,Administrative Officer,2008-11-24,2008-11-24,105384.06,F,Active Assignment,Parttime-Regular,Black or African American
+906115,Stanislas,Lipgens,Business Development,T370.Department Name.Division Name.03,Librarian,2016-10-21,2016-10-21,144509.76,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+463107,Elva,Le Noire,Business Development,J764.Department Name.Division Name.00,Budget/Accounting Analyst II,2004-06-15,2004-06-15,50738.30,F,Active Assignment,Fulltime-Regular,Asian
+601006,Bambie,Stidworthy,Engineering,P200.Department Name.Division Name.01,GIS Technical Architect,2004-02-03,2004-02-03,124119.72,F,Active Assignment,Parttime-Regular,
+346743,Luciana,Ferreri,Marketing,U620.Department Name.Division Name.02,VP Quality Control,2002-03-12,2002-03-12,97726.22,F,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+718267,Bail,Almeida,Training,I490.Department Name.Division Name.02,Developer II,2012-01-10,2012-01-10,56716.41,M,Active Assignment,Parttime-Regular,Black or African American
+998581,Brett,Breinlein,Legal,I438.Department Name.Division Name.04,Electrical Engineer,2009-08-15,2009-08-15,111298.97,F,Active Assignment,Parttime-Regular,Asian
+990018,Rodd,Bownes,Accounting,E329.Department Name.Division Name.08,Senior Sales Associate,2001-05-24,2001-05-24,70278.19,M,Active Assignment,Parttime-Regular,
+612660,Frederick,Taaffe,Support,Z943.Department Name.Division Name.00,Nurse,2009-11-25,2009-11-25,83538.99,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+177037,Cooper,Yurasov,Marketing,O991.Department Name.Division Name.09,Data Coordiator,2004-10-04,2004-10-04,57716.64,M,Active Assignment,Fulltime-Regular,Black or African American
+294437,Clyde,Bulman,Support,Z970.Department Name.Division Name.07,VP Product Management,2008-03-18,2008-03-18,75032.30,M,Active Assignment,Parttime-Regular,Black or African American
+268828,Zak,Senton,Support,L079.Department Name.Division Name.03,Electrical Engineer,2013-07-31,2013-07-31,95960.97,M,Active Assignment,Parttime-Regular,White
+507574,Shay,St. Leger,Human Resources,X369.Department Name.Division Name.03,Marketing Assistant,2011-05-30,2011-05-30,85572.59,M,Active Assignment,Fulltime-Regular,White
+862367,Caprice,Duggon,Product Management,V417.Department Name.Division Name.09,Assistant Manager,2009-11-19,2009-11-19,44562.01,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+577463,Giusto,Santer,Services,N023.Department Name.Division Name.05,Assistant Manager,2008-09-20,2008-09-20,48845.67,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+744568,Garfield,Gillitt,Support,Q863.Department Name.Division Name.03,Director of Sales,2013-05-08,2013-05-08,131432.34,M,Active Assignment,Fulltime-Temporary,White
+670487,Ignaz,Tilston,Sales,W048.Department Name.Division Name.09,VP Quality Control,2014-12-11,2014-12-11,75060.07,M,Active Assignment,Parttime-Regular,White
+955483,Betteanne,Nowaczyk,Accounting,I407.Department Name.Division Name.04,Environmental Specialist,2011-04-23,2011-04-23,141407.70,F,Active Assignment,Parttime-Regular,White
+228980,Fitzgerald,Checcuzzi,Sales,N359.Department Name.Division Name.02,Project Manager,2002-06-30,2002-06-30,63645.04,M,Active Assignment,Parttime-Regular,Black or African American
+365135,Ingamar,Lieb,Research and Development,Y131.Department Name.Division Name.05,Media Manager III,2017-04-27,2017-04-27,131976.95,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+277524,Jackie,Stanning,Support,I309.Department Name.Division Name.06,Human Resources Assistant III,2013-05-21,2013-05-21,127352.14,M,Active Assignment,Fulltime-Regular,White
+363562,Maxy,Danniel,Training,K817.Department Name.Division Name.05,Legal Assistant,2008-01-12,2008-01-12,116779.37,F,Active Assignment,Parttime-Regular,Asian
+540224,Keefer,Giacomo,Marketing,Z870.Department Name.Division Name.07,Geological Engineer,2006-10-26,2006-10-26,60988.50,M,Active Assignment,Fulltime-Regular,White
+226549,Caresa,Vinter,Services,O967.Department Name.Division Name.04,Accounting Assistant I,2005-01-24,2005-01-24,115259.30,F,Active Assignment,Fulltime-Regular,
+401594,Brennan,Abdon,Product Management,S864.Department Name.Division Name.09,Accountant I,2016-02-18,2016-02-18,57869.24,M,Active Assignment,Parttime-Regular,Black or African American
+335330,Addie,O'Keeffe,Support,J566.Department Name.Division Name.08,Research Nurse,2013-09-29,2013-09-29,128535.42,M,Active Assignment,Fulltime-Regular,White
+387040,Theo,De La Cote,Training,L096.Department Name.Division Name.03,Dental Hygienist,2002-12-09,2002-12-09,112446.40,F,Active Assignment,Fulltime-Temporary,Black or African American
+976536,Garth,Andretti,Services,C506.Department Name.Division Name.02,Accountant III,2014-04-30,2014-04-30,86539.05,M,Active Assignment,Fulltime-Temporary,Asian
+736051,Dewain,Gerardi,Marketing,E964.Department Name.Division Name.07,Office Assistant II,2014-02-05,2014-02-05,76423.98,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+675454,Waite,Valens-Smith,Business Development,B487.Department Name.Division Name.01,Structural Engineer,2000-09-30,2000-09-30,67873.15,M,Active Assignment,Fulltime-Regular,Asian
+319537,Jilli,Housbey,Marketing,A768.Department Name.Division Name.01,Web Developer IV,2015-01-10,2015-01-10,85965.84,F,Active Assignment,Fulltime-Temporary,White
+520855,Heath,Buddell,Services,O467.Department Name.Division Name.03,Compensation Analyst,2014-02-07,2014-02-07,90237.45,F,Active Assignment,Fulltime-Regular,Black or African American
+226567,Mortie,Cakebread,Marketing,A341.Department Name.Division Name.01,Cost Accountant,2014-03-13,2014-03-13,65072.03,M,Active Assignment,Parttime-Regular,Black or African American
+297419,Halsy,Grimolbie,Marketing,K285.Department Name.Division Name.00,Payment Adjustment Coordinator,2009-06-18,2009-06-18,140439.66,M,Active Assignment,Parttime-Regular,Asian
+258768,Quincey,Vanes,Training,U317.Department Name.Division Name.03,Chemical Engineer,2013-09-22,2013-09-22,111427.44,M,Active Assignment,Parttime-Regular,Asian
+370932,Hermia,Krystek,Marketing,D752.Department Name.Division Name.06,Structural Engineer,2016-02-17,2016-02-17,91215.11,F,Active Assignment,Parttime-Regular,White
+610038,Kahlil,Francescuzzi,Training,N107.Department Name.Division Name.00,Librarian,2016-04-07,2016-04-07,90936.43,M,Active Assignment,Parttime-Regular,Asian
+461579,Davida,Doncaster,Support,D336.Department Name.Division Name.09,Desktop Support Technician,2010-02-04,2010-02-04,92699.98,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+281681,Lek,Colenutt,Business Development,R860.Department Name.Division Name.08,Graphic Designer,2005-04-22,2005-04-22,149720.79,M,Active Assignment,Parttime-Regular,White
+349215,Iain,Krysztofiak,Human Resources,S329.Department Name.Division Name.07,Sales Representative,2011-11-06,2011-11-06,70119.15,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+176925,Cathrine,Test,Support,V555.Department Name.Division Name.08,Biostatistician I,2012-11-17,2012-11-17,40865.44,F,Active Assignment,Parttime-Regular,Asian
+493309,Reilly,Jaye,Support,X351.Department Name.Division Name.02,Executive Secretary,2007-09-01,2007-09-01,121312.55,M,Active Assignment,Fulltime-Temporary,Black or African American
+111025,Frank,Points,Product Management,X937.Department Name.Division Name.05,Senior Editor,2011-12-15,2011-12-15,132264.66,F,Active Assignment,Fulltime-Temporary,Black or African American
+716447,Chad,Fritchly,Sales,N546.Department Name.Division Name.04,Marketing Assistant,2001-08-12,2001-08-12,88019.27,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+863157,Arni,Weekland,Human Resources,K640.Department Name.Division Name.03,Web Developer III,2008-11-15,2008-11-15,99978.83,M,Active Assignment,Parttime-Regular,Black or African American
+881683,Craig,Heap,Marketing,J122.Department Name.Division Name.02,Geological Engineer,2002-04-13,2002-04-13,67898.05,M,Active Assignment,Fulltime-Regular,Asian
+659668,Jany,Cashen,Legal,N201.Department Name.Division Name.04,Paralegal,2014-07-05,2014-07-05,49725.02,F,Active Assignment,Parttime-Regular,Black or African American
+148577,Jilli,Ellingford,Support,P644.Department Name.Division Name.06,Teacher,2003-12-08,2003-12-08,109888.82,F,Active Assignment,Parttime-Regular,Asian
+750816,Jacqui,Lardez,Human Resources,U884.Department Name.Division Name.06,Civil Engineer,2017-01-02,2017-01-02,62561.89,F,Active Assignment,Fulltime-Temporary,White
+754430,Karel,Hallas,Services,R295.Department Name.Division Name.02,VP Quality Control,2007-01-16,2007-01-16,97070.91,F,Active Assignment,Parttime-Regular,Black or African American
+302622,Jacquette,Jaggi,Accounting,R068.Department Name.Division Name.05,Sales Associate,2012-07-20,2012-07-20,135486.08,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+538844,Leodora,Iggulden,Business Development,H258.Department Name.Division Name.09,Biostatistician IV,2000-12-06,2000-12-06,52365.44,F,Active Assignment,Parttime-Regular,Black or African American
+470216,Freida,Hutcheon,Accounting,K947.Department Name.Division Name.01,Administrative Assistant IV,2012-03-10,2012-03-10,149912.72,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+530799,Jessy,Cockell,Support,U940.Department Name.Division Name.05,Paralegal,2009-05-09,2009-05-09,143869.98,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+465696,Dudley,Plowes,Accounting,Z337.Department Name.Division Name.07,Office Assistant III,2002-01-28,2002-01-28,45266.32,M,Active Assignment,Fulltime-Temporary,Black or African American
+714907,Arlyn,MacAlinden,Marketing,K977.Department Name.Division Name.04,Senior Financial Analyst,2010-11-26,2010-11-26,147685.82,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+221805,Jdavie,Vuitte,Sales,P725.Department Name.Division Name.03,Payment Adjustment Coordinator,2008-06-05,2008-06-05,46135.92,M,Active Assignment,Fulltime-Temporary,Black or African American
+589111,Deana,Alves,Business Development,Y724.Department Name.Division Name.03,Senior Cost Accountant,2014-02-28,2014-02-28,78918.86,F,Active Assignment,Parttime-Regular,Black or African American
+405861,Jacob,L' Estrange,Human Resources,N754.Department Name.Division Name.03,Structural Analysis Engineer,2001-07-19,2001-07-19,87628.36,M,Active Assignment,Parttime-Regular,Black or African American
+264621,Geneva,Hayton,Services,A935.Department Name.Division Name.07,Data Coordiator,2011-09-07,2011-09-07,132861.41,F,Active Assignment,Fulltime-Regular,Asian
+659474,Marv,Duckit,Product Management,I639.Department Name.Division Name.04,Food Chemist,2017-02-21,2017-02-21,89590.43,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+263446,Riordan,Brymham,Services,R030.Department Name.Division Name.08,Engineer II,2002-12-03,2002-12-03,88848.28,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+473260,Gilbertine,Zini,Research and Development,V661.Department Name.Division Name.00,Geological Engineer,2013-11-06,2013-11-06,110246.23,F,Active Assignment,Parttime-Regular,Black or African American
+597668,Marja,Newbold,Marketing,X116.Department Name.Division Name.07,Internal Auditor,2007-02-06,2007-02-06,58716.21,F,Active Assignment,Fulltime-Regular,Black or African American
+326348,Broddy,Culshew,Training,X734.Department Name.Division Name.04,Quality Control Specialist,2017-02-10,2017-02-10,45195.19,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+742217,Marvin,Huller,Support,M425.Department Name.Division Name.07,Executive Secretary,2005-01-20,2005-01-20,90564.85,M,Active Assignment,Fulltime-Regular,Asian
+651982,Krystalle,Tring,Human Resources,S260.Department Name.Division Name.02,Software Test Engineer II,2005-08-31,2005-08-31,102874.43,F,Active Assignment,Parttime-Regular,
+392362,Martie,Willatt,Training,H521.Department Name.Division Name.07,Dental Hygienist,2009-03-27,2009-03-27,75535.97,M,Active Assignment,Parttime-Regular,Asian
+250628,Enrique,Laneham,Business Development,L834.Department Name.Division Name.07,Recruiting Manager,2008-10-04,2008-10-04,96992.00,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+101946,Amery,Beardsworth,Engineering,V577.Department Name.Division Name.01,Recruiting Manager,2014-01-29,2014-01-29,107514.77,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+887930,Torie,Lampart,Engineering,V472.Department Name.Division Name.02,Actuary,2016-06-14,2016-06-14,46522.92,F,Active Assignment,Fulltime-Temporary,
+360179,Lilian,Arnley,Support,D587.Department Name.Division Name.02,Food Chemist,2000-11-11,2000-11-11,87891.12,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+626910,Lanny,Tregidgo,Legal,N547.Department Name.Division Name.03,Developer II,2009-11-29,2009-11-29,94955.94,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+126814,Ashia,Zammitt,Legal,K142.Department Name.Division Name.03,Automation Specialist I,2014-12-01,2014-12-01,67503.86,F,Active Assignment,Fulltime-Regular,Black or African American
+483761,Dara,Batistelli,Research and Development,Y598.Department Name.Division Name.04,Nurse Practicioner,2009-11-25,2009-11-25,148357.92,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+928046,Torr,Baumadier,Human Resources,A867.Department Name.Division Name.01,VP Product Management,2017-03-25,2017-03-25,98881.42,M,Active Assignment,Parttime-Regular,Asian
+637482,Gherardo,Neeves,Accounting,N362.Department Name.Division Name.02,Senior Developer,2007-01-12,2007-01-12,123940.05,M,Active Assignment,Fulltime-Temporary,Black or African American
+816655,Dina,Kelf,Product Management,Q046.Department Name.Division Name.06,Graphic Designer,2010-06-08,2010-06-08,97405.42,F,Active Assignment,Fulltime-Regular,Black or African American
+256814,Humbert,MacGillreich,Research and Development,N117.Department Name.Division Name.01,Librarian,2015-01-24,2015-01-24,60133.81,M,Active Assignment,Fulltime-Temporary,
+236798,Linet,Le Marchant,Human Resources,P297.Department Name.Division Name.06,Research Nurse,2004-06-14,2004-06-14,112926.73,F,Active Assignment,Fulltime-Regular,Black or African American
+196252,Christie,Gravy,Human Resources,Y583.Department Name.Division Name.09,Computer Systems Analyst I,2006-02-21,2006-02-21,89557.46,M,Active Assignment,Fulltime-Regular,
+539450,Alistair,Hauxby,Support,G694.Department Name.Division Name.00,Legal Assistant,2002-11-23,2002-11-23,63198.40,M,Active Assignment,Fulltime-Regular,Asian
+892211,Shelley,Orsi,Product Management,G913.Department Name.Division Name.02,Executive Secretary,2002-01-07,2002-01-07,93787.11,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+485588,Hermine,Frye,Engineering,O529.Department Name.Division Name.00,Pharmacist,2006-04-19,2006-04-19,90887.91,F,Active Assignment,Fulltime-Regular,White
+556555,Auria,Tongue,Human Resources,N565.Department Name.Division Name.01,Chief Design Engineer,2016-12-07,2016-12-07,59336.84,F,Active Assignment,Fulltime-Temporary,Asian
+829133,Randolph,Pidon,Training,N652.Department Name.Division Name.07,Financial Advisor,2015-12-25,2015-12-25,91025.85,M,Active Assignment,Parttime-Regular,
+445633,Avrom,Draayer,Training,Y633.Department Name.Division Name.09,Social Worker,2007-01-27,2007-01-27,124433.53,M,Active Assignment,Fulltime-Temporary,Black or African American
+990133,Corena,McKibben,Research and Development,N704.Department Name.Division Name.05,Database Administrator IV,2013-12-02,2013-12-02,108212.00,F,Active Assignment,Fulltime-Temporary,Asian
+853580,Consuela,Skipsey,Legal,L042.Department Name.Division Name.07,Accounting Assistant I,2000-09-10,2000-09-10,134260.45,F,Active Assignment,Fulltime-Temporary,Asian
+235970,Erastus,Chaperling,Human Resources,C690.Department Name.Division Name.04,Nuclear Power Engineer,2015-04-30,2015-04-30,137245.42,M,Active Assignment,Parttime-Regular,Black or African American
+190808,Ronald,Bodimeade,Engineering,Q862.Department Name.Division Name.06,Project Manager,2011-02-08,2011-02-08,67786.88,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+783505,Cazzie,Hurling,Engineering,S429.Department Name.Division Name.04,Software Consultant,2004-10-23,2004-10-23,74005.66,M,Active Assignment,Parttime-Regular,Asian
+972527,Hubie,Plaistowe,Legal,K106.Department Name.Division Name.00,Analyst Programmer,2006-08-25,2006-08-25,51401.30,M,Active Assignment,Fulltime-Temporary,Black or African American
+317939,Leontine,Cranidge,Human Resources,E423.Department Name.Division Name.08,Media Manager IV,2007-06-25,2007-06-25,138192.14,F,Active Assignment,Parttime-Regular,White
+542261,Jilleen,Shore,Business Development,C732.Department Name.Division Name.04,Web Designer III,2015-08-30,2015-08-30,144852.48,F,Active Assignment,Fulltime-Regular,Asian
+238241,Florrie,Chitham,Legal,N524.Department Name.Division Name.01,Engineer IV,2002-06-10,2002-06-10,57118.32,F,Active Assignment,Fulltime-Temporary,Black or African American
+998221,Celinda,Hellings,Accounting,R763.Department Name.Division Name.03,Analyst Programmer,2017-05-13,2017-05-13,50157.77,F,Active Assignment,Fulltime-Temporary,
+691332,Audrey,Holbury,Accounting,Q142.Department Name.Division Name.09,Legal Assistant,2013-06-02,2013-06-02,118710.43,F,Active Assignment,Fulltime-Regular,Black or African American
+110369,Husein,Romero,Accounting,I090.Department Name.Division Name.06,Tax Accountant,2016-10-05,2016-10-05,114042.19,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+392709,Nefen,Mion,Product Management,L510.Department Name.Division Name.02,Project Manager,2001-06-04,2001-06-04,148256.21,M,Active Assignment,Fulltime-Temporary,Black or African American
+374232,Fannie,Bleythin,Human Resources,F361.Department Name.Division Name.07,Clinical Specialist,2000-07-07,2000-07-07,137853.61,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+978645,Olivero,Prandoni,Human Resources,C857.Department Name.Division Name.06,Technical Writer,2008-11-08,2008-11-08,146404.37,M,Active Assignment,Fulltime-Regular,White
+468489,Gwendolen,Devote,Services,T467.Department Name.Division Name.03,Editor,2007-03-08,2007-03-08,66405.77,F,Active Assignment,Parttime-Regular,White
+781017,Brenda,Thandi,Human Resources,C710.Department Name.Division Name.01,Recruiter,2006-02-18,2006-02-18,77818.63,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+594308,Gertruda,Aviss,Sales,H936.Department Name.Division Name.05,Structural Engineer,2007-06-24,2007-06-24,132771.34,F,Active Assignment,Parttime-Regular,Black or African American
+401577,Brandice,Orniz,Product Management,G022.Department Name.Division Name.05,Research Associate,2005-05-09,2005-05-09,73000.22,F,Active Assignment,Fulltime-Temporary,Black or African American
+609453,Silvana,Jonsson,Services,O429.Department Name.Division Name.08,Human Resources Manager,2003-02-08,2003-02-08,42022.05,F,Active Assignment,Parttime-Regular,Black or African American
+962730,Banky,Francescotti,Research and Development,X188.Department Name.Division Name.08,Research Assistant IV,2003-10-05,2003-10-05,72963.87,M,Active Assignment,Fulltime-Regular,
+359491,Pennie,Le Sarr,Sales,R639.Department Name.Division Name.02,Professor,2003-12-02,2003-12-02,135171.87,F,Active Assignment,Fulltime-Regular,Black or African American
+705915,Clemmie,McTrusty,Research and Development,R771.Department Name.Division Name.01,Registered Nurse,2002-12-10,2002-12-10,96235.71,M,Active Assignment,Fulltime-Regular,White
+912806,Irene,Briddock,Sales,D126.Department Name.Division Name.00,Civil Engineer,2013-10-18,2013-10-18,111127.94,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+521678,Ced,Skillen,Legal,A415.Department Name.Division Name.07,Web Designer IV,2009-06-02,2009-06-02,94309.58,M,Active Assignment,Fulltime-Regular,
+422159,Elisabeth,Ventura,Sales,B796.Department Name.Division Name.01,GIS Technical Architect,2016-10-14,2016-10-14,125939.15,F,Active Assignment,Fulltime-Temporary,Black or African American
+571449,Jarret,Giddy,Sales,I966.Department Name.Division Name.03,Senior Cost Accountant,2011-01-19,2011-01-19,139541.95,M,Active Assignment,Fulltime-Temporary,Black or African American
+660395,Isador,Chene,Research and Development,K536.Department Name.Division Name.06,Junior Executive,2011-03-11,2011-03-11,48503.42,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+157101,Ina,McClurg,Marketing,F152.Department Name.Division Name.00,Structural Analysis Engineer,2014-09-30,2014-09-30,101309.84,F,Active Assignment,Fulltime-Regular,Black or African American
+509038,Keely,Whaites,Engineering,Q029.Department Name.Division Name.03,VP Marketing,2011-02-14,2011-02-14,123224.58,F,Active Assignment,Parttime-Regular,Asian
+190067,Frants,MacMeekan,Business Development,L066.Department Name.Division Name.09,Financial Analyst,2010-09-04,2010-09-04,141715.32,M,Active Assignment,Fulltime-Regular,
+503692,Claiborne,Eliyahu,Human Resources,O941.Department Name.Division Name.03,Desktop Support Technician,2005-03-25,2005-03-25,54235.30,M,Active Assignment,Fulltime-Temporary,
+839151,Tomas,Feasby,Research and Development,T653.Department Name.Division Name.05,Marketing Assistant,2014-12-19,2014-12-19,81782.40,M,Active Assignment,Fulltime-Regular,Asian
+833243,Teador,Lawrenson,Marketing,B563.Department Name.Division Name.03,Technical Writer,2004-04-18,2004-04-18,110511.57,M,Active Assignment,Parttime-Regular,Asian
+725262,Gisela,McCraw,Legal,G898.Department Name.Division Name.08,Operator,2003-10-07,2003-10-07,44702.91,F,Active Assignment,Fulltime-Temporary,Black or African American
+573649,Linoel,Groundwater,Accounting,U444.Department Name.Division Name.04,Community Outreach Specialist,2002-08-06,2002-08-06,139474.99,M,Active Assignment,Fulltime-Temporary,Black or African American
+877831,Hendrick,De Rechter,Human Resources,S372.Department Name.Division Name.06,Civil Engineer,2005-02-25,2005-02-25,148952.80,M,Active Assignment,Fulltime-Temporary,Asian
+232738,Drake,Kasher,Research and Development,E811.Department Name.Division Name.01,Administrative Assistant I,2013-09-03,2013-09-03,66024.68,M,Active Assignment,Fulltime-Regular,Black or African American
+199047,Mahala,Vinick,Marketing,E822.Department Name.Division Name.05,Marketing Assistant,2010-06-01,2010-06-01,98709.90,F,Active Assignment,Parttime-Regular,Black or African American
+306010,Mack,McCluskey,Marketing,T007.Department Name.Division Name.02,Director of Sales,2004-04-23,2004-04-23,117048.50,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+920447,Bowie,Hayers,Engineering,V840.Department Name.Division Name.07,Nuclear Power Engineer,2011-06-12,2011-06-12,71009.79,M,Active Assignment,Parttime-Regular,Black or African American
+722430,Morton,Boyett,Marketing,L435.Department Name.Division Name.02,Project Manager,2013-01-13,2013-01-13,76585.55,M,Active Assignment,Parttime-Regular,
+673466,Timothee,Popeley,Research and Development,D917.Department Name.Division Name.09,Sales Associate,2013-02-05,2013-02-05,46053.41,M,Active Assignment,Fulltime-Regular,Asian
+316673,Cortie,Harbison,Business Development,O399.Department Name.Division Name.04,Analyst Programmer,2017-03-18,2017-03-18,90620.07,M,Active Assignment,Fulltime-Regular,
+363970,Gabbey,Dowdeswell,Human Resources,A346.Department Name.Division Name.09,Financial Analyst,2000-08-02,2000-08-02,148048.13,F,Active Assignment,Fulltime-Temporary,Black or African American
+502740,Alfi,Glanfield,Product Management,E613.Department Name.Division Name.00,Community Outreach Specialist,2004-03-13,2004-03-13,139810.73,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+738525,Iona,Rastrick,Legal,E930.Department Name.Division Name.06,VP Marketing,2010-01-25,2010-01-25,117726.21,F,Active Assignment,Parttime-Regular,Asian
+672794,Sorcha,Shelborne,Legal,F260.Department Name.Division Name.08,Recruiting Manager,2017-03-12,2017-03-12,109838.04,F,Active Assignment,Parttime-Regular,White
+684564,Padget,Cullnean,Engineering,L621.Department Name.Division Name.06,Research Associate,2016-09-29,2016-09-29,67167.44,M,Active Assignment,Fulltime-Temporary,White
+348111,Winifred,Vasquez,Engineering,Z280.Department Name.Division Name.08,Business Systems Development Analyst,2012-06-14,2012-06-14,99617.71,F,Active Assignment,Parttime-Regular,Black or African American
+295216,Butch,Tuplin,Legal,G206.Department Name.Division Name.00,Project Manager,2015-04-05,2015-04-05,79952.58,M,Active Assignment,Parttime-Regular,Asian
+505447,Cristy,Bainton,Human Resources,Y926.Department Name.Division Name.05,Pharmacist,2002-01-12,2002-01-12,68638.31,F,Active Assignment,Parttime-Regular,Asian
+756611,Idaline,Aldis,Accounting,B943.Department Name.Division Name.05,VP Sales,2006-03-02,2006-03-02,78684.05,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+724633,Nikolai,Marfield,Training,M003.Department Name.Division Name.03,Assistant Professor,2012-08-21,2012-08-21,142265.98,M,Active Assignment,Parttime-Regular,White
+737777,Dreddy,Terron,Services,V142.Department Name.Division Name.07,VP Accounting,2002-12-12,2002-12-12,89191.01,F,Active Assignment,Parttime-Regular,Black or African American
+707821,Cecilla,Herche,Legal,D797.Department Name.Division Name.08,Analog Circuit Design manager,2005-08-19,2005-08-19,141503.47,F,Active Assignment,Parttime-Regular,Black or African American
+642456,Phaedra,Stuer,Sales,D239.Department Name.Division Name.06,Programmer II,2003-12-30,2003-12-30,58772.84,F,Active Assignment,Fulltime-Regular,White
+285963,Joli,Sreenan,Marketing,S959.Department Name.Division Name.02,Senior Developer,2010-04-06,2010-04-06,46104.53,F,Active Assignment,Parttime-Regular,Asian
+831572,Pearl,Tschirschky,Sales,B166.Department Name.Division Name.07,Design Engineer,2003-12-25,2003-12-25,43339.24,F,Active Assignment,Parttime-Regular,Black or African American
+902137,Bobbette,Philippeaux,Legal,S369.Department Name.Division Name.05,Research Assistant II,2010-09-09,2010-09-09,73556.14,F,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+148214,Gilli,Lomb,Product Management,O816.Department Name.Division Name.04,Civil Engineer,2014-10-25,2014-10-25,62480.12,F,Active Assignment,Fulltime-Temporary,White
+326896,Rayna,Jeannenet,Human Resources,S756.Department Name.Division Name.01,Business Systems Development Analyst,2013-05-24,2013-05-24,70094.83,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+919407,Legra,Fogarty,Human Resources,R413.Department Name.Division Name.03,Systems Administrator II,2014-10-05,2014-10-05,68992.90,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+184588,Cecily,Braybrooke,Sales,I735.Department Name.Division Name.03,Teacher,2001-02-27,2001-02-27,81322.85,F,Active Assignment,Fulltime-Temporary,Asian
+427330,Gabbie,Potier,Human Resources,V171.Department Name.Division Name.03,Budget/Accounting Analyst IV,2010-11-15,2010-11-15,148238.21,M,Active Assignment,Fulltime-Temporary,Black or African American
+859929,Mandy,Abrahamsohn,Sales,L721.Department Name.Division Name.06,Structural Engineer,2007-10-30,2007-10-30,69732.62,F,Active Assignment,Parttime-Regular,White
+711538,Sherman,Surgood,Engineering,Q419.Department Name.Division Name.07,Chief Design Engineer,2015-10-24,2015-10-24,64860.22,M,Active Assignment,Parttime-Regular,Black or African American
+277101,Lila,Tisor,Human Resources,T688.Department Name.Division Name.00,Technical Writer,2005-10-17,2005-10-17,133045.98,F,Active Assignment,Fulltime-Regular,Asian
+321026,Micheil,Esom,Support,L224.Department Name.Division Name.04,Analyst Programmer,2004-01-29,2004-01-29,142463.83,M,Active Assignment,Fulltime-Regular,White
+494014,Rahal,Cothey,Legal,O838.Department Name.Division Name.00,Assistant Manager,2009-07-24,2009-07-24,138718.75,F,Active Assignment,Fulltime-Regular,Black or African American
+770902,Francisca,Threader,Legal,G440.Department Name.Division Name.03,Software Consultant,2001-02-27,2001-02-27,125324.89,F,Active Assignment,Parttime-Regular,Asian
+445071,Corrie,Beglin,Training,A091.Department Name.Division Name.00,Software Test Engineer I,2004-02-16,2004-02-16,106360.33,M,Active Assignment,Fulltime-Regular,Black or African American
+919057,Randee,Britten,Product Management,U629.Department Name.Division Name.06,Computer Systems Analyst I,2016-07-22,2016-07-22,43190.02,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+465530,Zach,Giffaut,Sales,Z145.Department Name.Division Name.01,GIS Technical Architect,2007-03-21,2007-03-21,133219.47,M,Active Assignment,Fulltime-Temporary,Asian
+407553,Doris,Stichel,Legal,C661.Department Name.Division Name.04,Senior Sales Associate,2008-08-23,2008-08-23,141835.82,F,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+289298,Carolina,Coey,Engineering,R906.Department Name.Division Name.01,Quality Engineer,2012-09-06,2012-09-06,133692.81,F,Active Assignment,Fulltime-Temporary,
+141352,Mikaela,Dykins,Support,P057.Department Name.Division Name.08,Desktop Support Technician,2011-12-30,2011-12-30,101328.71,F,Active Assignment,Parttime-Regular,White
+814471,Constantia,Larratt,Support,S960.Department Name.Division Name.00,Geological Engineer,2013-11-02,2013-11-02,128074.12,F,Active Assignment,Fulltime-Regular,White
+684106,Bastien,Lamcken,Product Management,C720.Department Name.Division Name.04,Environmental Tech,2007-11-28,2007-11-28,62796.97,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+642476,Feodor,Leaver,Legal,M476.Department Name.Division Name.01,Computer Systems Analyst III,2011-04-15,2011-04-15,82242.00,M,Active Assignment,Fulltime-Regular,Black or African American
+546729,Minne,Wrintmore,Engineering,G421.Department Name.Division Name.01,Quality Engineer,2002-09-03,2002-09-03,59295.53,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+324583,Gustavus,Zealey,Legal,R557.Department Name.Division Name.04,Structural Engineer,2012-05-24,2012-05-24,137452.51,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+628332,Sena,Elcock,Human Resources,U913.Department Name.Division Name.02,Chemical Engineer,2007-12-27,2007-12-27,81610.64,F,Active Assignment,Parttime-Regular,White
+825010,Patrica,Christall,Support,F363.Department Name.Division Name.04,Account Coordinator,2011-11-04,2011-11-04,58196.83,F,Active Assignment,Parttime-Regular,Asian
+752563,Darda,Coase,Accounting,M295.Department Name.Division Name.03,Teacher,2009-05-21,2009-05-21,48501.61,F,Active Assignment,Parttime-Regular,White
+856795,Nick,Calderonello,Sales,K074.Department Name.Division Name.01,GIS Technical Architect,2008-07-27,2008-07-27,95855.80,M,Active Assignment,Parttime-Regular,White
+543694,Lisa,Fitchett,Human Resources,X833.Department Name.Division Name.07,Electrical Engineer,2011-10-27,2011-10-27,138823.70,F,Active Assignment,Fulltime-Temporary,Black or African American
+557278,Olenolin,Langlois,Support,H509.Department Name.Division Name.04,Payment Adjustment Coordinator,2006-11-20,2006-11-20,85622.31,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+686806,Margarete,Cromleholme,Support,A203.Department Name.Division Name.08,Nuclear Power Engineer,2012-03-11,2012-03-11,77453.96,F,Active Assignment,Fulltime-Temporary,Asian
+552194,Harry,Littledyke,Training,Z864.Department Name.Division Name.00,Clinical Specialist,2012-04-06,2012-04-06,73787.97,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+535359,Bobina,Forbes,Business Development,O281.Department Name.Division Name.04,Desktop Support Technician,2011-02-14,2011-02-14,49465.33,F,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+357165,Tomasine,Braid,Training,P271.Department Name.Division Name.04,Programmer Analyst II,2004-02-20,2004-02-20,71930.21,F,Active Assignment,Fulltime-Regular,
+856943,Rudyard,Hubbard,Marketing,K251.Department Name.Division Name.09,Structural Analysis Engineer,2012-03-30,2012-03-30,137781.70,M,Active Assignment,Fulltime-Regular,White
+251915,Olwen,McKillop,Research and Development,L882.Department Name.Division Name.03,Senior Developer,2002-05-13,2002-05-13,82541.90,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+653688,Lisle,Brewse,Legal,X013.Department Name.Division Name.07,Associate Professor,2008-01-12,2008-01-12,126120.52,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+425775,Bjorn,Scafe,Training,W242.Department Name.Division Name.09,Paralegal,2015-06-16,2015-06-16,105714.64,M,Active Assignment,Fulltime-Regular,Black or African American
+436274,Grazia,Beharrell,Human Resources,N040.Department Name.Division Name.05,Accountant III,2001-11-16,2001-11-16,139647.56,F,Active Assignment,Fulltime-Regular,Asian
+601129,Grange,Hazard,Product Management,F720.Department Name.Division Name.04,Teacher,2015-03-01,2015-03-01,68480.04,M,Active Assignment,Fulltime-Temporary,Black or African American
+158401,Phillie,Ledram,Human Resources,O759.Department Name.Division Name.06,Recruiter,2006-09-05,2006-09-05,103197.75,F,Active Assignment,Fulltime-Regular,White
+963240,Beatriz,Minichillo,Business Development,I043.Department Name.Division Name.03,Software Consultant,2005-08-03,2005-08-03,89270.57,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+921149,Panchito,Kacheler,Accounting,T540.Department Name.Division Name.00,Associate Professor,2008-02-11,2008-02-11,71134.88,M,Active Assignment,Fulltime-Regular,Black or African American
+407976,Morry,Bowdler,Research and Development,T207.Department Name.Division Name.08,Systems Administrator II,2001-04-19,2001-04-19,59833.88,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+352798,Gay,Dodgshon,Business Development,Q397.Department Name.Division Name.00,Marketing Manager,2001-11-08,2001-11-08,97603.23,F,Active Assignment,Fulltime-Regular,White
+930362,Roselle,Folder,Sales,F294.Department Name.Division Name.04,Data Coordiator,2008-07-03,2008-07-03,98540.77,F,Active Assignment,Fulltime-Temporary,
+385895,Lillis,Gillingwater,Training,U459.Department Name.Division Name.08,Social Worker,2003-03-28,2003-03-28,119821.91,F,Active Assignment,Parttime-Regular,White
+186379,Demetra,Romera,Legal,W890.Department Name.Division Name.06,Programmer Analyst I,2003-04-15,2003-04-15,91766.23,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+212350,Cobby,Mose,Services,H691.Department Name.Division Name.00,Programmer IV,2011-12-29,2011-12-29,136737.29,M,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+871234,Lev,Bignall,Sales,W777.Department Name.Division Name.08,Senior Cost Accountant,2004-03-20,2004-03-20,59574.39,M,Active Assignment,Fulltime-Temporary,Black or African American
+725472,Pincas,Bannerman,Business Development,W262.Department Name.Division Name.02,Staff Scientist,2005-04-10,2005-04-10,79418.90,M,Active Assignment,Fulltime-Temporary,Asian
+553876,Barbara-anne,Draco,Services,Q460.Department Name.Division Name.08,Financial Analyst,2005-02-11,2005-02-11,130840.91,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+545205,Sauncho,Chilley,Support,U119.Department Name.Division Name.08,Accounting Assistant I,2014-06-27,2014-06-27,97290.69,M,Active Assignment,Fulltime-Temporary,Black or African American
+550016,Phyllis,Curran,Accounting,L528.Department Name.Division Name.07,Computer Systems Analyst III,2012-09-17,2012-09-17,127385.98,F,Active Assignment,Fulltime-Temporary,Asian
+936083,Karyl,Apted,Engineering,F534.Department Name.Division Name.03,Associate Professor,2001-02-06,2001-02-06,98163.34,F,Active Assignment,Fulltime-Temporary,White
+160224,Cassandry,Harrison,Research and Development,M524.Department Name.Division Name.02,Speech Pathologist,2000-07-23,2000-07-23,68907.21,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+783237,Emmey,Stannard,Human Resources,W511.Department Name.Division Name.09,Actuary,2008-12-13,2008-12-13,125731.28,F,Active Assignment,Parttime-Regular,Asian
+121665,Lizabeth,Kleyn,Research and Development,B683.Department Name.Division Name.06,Help Desk Technician,2002-05-11,2002-05-11,134966.17,F,Active Assignment,Fulltime-Temporary,White
+823211,Dani,Franzman,Training,T192.Department Name.Division Name.05,Senior Cost Accountant,2017-06-08,2017-06-08,49127.99,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+653180,Brock,O'Mahoney,Accounting,B527.Department Name.Division Name.06,Engineer III,2002-07-19,2002-07-19,87744.04,M,Active Assignment,Parttime-Regular,White
+132811,Jehu,Ferry,Training,Z828.Department Name.Division Name.07,Systems Administrator II,2012-03-14,2012-03-14,135064.36,M,Active Assignment,Fulltime-Regular,Asian
+901619,Benjy,Gianilli,Human Resources,J308.Department Name.Division Name.06,Registered Nurse,2006-10-29,2006-10-29,61785.12,M,Active Assignment,Fulltime-Regular,White
+284378,Saunders,Cregan,Support,R263.Department Name.Division Name.06,Media Manager I,2009-04-28,2009-04-28,128320.14,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+886071,Timmy,Canti,Services,H715.Department Name.Division Name.01,Quality Control Specialist,2002-12-13,2002-12-13,109444.79,M,Active Assignment,Fulltime-Regular,Asian
+554719,Smitty,Hunting,Services,Y019.Department Name.Division Name.01,VP Quality Control,2000-10-29,2000-10-29,129611.66,M,Active Assignment,Fulltime-Regular,Black or African American
+653633,Antone,Bondy,Business Development,J216.Department Name.Division Name.07,Project Manager,2015-06-09,2015-06-09,82588.23,M,Active Assignment,Fulltime-Temporary,White
+261553,Clarey,Anfossi,Product Management,F118.Department Name.Division Name.01,Financial Advisor,2004-05-26,2004-05-26,113272.01,F,Active Assignment,Fulltime-Temporary,Asian
+236328,Coraline,Garnar,Research and Development,Q942.Department Name.Division Name.00,Internal Auditor,2005-07-19,2005-07-19,123665.44,F,Active Assignment,Fulltime-Regular,Asian
+842082,Nahum,Piperley,Marketing,Z566.Department Name.Division Name.06,Product Engineer,2001-05-01,2001-05-01,55171.74,M,Active Assignment,Parttime-Regular,Asian
+481751,Baldwin,Toone,Sales,Y012.Department Name.Division Name.02,Office Assistant I,2014-12-04,2014-12-04,127801.89,M,Active Assignment,Fulltime-Regular,Black or African American
+639358,Valle,Richfield,Product Management,H945.Department Name.Division Name.01,VP Quality Control,2000-10-12,2000-10-12,74833.90,M,Active Assignment,Parttime-Regular,Asian
+645748,Jonas,Bedlington,Business Development,N028.Department Name.Division Name.09,Research Nurse,2005-09-03,2005-09-03,106420.37,M,Active Assignment,Fulltime-Regular,White
+473028,Luciana,Duding,Business Development,B852.Department Name.Division Name.02,Engineer I,2008-04-01,2008-04-01,72161.48,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+765315,Ilyssa,Orrick,Accounting,D204.Department Name.Division Name.08,Software Engineer III,2011-06-10,2011-06-10,80137.19,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+809431,Pernell,Wayne,Support,A634.Department Name.Division Name.08,Mechanical Systems Engineer,2009-06-04,2009-06-04,60401.54,M,Active Assignment,Fulltime-Temporary,Black or African American
+216861,Donnamarie,Gregorowicz,Marketing,I252.Department Name.Division Name.02,Web Developer I,2010-02-02,2010-02-02,118005.49,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+707779,Wynn,Episcopio,Human Resources,H572.Department Name.Division Name.06,Marketing Manager,2014-07-26,2014-07-26,102458.39,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+700756,Terri-jo,Gallichan,Support,U561.Department Name.Division Name.03,Developer I,2003-05-22,2003-05-22,111717.68,F,Active Assignment,Fulltime-Regular,White
+284965,Kaine,Estcot,Human Resources,N379.Department Name.Division Name.05,Help Desk Operator,2008-10-06,2008-10-06,130346.89,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+750731,Laverna,Fowkes,Legal,E970.Department Name.Division Name.09,Nurse,2008-07-04,2008-07-04,82874.46,F,Active Assignment,Parttime-Regular,
+851485,Albertine,Deverell,Legal,S787.Department Name.Division Name.07,Technical Writer,2006-06-12,2006-06-12,55969.50,F,Active Assignment,Fulltime-Temporary,Black or African American
+840524,Jean,Irnys,Product Management,Z376.Department Name.Division Name.09,Web Developer I,2009-09-02,2009-09-02,60251.15,M,Active Assignment,Fulltime-Temporary,Asian
+450179,Rem,Pavlenkov,Services,P925.Department Name.Division Name.01,Senior Sales Associate,2011-08-03,2011-08-03,64902.99,M,Active Assignment,Fulltime-Temporary,Black or African American
+161811,Else,Bascomb,Engineering,B205.Department Name.Division Name.03,Actuary,2012-05-21,2012-05-21,42596.28,F,Active Assignment,Parttime-Regular,White
+179412,Stacy,Van de Vlies,Services,Z596.Department Name.Division Name.05,General Manager,2017-03-26,2017-03-26,122765.22,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+115288,Timoteo,Scrauniage,Training,N113.Department Name.Division Name.01,Nurse Practicioner,2017-04-07,2017-04-07,47007.38,M,Active Assignment,Fulltime-Temporary,American Indian or Alaskan Native
+558962,Osborn,Seer,Business Development,N338.Department Name.Division Name.09,Account Executive,2005-12-06,2005-12-06,91066.20,M,Active Assignment,Fulltime-Regular,Asian
+865923,Maggi,Bilbie,Legal,K884.Department Name.Division Name.05,Analog Circuit Design manager,2013-10-23,2013-10-23,84145.53,F,Active Assignment,Fulltime-Regular,Asian
+492303,Abigail,Rands,Product Management,K986.Department Name.Division Name.01,Environmental Specialist,2014-04-05,2014-04-05,72955.81,F,Active Assignment,Fulltime-Temporary,White
+640933,Torrence,Kesteven,Product Management,E651.Department Name.Division Name.03,Technical Writer,2004-08-02,2004-08-02,68824.48,M,Active Assignment,Fulltime-Regular,White
+844564,Corie,Soreau,Services,H544.Department Name.Division Name.08,Electrical Engineer,2009-07-19,2009-07-19,130103.31,F,Active Assignment,Fulltime-Temporary,Black or African American
+636505,Kelly,Kirk,Sales,X357.Department Name.Division Name.00,Structural Engineer,2012-12-31,2012-12-31,133125.81,M,Active Assignment,Fulltime-Temporary,Black or African American
+968657,Roxi,Mitcheson,Research and Development,T961.Department Name.Division Name.06,Safety Technician IV,2006-01-05,2006-01-05,115953.47,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+350493,Baily,Macrae,Marketing,N835.Department Name.Division Name.05,Assistant Professor,2006-08-14,2006-08-14,93355.06,M,Active Assignment,Fulltime-Regular,Asian
+382738,Ellery,Fuller,Accounting,R743.Department Name.Division Name.04,Media Manager I,2006-03-21,2006-03-21,92689.99,M,Active Assignment,Parttime-Regular,White
+363075,Gilles,Impy,Product Management,G140.Department Name.Division Name.07,Senior Cost Accountant,2009-03-10,2009-03-10,145846.99,M,Active Assignment,Parttime-Regular,Black or African American
+784884,Pavel,Lockhart,Sales,V532.Department Name.Division Name.09,Senior Cost Accountant,2007-10-26,2007-10-26,110640.50,M,Active Assignment,Parttime-Regular,Black or African American
+669969,Agnella,Delacroux,Research and Development,Q744.Department Name.Division Name.03,Sales Representative,2003-06-29,2003-06-29,49241.40,F,Active Assignment,Fulltime-Regular,Black or African American
+589669,Yolande,Grutchfield,Support,F202.Department Name.Division Name.02,Community Outreach Specialist,2017-04-11,2017-04-11,67511.26,F,Active Assignment,Parttime-Regular,Black or African American
+171330,Hailey,Kernocke,Accounting,B154.Department Name.Division Name.07,Analog Circuit Design manager,2013-05-27,2013-05-27,52090.17,M,Active Assignment,Parttime-Regular,Asian
+652457,Ernestine,Loukes,Support,J286.Department Name.Division Name.05,Help Desk Technician,2004-11-30,2004-11-30,148419.18,F,Active Assignment,Parttime-Regular,Black or African American
+257220,Sashenka,Ladewig,Legal,Y037.Department Name.Division Name.01,Information Systems Manager,2009-10-16,2009-10-16,143101.88,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+344541,Demetri,Gogan,Services,F289.Department Name.Division Name.05,Internal Auditor,2011-06-09,2011-06-09,40308.93,M,Active Assignment,Fulltime-Temporary,Black or African American
+350696,Fonz,Klimko,Training,Y917.Department Name.Division Name.01,Associate Professor,2011-04-07,2011-04-07,77125.96,M,Active Assignment,Parttime-Regular,
+286535,Kirbie,Oene,Legal,U010.Department Name.Division Name.06,Accountant II,2016-05-05,2016-05-05,141697.78,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+182029,Clarie,Guidetti,Training,V007.Department Name.Division Name.04,Desktop Support Technician,2006-08-02,2006-08-02,141193.62,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+222575,Jourdain,Gallelli,Human Resources,H527.Department Name.Division Name.02,Legal Assistant,2015-03-04,2015-03-04,51603.79,M,Active Assignment,Fulltime-Temporary,White
+938332,Alasdair,Dragoe,Marketing,S721.Department Name.Division Name.04,Social Worker,2015-02-18,2015-02-18,133711.78,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+258974,Maighdiln,Carlill,Engineering,V022.Department Name.Division Name.08,Editor,2003-09-17,2003-09-17,108358.94,F,Active Assignment,Fulltime-Temporary,Black or African American
+417494,Davida,Huws,Product Management,L248.Department Name.Division Name.02,Help Desk Technician,2014-01-15,2014-01-15,128522.26,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+420556,Johnathon,Guinan,Human Resources,D615.Department Name.Division Name.01,Senior Sales Associate,2016-10-11,2016-10-11,87101.05,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+654851,Roderigo,Woolam,Research and Development,F490.Department Name.Division Name.06,Marketing Assistant,2011-07-08,2011-07-08,40601.96,M,Active Assignment,Fulltime-Temporary,Black or African American
+230337,Adolph,Dugall,Legal,I911.Department Name.Division Name.00,Desktop Support Technician,2008-06-23,2008-06-23,67836.79,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+130611,Bill,Greggersen,Marketing,G397.Department Name.Division Name.00,Actuary,2014-07-12,2014-07-12,79475.96,M,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+862982,Seka,Dales,Product Management,B258.Department Name.Division Name.08,Chief Design Engineer,2004-07-26,2004-07-26,104862.02,F,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+833012,Leland,State,Legal,X746.Department Name.Division Name.08,Professor,2003-10-08,2003-10-08,88520.60,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+353288,Mordy,McGreil,Legal,I709.Department Name.Division Name.00,Clinical Specialist,2017-05-08,2017-05-08,124471.74,M,Active Assignment,Parttime-Regular,Black or African American
+425539,Ilaire,Farguhar,Sales,T253.Department Name.Division Name.04,Librarian,2003-03-09,2003-03-09,51484.16,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+580556,Valida,Cogley,Marketing,H063.Department Name.Division Name.04,Pharmacist,2009-07-30,2009-07-30,56989.14,F,Active Assignment,Fulltime-Temporary,
+901853,Stacy,Neylan,Business Development,C977.Department Name.Division Name.04,Operator,2001-04-18,2001-04-18,63584.99,M,Active Assignment,Fulltime-Regular,Black or African American
+350039,Querida,Abramski,Business Development,A992.Department Name.Division Name.00,Automation Specialist I,2012-03-20,2012-03-20,121776.82,F,Active Assignment,Fulltime-Temporary,Asian
+281477,Nap,Hunn,Support,D070.Department Name.Division Name.07,Director of Sales,2014-04-06,2014-04-06,143686.22,M,Active Assignment,Fulltime-Temporary,
+617495,Jacquelyn,Onslow,Sales,G586.Department Name.Division Name.06,Quality Engineer,2011-12-22,2011-12-22,52752.92,F,Active Assignment,Parttime-Regular,
+168692,Sanderson,Kybbye,Business Development,G484.Department Name.Division Name.01,Compensation Analyst,2014-10-25,2014-10-25,51425.55,M,Active Assignment,Fulltime-Temporary,White
+725628,Emmie,Lavies,Engineering,V413.Department Name.Division Name.06,Staff Accountant III,2002-04-12,2002-04-12,117006.64,F,Active Assignment,Parttime-Regular,Black or African American
+145702,Selene,Harold,Research and Development,S017.Department Name.Division Name.01,Programmer IV,2003-09-03,2003-09-03,95284.96,F,Active Assignment,Parttime-Regular,White
+373223,Emma,McNelis,Marketing,G555.Department Name.Division Name.03,Librarian,2002-11-14,2002-11-14,101413.98,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+569155,Arman,Rucklesse,Support,M499.Department Name.Division Name.09,Director of Sales,2003-01-29,2003-01-29,48857.53,M,Active Assignment,Fulltime-Temporary,Black or African American
+772087,Bobbette,Andrei,Sales,L858.Department Name.Division Name.06,Assistant Manager,2010-11-05,2010-11-05,135121.86,F,Active Assignment,Parttime-Regular,White
+715050,Casie,Raubenheim,Accounting,J636.Department Name.Division Name.03,Business Systems Development Analyst,2005-04-16,2005-04-16,48509.43,F,Active Assignment,Fulltime-Regular,Black or African American
+929408,Debra,McReidy,Sales,G508.Department Name.Division Name.00,Registered Nurse,2007-04-20,2007-04-20,119519.00,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+391789,Channa,Provis,Services,Q611.Department Name.Division Name.00,Account Coordinator,2005-08-15,2005-08-15,90304.44,F,Active Assignment,Parttime-Regular,Asian
+268227,Pebrook,Ault,Training,E975.Department Name.Division Name.03,Business Systems Development Analyst,2016-05-19,2016-05-19,40007.44,M,Active Assignment,Parttime-Regular,
+453300,Vicky,Pinches,Research and Development,P351.Department Name.Division Name.03,Account Coordinator,2000-10-14,2000-10-14,126719.23,F,Active Assignment,Fulltime-Regular,
+957931,Elberta,Northley,Human Resources,I578.Department Name.Division Name.03,Marketing Manager,2013-10-12,2013-10-12,116392.75,F,Active Assignment,Fulltime-Temporary,Black or African American
+921319,Tansy,Rampling,Engineering,Q033.Department Name.Division Name.09,Help Desk Technician,2009-09-04,2009-09-04,88904.43,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+613812,Gloriane,Cawston,Research and Development,J220.Department Name.Division Name.07,Tax Accountant,2013-01-15,2013-01-15,48931.56,F,Active Assignment,Fulltime-Regular,Asian
+543222,Vinson,Parradine,Human Resources,V816.Department Name.Division Name.05,Desktop Support Technician,2006-12-13,2006-12-13,74220.34,M,Active Assignment,Fulltime-Regular,White
+597275,Candide,Fullager,Research and Development,B950.Department Name.Division Name.03,Chief Design Engineer,2004-06-25,2004-06-25,75014.46,F,Active Assignment,Fulltime-Temporary,Asian
+990128,Adela,Filipyev,Human Resources,U419.Department Name.Division Name.06,Community Outreach Specialist,2016-08-26,2016-08-26,131847.84,F,Active Assignment,Fulltime-Regular,Asian
+132097,Reine,Keeri,Human Resources,N751.Department Name.Division Name.00,Physical Therapy Assistant,2010-05-16,2010-05-16,132946.22,F,Active Assignment,Parttime-Regular,Black or African American
+247492,Austina,Rameaux,Engineering,G992.Department Name.Division Name.08,Research Assistant I,2005-11-07,2005-11-07,50121.97,F,Active Assignment,Fulltime-Regular,Asian
+770123,Horatius,Buttriss,Sales,P383.Department Name.Division Name.00,Research Associate,2005-12-17,2005-12-17,136684.98,M,Active Assignment,Fulltime-Regular,Black or African American
+679399,Tomasina,McDougal,Product Management,B067.Department Name.Division Name.06,Senior Cost Accountant,2002-10-27,2002-10-27,72254.14,F,Active Assignment,Parttime-Regular,Black or African American
+871524,Aldous,Shanley,Support,Q380.Department Name.Division Name.07,Research Associate,2013-08-02,2013-08-02,52772.63,M,Active Assignment,Fulltime-Regular,Black or African American
+145094,Riordan,Sussems,Support,W477.Department Name.Division Name.06,Paralegal,2015-06-29,2015-06-29,43991.24,M,Active Assignment,Fulltime-Regular,
+317236,Annadiana,Willars,Sales,N402.Department Name.Division Name.01,Software Engineer IV,2016-11-07,2016-11-07,126314.86,F,Active Assignment,Fulltime-Temporary,Black or African American
+372367,Gabriell,Meikle,Support,S212.Department Name.Division Name.07,Junior Executive,2002-04-02,2002-04-02,95290.39,F,Active Assignment,Fulltime-Regular,Black or African American
+170266,Matthus,Rowcliffe,Product Management,E229.Department Name.Division Name.09,Senior Financial Analyst,2009-04-17,2009-04-17,127484.36,M,Active Assignment,Parttime-Regular,Asian
+475297,Feodora,Strowthers,Support,U060.Department Name.Division Name.06,Marketing Manager,2000-12-09,2000-12-09,125283.99,F,Active Assignment,Fulltime-Regular,
+767342,Lilia,Entissle,Product Management,I105.Department Name.Division Name.08,Research Assistant II,2008-06-10,2008-06-10,104296.87,F,Active Assignment,Parttime-Regular,White
+784879,Calli,Trood,Human Resources,S917.Department Name.Division Name.04,Research Associate,2015-12-17,2015-12-17,40191.42,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+934293,Klara,Casterot,Human Resources,X155.Department Name.Division Name.07,Geological Engineer,2005-09-20,2005-09-20,107811.34,F,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+852091,Evelin,Murgatroyd,Human Resources,W548.Department Name.Division Name.04,Recruiter,2004-09-22,2004-09-22,138912.83,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+526551,Nissie,Titcomb,Marketing,G558.Department Name.Division Name.02,Nuclear Power Engineer,2012-01-28,2012-01-28,41197.18,F,Active Assignment,Fulltime-Regular,Asian
+926122,Sondra,Brion,Marketing,C458.Department Name.Division Name.07,Safety Technician I,2008-01-17,2008-01-17,69873.41,F,Active Assignment,Parttime-Regular,Asian
+218818,Vyky,Kigelman,Business Development,S184.Department Name.Division Name.03,Assistant Professor,2009-05-19,2009-05-19,114031.47,F,Active Assignment,Parttime-Regular,Asian
+767568,Jaymie,Gawith,Marketing,X343.Department Name.Division Name.01,Clinical Specialist,2017-05-18,2017-05-18,68193.02,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+128773,Veda,Royston,Marketing,U147.Department Name.Division Name.08,Graphic Designer,2006-02-07,2006-02-07,142517.34,F,Active Assignment,Parttime-Regular,Black or African American
+721337,Pippo,Sanches,Engineering,P801.Department Name.Division Name.06,Quality Control Specialist,2005-12-25,2005-12-25,96208.45,M,Active Assignment,Fulltime-Regular,White
+655260,Jeannine,Mattielli,Product Management,B007.Department Name.Division Name.02,Web Designer III,2012-06-05,2012-06-05,75764.93,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+885776,Dorothea,McGibbon,Legal,M273.Department Name.Division Name.07,Pharmacist,2014-06-22,2014-06-22,74827.60,F,Active Assignment,Parttime-Regular,Asian
+205599,Brucie,Featherstonehaugh,Product Management,T567.Department Name.Division Name.00,Community Outreach Specialist,2003-02-25,2003-02-25,90578.44,M,Active Assignment,Fulltime-Regular,Asian
+824583,Damien,Bagshawe,Services,X505.Department Name.Division Name.02,Clinical Specialist,2011-07-19,2011-07-19,149431.54,M,Active Assignment,Parttime-Regular,Asian
+476795,Blanca,Riep,Support,Q482.Department Name.Division Name.09,Payment Adjustment Coordinator,2003-09-06,2003-09-06,149575.52,F,Active Assignment,Fulltime-Regular,
+232522,Ezechiel,Gotthard.sf,Marketing,B297.Department Name.Division Name.05,Quality Control Specialist,2000-07-29,2000-07-29,95403.99,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+534774,Greg,Dobbings,Marketing,Z298.Department Name.Division Name.01,Senior Financial Analyst,2009-01-09,2009-01-09,136587.16,M,Active Assignment,Fulltime-Temporary,Black or African American
+648961,Virgilio,Trevaskis,Human Resources,Y263.Department Name.Division Name.08,Marketing Assistant,2012-08-08,2012-08-08,62612.95,M,Active Assignment,Parttime-Regular,Asian
+573816,Gladys,Zmitrichenko,Accounting,S918.Department Name.Division Name.04,Financial Analyst,2003-01-06,2003-01-06,91988.70,F,Active Assignment,Fulltime-Regular,Black or African American
+923897,Bran,Kitman,Product Management,P618.Department Name.Division Name.07,Account Executive,2010-04-29,2010-04-29,145483.78,M,Active Assignment,Parttime-Regular,
+164396,Guenna,Dami,Support,C281.Department Name.Division Name.03,Assistant Media Planner,2007-06-01,2007-06-01,59460.89,F,Active Assignment,Parttime-Regular,
+714605,Ema,Itzhayek,Marketing,L522.Department Name.Division Name.00,Engineer III,2001-10-16,2001-10-16,91685.11,F,Active Assignment,Parttime-Regular,
+516617,Ralph,Halbard,Engineering,T645.Department Name.Division Name.01,Software Test Engineer II,2009-02-13,2009-02-13,83447.23,M,Active Assignment,Parttime-Regular,Black or African American
+833547,Yanaton,Tomkin,Training,H325.Department Name.Division Name.02,VP Quality Control,2001-06-08,2001-06-08,116015.06,M,Active Assignment,Fulltime-Temporary,Asian
+992909,Claiborn,Sunderland,Accounting,C431.Department Name.Division Name.02,Teacher,2007-03-27,2007-03-27,55964.89,M,Active Assignment,Fulltime-Regular,Black or African American
+657579,Freedman,Purcer,Product Management,G468.Department Name.Division Name.00,Chemical Engineer,2008-05-11,2008-05-11,82369.51,M,Active Assignment,Parttime-Regular,White
+218884,Justino,Iglesia,Research and Development,X407.Department Name.Division Name.02,Assistant Manager,2005-05-06,2005-05-06,114766.78,M,Active Assignment,Parttime-Regular,Asian
+150647,Noreen,De Blasiis,Sales,N946.Department Name.Division Name.08,Speech Pathologist,2010-08-10,2010-08-10,128837.41,F,Active Assignment,Fulltime-Temporary,Black or African American
+668187,Dulci,Findlater,Business Development,C676.Department Name.Division Name.09,Quality Engineer,2010-08-09,2010-08-09,82417.73,F,Active Assignment,Fulltime-Temporary,Asian
+595062,Karena,Olsen,Training,W513.Department Name.Division Name.08,Dental Hygienist,2002-01-12,2002-01-12,50589.55,F,Active Assignment,Fulltime-Temporary,Black or African American
+459856,Gardy,Hallard,Support,S948.Department Name.Division Name.06,Staff Scientist,2012-07-17,2012-07-17,115153.83,M,Active Assignment,Parttime-Regular,Black or African American
+132563,Emlen,Isaq,Training,R057.Department Name.Division Name.08,Legal Assistant,2007-08-31,2007-08-31,117079.83,M,Active Assignment,Fulltime-Regular,Black or African American
+239249,Rosetta,Robottom,Accounting,F660.Department Name.Division Name.05,General Manager,2001-08-16,2001-08-16,78907.41,F,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+159675,Colby,Carr,Product Management,H752.Department Name.Division Name.03,Design Engineer,2013-05-01,2013-05-01,133323.84,M,Active Assignment,Fulltime-Temporary,Black or African American
+455243,Simon,Dacey,Human Resources,R975.Department Name.Division Name.01,Environmental Specialist,2002-08-12,2002-08-12,83801.50,M,Active Assignment,Fulltime-Temporary,Black or African American
+674934,Shannan,Morant,Engineering,W213.Department Name.Division Name.09,VP Sales,2015-08-02,2015-08-02,101468.70,M,Active Assignment,Parttime-Regular,Asian
+964559,Catherina,Matthieson,Accounting,V043.Department Name.Division Name.05,Director of Sales,2014-11-11,2014-11-11,105008.88,F,Active Assignment,Fulltime-Regular,White
+935807,Lyda,Blodg,Support,F151.Department Name.Division Name.09,Office Assistant I,2015-05-23,2015-05-23,113126.39,F,Active Assignment,Parttime-Regular,Black or African American
+747800,Pegeen,Bradder,Engineering,O478.Department Name.Division Name.05,Administrative Assistant IV,2012-06-22,2012-06-22,90491.91,F,Active Assignment,Fulltime-Temporary,White
+584630,Dion,Fockes,Support,U543.Department Name.Division Name.00,Programmer I,2014-09-30,2014-09-30,147705.33,M,Active Assignment,Parttime-Regular,Asian
+747646,Rani,Cammack,Services,L093.Department Name.Division Name.09,Tax Accountant,2001-09-26,2001-09-26,135341.21,F,Active Assignment,Parttime-Regular,Black or African American
+579516,Charmion,Matschek,Support,K647.Department Name.Division Name.06,Senior Editor,2015-10-21,2015-10-21,42777.24,F,Active Assignment,Fulltime-Temporary,Asian
+454544,Abbey,Haslum,Business Development,R143.Department Name.Division Name.08,Environmental Tech,2006-10-28,2006-10-28,100259.00,F,Active Assignment,Fulltime-Regular,Asian
+726972,Evy,Asser,Engineering,X114.Department Name.Division Name.01,Legal Assistant,2006-08-01,2006-08-01,80976.41,F,Active Assignment,Parttime-Regular,
+994251,Quintina,Rintoul,Product Management,U697.Department Name.Division Name.04,Human Resources Manager,2005-07-14,2005-07-14,72525.77,F,Active Assignment,Parttime-Regular,
+470531,Stillmann,Wasiela,Research and Development,X763.Department Name.Division Name.06,Design Engineer,2005-12-08,2005-12-08,42963.76,M,Active Assignment,Fulltime-Temporary,
+789411,Geneva,MacCafferky,Human Resources,R695.Department Name.Division Name.00,Software Engineer I,2009-11-28,2009-11-28,146195.11,F,Active Assignment,Parttime-Regular,Black or African American
+114519,Alie,Bonhill,Engineering,L020.Department Name.Division Name.03,Dental Hygienist,2011-02-02,2011-02-02,74478.00,F,Active Assignment,Fulltime-Temporary,White
+554716,Clevey,Ballsdon,Product Management,F685.Department Name.Division Name.07,Geological Engineer,2014-04-18,2014-04-18,137747.65,M,Active Assignment,Fulltime-Temporary,Black or African American
+865811,Sheilakathryn,Grand,Sales,U352.Department Name.Division Name.04,Budget/Accounting Analyst IV,2011-02-09,2011-02-09,144809.74,F,Active Assignment,Fulltime-Regular,Asian
+211420,Stillmann,Corteney,Engineering,Y307.Department Name.Division Name.05,Community Outreach Specialist,2016-12-31,2016-12-31,112187.66,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+174657,Linda,Himpson,Research and Development,E218.Department Name.Division Name.02,Web Designer IV,2003-06-27,2003-06-27,123216.17,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+857059,Gavin,Halworth,Services,J878.Department Name.Division Name.09,Sales Associate,2017-01-21,2017-01-21,63779.56,M,Active Assignment,Parttime-Regular,
+314907,Petronella,Gelsthorpe,Legal,S167.Department Name.Division Name.09,Occupational Therapist,2007-09-23,2007-09-23,118398.84,F,Active Assignment,Fulltime-Temporary,Asian
+684064,Tamiko,Kindall,Marketing,L279.Department Name.Division Name.04,Legal Assistant,2015-12-09,2015-12-09,103648.98,F,Active Assignment,Parttime-Regular,White
+121610,Uriel,Cornes,Legal,J111.Department Name.Division Name.04,Nuclear Power Engineer,2010-01-31,2010-01-31,99050.51,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+433086,Elsey,Iglesiaz,Marketing,O113.Department Name.Division Name.08,Registered Nurse,2014-08-04,2014-08-04,117260.46,F,Active Assignment,Fulltime-Regular,Black or African American
+696944,Packston,Haslock,Support,M805.Department Name.Division Name.01,Engineer III,2016-08-30,2016-08-30,82525.54,M,Active Assignment,Fulltime-Temporary,Black or African American
+361771,Christophorus,Jakobssen,Human Resources,O528.Department Name.Division Name.07,Director of Sales,2004-01-01,2004-01-01,91296.22,M,Active Assignment,Fulltime-Temporary,Black or African American
+179849,Horatia,Commins,Business Development,G245.Department Name.Division Name.02,Database Administrator II,2002-11-11,2002-11-11,125575.59,F,Active Assignment,Parttime-Regular,White
+527008,Henrieta,Sicha,Services,X476.Department Name.Division Name.09,Chemical Engineer,2005-02-21,2005-02-21,129674.86,F,Active Assignment,Parttime-Regular,Asian
+935136,Peggy,Demoge,Training,T745.Department Name.Division Name.04,Software Engineer II,2002-09-27,2002-09-27,41442.36,F,Active Assignment,Parttime-Regular,Asian
+231707,Heida,Tweede,Support,V818.Department Name.Division Name.01,VP Sales,2005-03-07,2005-03-07,127776.97,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+985846,Flo,Grooby,Research and Development,B891.Department Name.Division Name.07,Environmental Specialist,2007-09-30,2007-09-30,72794.11,F,Active Assignment,Fulltime-Temporary,Black or African American
+915822,Neilla,Vaskov,Services,V736.Department Name.Division Name.00,Help Desk Operator,2015-04-24,2015-04-24,102754.11,F,Active Assignment,Parttime-Regular,Asian
+261318,Lin,Heathwood,Research and Development,G457.Department Name.Division Name.00,Desktop Support Technician,2011-10-10,2011-10-10,148763.79,F,Active Assignment,Parttime-Regular,
+836442,Weidar,Weiss,Training,P444.Department Name.Division Name.00,Web Designer IV,2009-02-08,2009-02-08,56391.86,M,Active Assignment,Fulltime-Regular,Asian
+298721,Konstantin,Flawith,Services,J908.Department Name.Division Name.07,Registered Nurse,2003-10-12,2003-10-12,112196.63,M,Active Assignment,Fulltime-Regular,White
+170764,Nana,Hayter,Services,K447.Department Name.Division Name.04,Sales Associate,2011-04-18,2011-04-18,136333.39,F,Active Assignment,Parttime-Regular,Black or African American
+266597,Alexandrina,Brimacombe,Research and Development,K057.Department Name.Division Name.09,Teacher,2009-06-28,2009-06-28,120975.00,F,Active Assignment,Fulltime-Regular,White
+986592,Florida,Pancast,Business Development,R476.Department Name.Division Name.05,Systems Administrator II,2010-02-11,2010-02-11,148035.91,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+825717,Bradney,Girdlestone,Training,P255.Department Name.Division Name.04,Community Outreach Specialist,2013-08-23,2013-08-23,113349.79,M,Active Assignment,Fulltime-Temporary,Asian
+682429,Brittaney,McKeurtan,Sales,Z719.Department Name.Division Name.06,Junior Executive,2005-08-25,2005-08-25,133610.26,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+312759,Tallie,Twelvetree,Sales,Q938.Department Name.Division Name.05,Computer Systems Analyst I,2008-04-12,2008-04-12,62591.02,F,Active Assignment,Fulltime-Regular,Asian
+448359,Devi,Peppett,Marketing,G009.Department Name.Division Name.04,Actuary,2011-09-15,2011-09-15,75990.76,F,Active Assignment,Fulltime-Temporary,Black or African American
+810023,Barnie,Vallery,Engineering,S618.Department Name.Division Name.02,Senior Financial Analyst,2010-01-11,2010-01-11,112043.59,M,Active Assignment,Fulltime-Temporary,White
+652209,Kaylyn,Hunte,Business Development,T235.Department Name.Division Name.01,Automation Specialist I,2013-11-16,2013-11-16,62796.37,F,Active Assignment,Parttime-Regular,Asian
+730975,Mair,Kenealy,Product Management,Z201.Department Name.Division Name.04,Design Engineer,2010-07-30,2010-07-30,96573.60,F,Active Assignment,Fulltime-Regular,White
+231557,Milo,Dimsdale,Training,V416.Department Name.Division Name.04,Physical Therapy Assistant,2005-09-16,2005-09-16,114663.29,M,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+229722,Hayden,Lounds,Accounting,S450.Department Name.Division Name.03,Database Administrator IV,2012-11-30,2012-11-30,83162.30,M,Active Assignment,Fulltime-Regular,Black or African American
+193137,Trixy,Rosendale,Services,X119.Department Name.Division Name.08,Civil Engineer,2009-08-27,2009-08-27,124174.35,F,Active Assignment,Fulltime-Regular,Black or African American
+103980,Eveleen,Degoy,Accounting,C443.Department Name.Division Name.03,Executive Secretary,2016-02-06,2016-02-06,66530.20,F,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+766239,Somerset,Venables,Sales,J566.Department Name.Division Name.01,Assistant Professor,2012-05-07,2012-05-07,135276.36,M,Active Assignment,Parttime-Regular,White
+240738,Conrado,Dennehy,Training,N733.Department Name.Division Name.04,Legal Assistant,2009-08-23,2009-08-23,148568.95,M,Active Assignment,Parttime-Regular,
+589677,Essa,Skermer,Human Resources,O044.Department Name.Division Name.05,Budget/Accounting Analyst II,2001-04-07,2001-04-07,107706.09,F,Active Assignment,Fulltime-Regular,White
+751913,Kippy,Withringten,Research and Development,D883.Department Name.Division Name.05,Nuclear Power Engineer,2014-02-04,2014-02-04,89322.74,M,Active Assignment,Parttime-Regular,Asian
+655725,Vick,Daintrey,Product Management,W244.Department Name.Division Name.08,Food Chemist,2007-11-26,2007-11-26,138361.68,M,Active Assignment,Parttime-Regular,Black or African American
+955521,Tyrone,Patzelt,Research and Development,P608.Department Name.Division Name.09,VP Accounting,2002-08-26,2002-08-26,114190.14,M,Active Assignment,Fulltime-Regular,
+141071,Florina,Bachnic,Services,V831.Department Name.Division Name.06,Health Coach IV,2009-09-26,2009-09-26,99081.75,F,Active Assignment,Fulltime-Regular,Asian
+326589,Miller,Markus,Support,Z191.Department Name.Division Name.01,Marketing Assistant,2016-08-08,2016-08-08,122354.93,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+294948,Louie,Dasent,Training,T208.Department Name.Division Name.04,Marketing Assistant,2009-03-20,2009-03-20,146401.36,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+665239,Germain,Wickey,Support,F869.Department Name.Division Name.09,Office Assistant I,2016-02-06,2016-02-06,67787.13,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+748427,Cornelia,Goley,Research and Development,K997.Department Name.Division Name.04,Senior Financial Analyst,2017-01-28,2017-01-28,81591.20,F,Active Assignment,Parttime-Regular,Asian
+182451,Ally,Ennever,Engineering,N125.Department Name.Division Name.09,Quality Engineer,2002-01-04,2002-01-04,116755.30,F,Active Assignment,Fulltime-Regular,Black or African American
+217662,Mart,Callcott,Product Management,R941.Department Name.Division Name.02,Accountant IV,2015-04-05,2015-04-05,57855.18,M,Active Assignment,Fulltime-Temporary,White
+574060,Linet,Twiddle,Support,R387.Department Name.Division Name.06,Project Manager,2009-10-01,2009-10-01,146796.90,F,Active Assignment,Fulltime-Regular,Asian
+991999,Gunner,Berks,Product Management,G434.Department Name.Division Name.02,VP Sales,2005-06-21,2005-06-21,54420.75,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+655924,Skelly,Tieraney,Marketing,U537.Department Name.Division Name.01,Environmental Specialist,2001-06-14,2001-06-14,56008.04,M,Active Assignment,Fulltime-Regular,Asian
+156099,Henrietta,Proudlove,Sales,I750.Department Name.Division Name.05,Business Systems Development Analyst,2008-03-05,2008-03-05,87000.45,F,Active Assignment,Fulltime-Temporary,White
+242277,Florry,Norledge,Research and Development,M743.Department Name.Division Name.06,VP Quality Control,2011-04-14,2011-04-14,64194.58,F,Active Assignment,Fulltime-Temporary,White
+361910,Fitz,Falconer,Accounting,G643.Department Name.Division Name.06,Civil Engineer,2001-08-01,2001-08-01,89124.12,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+982739,Frederique,Artindale,Engineering,T590.Department Name.Division Name.03,VP Marketing,2003-12-04,2003-12-04,103267.35,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+407753,Clari,Mc Faul,Training,D276.Department Name.Division Name.02,Office Assistant IV,2016-10-08,2016-10-08,104871.23,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+126858,Roosevelt,LLelweln,Sales,H515.Department Name.Division Name.06,Mechanical Systems Engineer,2017-04-16,2017-04-16,95033.32,M,Active Assignment,Parttime-Regular,Black or African American
+356306,Fallon,Sidney,Legal,I678.Department Name.Division Name.00,Software Test Engineer II,2016-09-06,2016-09-06,89592.58,F,Active Assignment,Parttime-Regular,Black or African American
+339387,Niki,Perelli,Training,D963.Department Name.Division Name.02,VP Product Management,2010-02-26,2010-02-26,119446.20,M,Active Assignment,Fulltime-Regular,Asian
+739602,Abbe,Smallacombe,Training,L989.Department Name.Division Name.06,Paralegal,2011-11-10,2011-11-10,119378.18,M,Active Assignment,Fulltime-Regular,Black or African American
+427567,Bernardina,Daggett,Marketing,C529.Department Name.Division Name.06,Human Resources Manager,2005-12-20,2005-12-20,54185.43,F,Active Assignment,Fulltime-Temporary,Asian
+220300,Rosene,Batram,Human Resources,B971.Department Name.Division Name.05,Chemical Engineer,2007-09-17,2007-09-17,92954.55,F,Active Assignment,Fulltime-Regular,White
+928177,Ibby,Aronovitz,Research and Development,B533.Department Name.Division Name.02,Research Assistant II,2000-12-26,2000-12-26,75711.91,F,Active Assignment,Fulltime-Temporary,Asian
+882805,El,Dickin,Engineering,Y152.Department Name.Division Name.07,Account Coordinator,2004-11-10,2004-11-10,123012.50,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+101800,Emlyn,Robbert,Support,Z374.Department Name.Division Name.05,Director of Sales,2004-09-11,2004-09-11,53898.47,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+817971,Roze,Blunden,Accounting,W299.Department Name.Division Name.02,Account Coordinator,2007-04-28,2007-04-28,54919.18,F,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+190690,Iseabal,Northbridge,Engineering,V910.Department Name.Division Name.02,Analog Circuit Design manager,2007-01-27,2007-01-27,54100.95,F,Active Assignment,Fulltime-Temporary,Asian
+396312,Mathe,Jozefiak,Sales,R059.Department Name.Division Name.09,Business Systems Development Analyst,2005-06-23,2005-06-23,130675.65,M,Active Assignment,Fulltime-Regular,White
+563089,Fanchette,Blackden,Engineering,V049.Department Name.Division Name.00,Research Nurse,2016-12-05,2016-12-05,85456.44,F,Active Assignment,Fulltime-Temporary,Asian
+173319,Ruthie,Moston,Legal,C415.Department Name.Division Name.08,Professor,2005-09-16,2005-09-16,64863.77,F,Active Assignment,Parttime-Regular,
+597719,Ricoriki,Ciciura,Research and Development,R844.Department Name.Division Name.09,Product Engineer,2003-06-20,2003-06-20,144452.42,M,Active Assignment,Fulltime-Temporary,
+274085,Marius,Giacopelo,Accounting,P954.Department Name.Division Name.05,Librarian,2000-09-04,2000-09-04,147673.77,M,Active Assignment,Parttime-Regular,White
+364484,Rozalin,Jeffels,Sales,K491.Department Name.Division Name.07,Recruiting Manager,2016-09-23,2016-09-23,136885.70,F,Active Assignment,Fulltime-Regular,White
+448385,Barnabas,Moyers,Marketing,X536.Department Name.Division Name.03,Quality Engineer,2011-09-11,2011-09-11,40520.82,M,Active Assignment,Parttime-Regular,Asian
+914365,Lela,Christopher,Engineering,B009.Department Name.Division Name.07,Clinical Specialist,2007-11-18,2007-11-18,144678.37,F,Active Assignment,Fulltime-Temporary,Black or African American
+289708,Rozina,Callam,Business Development,F423.Department Name.Division Name.00,Assistant Manager,2012-05-27,2012-05-27,86140.62,F,Active Assignment,Parttime-Regular,
+909034,Pietrek,Chaloner,Business Development,H329.Department Name.Division Name.01,Senior Quality Engineer,2016-04-02,2016-04-02,61267.37,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+985413,Anderson,Vedenisov,Training,L211.Department Name.Division Name.08,Cost Accountant,2002-08-15,2002-08-15,79573.79,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+140390,Haze,Challoner,Training,I916.Department Name.Division Name.05,Web Developer II,2010-03-16,2010-03-16,88065.71,M,Active Assignment,Parttime-Regular,White
+320183,Tedda,Knifton,Engineering,P444.Department Name.Division Name.04,Cost Accountant,2001-05-30,2001-05-30,149797.64,F,Active Assignment,Fulltime-Temporary,Black or African American
+917259,Candi,Comettoi,Research and Development,T166.Department Name.Division Name.07,Engineer II,2003-04-07,2003-04-07,132669.13,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+867230,Bibby,Girardin,Support,Q991.Department Name.Division Name.04,Teacher,2009-10-04,2009-10-04,45039.78,F,Active Assignment,Parttime-Regular,Black or African American
+883086,Nikolos,Houten,Support,N945.Department Name.Division Name.01,Account Coordinator,2001-06-18,2001-06-18,62799.77,M,Active Assignment,Fulltime-Temporary,Black or African American
+362805,Mechelle,Ferencz,Services,T860.Department Name.Division Name.02,Administrative Assistant III,2011-11-10,2011-11-10,90402.43,F,Active Assignment,Parttime-Regular,
+194408,Cathe,Lutwidge,Research and Development,I532.Department Name.Division Name.04,Sales Associate,2011-04-03,2011-04-03,133800.08,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+493997,Jacky,Jannaway,Product Management,P640.Department Name.Division Name.07,Paralegal,2015-05-03,2015-05-03,103858.46,M,Active Assignment,Fulltime-Regular,White
+794169,Katharine,Perrington,Business Development,D633.Department Name.Division Name.06,Recruiting Manager,2011-06-07,2011-06-07,96498.11,F,Active Assignment,Fulltime-Temporary,
+630020,Belia,Hrycek,Human Resources,J624.Department Name.Division Name.07,GIS Technical Architect,2015-07-13,2015-07-13,51645.07,F,Active Assignment,Fulltime-Regular,Black or African American
+660768,Sharleen,Lawfull,Business Development,F487.Department Name.Division Name.04,Account Coordinator,2013-08-14,2013-08-14,138569.69,F,Active Assignment,Parttime-Regular,Asian
+672111,Miles,Dayer,Training,E373.Department Name.Division Name.00,Quality Engineer,2002-10-15,2002-10-15,65986.24,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+381704,Ivar,Gimenez,Engineering,V867.Department Name.Division Name.07,Assistant Professor,2013-11-01,2013-11-01,40663.26,M,Active Assignment,Fulltime-Regular,Asian
+552623,Aubree,Jelly,Accounting,A863.Department Name.Division Name.03,Structural Analysis Engineer,2015-01-02,2015-01-02,106750.70,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+505461,Glyn,Pletts,Marketing,Y384.Department Name.Division Name.06,Paralegal,2006-07-20,2006-07-20,147664.05,M,Active Assignment,Parttime-Regular,
+796284,Aurora,Colquete,Human Resources,W701.Department Name.Division Name.03,Analyst Programmer,2002-09-30,2002-09-30,120407.54,F,Active Assignment,Fulltime-Temporary,Asian
+559815,Emalia,Fell,Business Development,K594.Department Name.Division Name.03,Compensation Analyst,2010-12-13,2010-12-13,73528.57,F,Active Assignment,Fulltime-Regular,Asian
+949751,Franny,Blanket,Research and Development,A873.Department Name.Division Name.07,Occupational Therapist,2014-02-24,2014-02-24,117138.40,F,Active Assignment,Fulltime-Regular,Black or African American
+852537,Bettye,Earles,Legal,I940.Department Name.Division Name.04,Analog Circuit Design manager,2005-10-02,2005-10-02,57659.05,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+579394,Cherianne,Oels,Human Resources,O739.Department Name.Division Name.09,GIS Technical Architect,2003-11-14,2003-11-14,88510.21,F,Active Assignment,Parttime-Regular,
+399899,Falito,Gilder,Sales,J174.Department Name.Division Name.03,Project Manager,2012-06-25,2012-06-25,137973.45,M,Active Assignment,Fulltime-Temporary,Black or African American
+853941,Kristoffer,Bestwick,Accounting,D516.Department Name.Division Name.00,Assistant Professor,2001-12-27,2001-12-27,83203.11,M,Active Assignment,Fulltime-Regular,Asian
+170529,Winne,Owtram,Engineering,W279.Department Name.Division Name.02,Editor,2013-10-10,2013-10-10,96377.40,F,Active Assignment,Fulltime-Temporary,Asian
+827529,Rik,Fillimore,Engineering,S560.Department Name.Division Name.01,Account Coordinator,2002-07-08,2002-07-08,128094.29,M,Active Assignment,Fulltime-Regular,Black or African American
+275633,Jordon,Genike,Product Management,Z659.Department Name.Division Name.00,Human Resources Manager,2012-01-28,2012-01-28,51130.36,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+407270,Fayre,Mowsdale,Marketing,Y003.Department Name.Division Name.05,Operator,2007-02-19,2007-02-19,126655.94,F,Active Assignment,Fulltime-Regular,Asian
+437873,Josiah,Schuck,Human Resources,Q488.Department Name.Division Name.07,Food Chemist,2016-08-25,2016-08-25,125019.04,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+581551,Marti,O'Gready,Human Resources,B591.Department Name.Division Name.06,Professor,2005-09-01,2005-09-01,94655.27,F,Active Assignment,Fulltime-Regular,White
+793007,Agnese,Townend,Research and Development,F132.Department Name.Division Name.00,Systems Administrator I,2007-09-03,2007-09-03,48981.93,F,Active Assignment,Parttime-Regular,Black or African American
+695872,Rickie,Medling,Sales,G456.Department Name.Division Name.08,Editor,2006-03-18,2006-03-18,136488.60,F,Active Assignment,Fulltime-Temporary,Asian
+341264,Remus,Bossom,Services,N142.Department Name.Division Name.00,Account Coordinator,2011-03-20,2011-03-20,123210.11,M,Active Assignment,Parttime-Regular,White
+730297,Sherline,Norley,Services,S796.Department Name.Division Name.04,Junior Executive,2001-07-09,2001-07-09,94673.69,F,Active Assignment,Fulltime-Regular,Black or African American
+178332,Allyn,Hunsworth,Product Management,Y349.Department Name.Division Name.08,Desktop Support Technician,2012-02-20,2012-02-20,61554.59,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+420067,Arielle,MacIlory,Marketing,M630.Department Name.Division Name.08,Senior Developer,2012-12-02,2012-12-02,145876.80,F,Active Assignment,Fulltime-Regular,White
+314459,Jerry,Waters,Accounting,H073.Department Name.Division Name.08,Librarian,2013-05-15,2013-05-15,125965.24,M,Active Assignment,Fulltime-Regular,
+746752,Cleo,McSperrin,Accounting,R406.Department Name.Division Name.04,Technical Writer,2017-04-22,2017-04-22,59793.58,F,Active Assignment,Parttime-Regular,
+822625,Annecorinne,Orsay,Research and Development,Z643.Department Name.Division Name.08,Social Worker,2008-05-31,2008-05-31,107448.91,F,Active Assignment,Parttime-Regular,Asian
+278413,Moritz,Bowcock,Marketing,A750.Department Name.Division Name.02,Associate Professor,2010-09-07,2010-09-07,58491.40,M,Active Assignment,Parttime-Regular,White
+677052,Dominick,Hounson,Legal,Z557.Department Name.Division Name.00,Administrative Assistant II,2004-12-25,2004-12-25,55751.32,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+667451,Mischa,Ivons,Legal,W974.Department Name.Division Name.04,Developer III,2000-11-17,2000-11-17,149060.11,M,Active Assignment,Fulltime-Regular,Asian
+953752,Danell,Tavner,Engineering,L536.Department Name.Division Name.03,Nurse,2012-12-21,2012-12-21,62187.70,F,Active Assignment,Parttime-Regular,
+967120,Clayborne,Lefort,Research and Development,D839.Department Name.Division Name.05,Compensation Analyst,2005-09-06,2005-09-06,130923.65,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+450888,Anestassia,Kayser,Product Management,T764.Department Name.Division Name.04,Safety Technician II,2002-10-16,2002-10-16,145019.90,F,Active Assignment,Parttime-Regular,White
+998725,Lindsey,Gagan,Research and Development,P573.Department Name.Division Name.06,Clinical Specialist,2009-10-21,2009-10-21,94193.53,F,Active Assignment,Fulltime-Regular,White
+678872,Patrice,Querree,Sales,R853.Department Name.Division Name.01,Electrical Engineer,2014-04-08,2014-04-08,119420.12,M,Active Assignment,Fulltime-Temporary,Asian
+695376,Hester,Pickerin,Services,N783.Department Name.Division Name.06,VP Marketing,2012-09-13,2012-09-13,111526.56,F,Active Assignment,Parttime-Regular,White
+255622,Rhona,North,Engineering,H567.Department Name.Division Name.02,Technical Writer,2017-05-23,2017-05-23,58365.58,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+711072,Colman,Sibbering,Sales,B327.Department Name.Division Name.09,Professor,2010-05-12,2010-05-12,130391.45,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+478817,Frederique,Tatam,Legal,I742.Department Name.Division Name.08,Speech Pathologist,2011-11-11,2011-11-11,63441.49,F,Active Assignment,Parttime-Regular,Black or African American
+136534,Sherlock,Zimmermanns,Sales,X560.Department Name.Division Name.03,Paralegal,2007-07-06,2007-07-06,61192.86,M,Active Assignment,Fulltime-Temporary,Black or African American
+733525,Ginelle,Rymour,Services,N968.Department Name.Division Name.00,Cost Accountant,2011-05-31,2011-05-31,49649.46,F,Active Assignment,Fulltime-Temporary,Black or African American
+546626,Bili,Venturoli,Product Management,L844.Department Name.Division Name.06,Geologist I,2003-11-18,2003-11-18,128360.98,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+936762,Liane,Hatrick,Support,I038.Department Name.Division Name.02,Senior Sales Associate,2014-05-22,2014-05-22,56535.14,F,Active Assignment,Parttime-Regular,Asian
+867533,Marijo,Pre,Product Management,Y799.Department Name.Division Name.02,Design Engineer,2016-05-18,2016-05-18,130836.35,F,Active Assignment,Parttime-Regular,White
+869068,Jeri,Grzegorzewski,Sales,A322.Department Name.Division Name.05,Business Systems Development Analyst,2003-01-04,2003-01-04,146799.45,F,Active Assignment,Fulltime-Temporary,Black or African American
+808199,Coletta,Donner,Services,P435.Department Name.Division Name.04,Compensation Analyst,2004-03-01,2004-03-01,130563.65,F,Active Assignment,Parttime-Regular,Black or African American
+200980,Nickola,Menicomb,Services,O001.Department Name.Division Name.08,Assistant Media Planner,2007-07-30,2007-07-30,129328.38,M,Active Assignment,Parttime-Regular,Black or African American
+157895,Steve,Drioli,Human Resources,Y461.Department Name.Division Name.09,Cost Accountant,2011-09-15,2011-09-15,58557.37,M,Active Assignment,Fulltime-Temporary,Black or African American
+557147,Melanie,Maylam,Research and Development,K326.Department Name.Division Name.08,Financial Advisor,2007-10-04,2007-10-04,51260.88,F,Active Assignment,Fulltime-Temporary,Asian
+163662,Margret,Pritchett,Accounting,T949.Department Name.Division Name.03,Cost Accountant,2001-11-14,2001-11-14,109607.96,F,Active Assignment,Fulltime-Temporary,Asian
+263846,Delora,De Francisci,Sales,Q240.Department Name.Division Name.06,Tax Accountant,2006-04-21,2006-04-21,49993.60,F,Active Assignment,Parttime-Regular,
+802027,Edan,Zannutti,Engineering,U370.Department Name.Division Name.02,Automation Specialist I,2007-11-21,2007-11-21,74603.26,M,Active Assignment,Fulltime-Regular,Black or African American
+734869,Stanfield,Adess,Human Resources,F656.Department Name.Division Name.07,VP Sales,2006-05-23,2006-05-23,52531.86,M,Active Assignment,Parttime-Regular,
+673522,Clarice,Thurber,Engineering,F283.Department Name.Division Name.06,VP Quality Control,2004-06-26,2004-06-26,83517.18,F,Active Assignment,Fulltime-Temporary,Black or African American
+452124,Phillip,Caine,Human Resources,G798.Department Name.Division Name.01,Nurse Practicioner,2016-06-12,2016-06-12,92169.00,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+506313,Rustie,Aitchinson,Human Resources,C664.Department Name.Division Name.07,Junior Executive,2009-02-24,2009-02-24,76049.86,M,Active Assignment,Fulltime-Temporary,Asian
+431431,Wileen,Inglefield,Human Resources,U934.Department Name.Division Name.01,Chemical Engineer,2003-04-06,2003-04-06,56587.40,F,Active Assignment,Parttime-Regular,Black or African American
+711876,Natalina,Kunkler,Accounting,U154.Department Name.Division Name.06,Technical Writer,2006-01-12,2006-01-12,144979.03,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+175816,Dicky,Yabsley,Support,Q667.Department Name.Division Name.07,Help Desk Operator,2003-01-22,2003-01-22,85520.85,M,Active Assignment,Fulltime-Regular,Asian
+508949,Dalt,Bende,Support,D993.Department Name.Division Name.03,Analog Circuit Design manager,2001-12-28,2001-12-28,105653.31,M,Active Assignment,Fulltime-Regular,Asian
+158872,Letisha,Cure,Training,Y889.Department Name.Division Name.02,Clinical Specialist,2003-07-01,2003-07-01,57215.87,F,Active Assignment,Parttime-Regular,Black or African American
+651972,Michelle,Neill,Legal,B573.Department Name.Division Name.04,Budget/Accounting Analyst II,2007-01-07,2007-01-07,132739.38,F,Active Assignment,Fulltime-Regular,
+810476,De,Elsop,Business Development,J384.Department Name.Division Name.01,Quality Engineer,2010-09-15,2010-09-15,83940.31,F,Active Assignment,Fulltime-Temporary,Black or African American
+196164,Yank,Rucklesse,Training,Y991.Department Name.Division Name.00,Project Manager,2013-03-05,2013-03-05,100352.02,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+460038,Wilie,Burbridge,Training,U614.Department Name.Division Name.03,Software Engineer IV,2001-04-03,2001-04-03,75007.75,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+596969,Phebe,Wigginton,Engineering,R259.Department Name.Division Name.01,Senior Developer,2006-05-30,2006-05-30,63072.26,F,Active Assignment,Fulltime-Regular,White
+906898,Blithe,McGavin,Research and Development,O040.Department Name.Division Name.07,Programmer IV,2009-08-04,2009-08-04,81640.21,F,Active Assignment,Fulltime-Regular,Black or African American
+674908,Godard,Yarham,Product Management,E468.Department Name.Division Name.09,Assistant Media Planner,2002-06-18,2002-06-18,114811.91,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+683273,Nevins,Sukbhans,Training,E981.Department Name.Division Name.00,Database Administrator II,2005-09-16,2005-09-16,120075.57,M,Active Assignment,Parttime-Regular,Black or African American
+345396,Harrie,Darwen,Legal,N815.Department Name.Division Name.01,Administrative Assistant II,2001-09-27,2001-09-27,148080.00,F,Active Assignment,Fulltime-Temporary,Black or African American
+478743,Bealle,Isabell,Services,G808.Department Name.Division Name.06,Software Test Engineer IV,2001-07-12,2001-07-12,88692.79,M,Active Assignment,Fulltime-Regular,
+327700,Rubie,Bultitude,Support,W036.Department Name.Division Name.01,Accountant II,2013-03-26,2013-03-26,84229.42,F,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+207630,Sapphire,Artiss,Product Management,V023.Department Name.Division Name.09,Staff Accountant IV,2010-06-24,2010-06-24,104389.86,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+134296,Pebrook,Venners,Marketing,H237.Department Name.Division Name.01,Senior Sales Associate,2006-04-01,2006-04-01,78114.79,M,Active Assignment,Fulltime-Temporary,White
+313633,Merci,Spillard,Business Development,A700.Department Name.Division Name.00,Safety Technician II,2010-08-30,2010-08-30,118083.56,F,Active Assignment,Parttime-Regular,
+490144,Mel,Dabnot,Research and Development,P953.Department Name.Division Name.06,Compensation Analyst,2001-08-17,2001-08-17,144731.81,F,Active Assignment,Fulltime-Regular,Black or African American
+578220,Nathanil,Bulloch,Human Resources,M229.Department Name.Division Name.03,Health Coach II,2000-10-22,2000-10-22,57214.04,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+445603,Dottie,Bouchier,Business Development,J405.Department Name.Division Name.03,Assistant Manager,2010-08-15,2010-08-15,73366.36,F,Active Assignment,Parttime-Regular,
+985039,Willis,Sellack,Human Resources,S121.Department Name.Division Name.05,Environmental Tech,2011-05-31,2011-05-31,77630.92,M,Active Assignment,Fulltime-Regular,Asian
+700099,Nichole,Pyett,Training,Q364.Department Name.Division Name.08,General Manager,2009-08-30,2009-08-30,72675.46,M,Active Assignment,Fulltime-Regular,Black or African American
+859066,Eben,Danbrook,Accounting,D115.Department Name.Division Name.09,Office Assistant II,2010-02-23,2010-02-23,46882.97,M,Active Assignment,Fulltime-Temporary,Black or African American
+992679,Clement,Dedmam,Product Management,B678.Department Name.Division Name.05,Financial Advisor,2010-04-29,2010-04-29,51213.09,M,Active Assignment,Parttime-Regular,Black or African American
+956013,Henka,Tilby,Business Development,H560.Department Name.Division Name.05,VP Accounting,2001-11-11,2001-11-11,114780.69,F,Active Assignment,Fulltime-Temporary,
+485951,Herbie,Dongall,Sales,G276.Department Name.Division Name.06,Quality Engineer,2005-03-25,2005-03-25,116593.61,M,Active Assignment,Fulltime-Regular,
+765521,Eulalie,O' Dornan,Human Resources,H954.Department Name.Division Name.02,Design Engineer,2010-03-25,2010-03-25,101572.32,F,Active Assignment,Fulltime-Regular,
+692177,Lorrie,Baradel,Research and Development,S819.Department Name.Division Name.06,Account Representative IV,2004-12-31,2004-12-31,149253.33,M,Active Assignment,Fulltime-Temporary,Asian
+328240,Paten,Arnoud,Business Development,M294.Department Name.Division Name.03,Human Resources Assistant II,2014-04-09,2014-04-09,111515.71,M,Active Assignment,Fulltime-Temporary,
+994497,Jeffie,Toffel,Human Resources,X112.Department Name.Division Name.07,Chemical Engineer,2013-11-13,2013-11-13,148792.49,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+113965,Des,Dysert,Training,Z837.Department Name.Division Name.08,Human Resources Manager,2015-12-24,2015-12-24,76970.37,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+401457,Diahann,Spenceley,Marketing,F309.Department Name.Division Name.02,Administrative Officer,2004-05-22,2004-05-22,55705.84,F,Active Assignment,Fulltime-Regular,Black or African American
+682157,Barret,Eldon,Accounting,W598.Department Name.Division Name.00,Budget/Accounting Analyst II,2002-12-04,2002-12-04,113200.02,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+414854,Kelcy,Osman,Research and Development,A630.Department Name.Division Name.04,Senior Developer,2012-08-21,2012-08-21,120625.37,F,Active Assignment,Fulltime-Regular,White
+753863,Michele,Gyer,Product Management,Y122.Department Name.Division Name.03,Safety Technician I,2007-09-10,2007-09-10,142198.16,M,Active Assignment,Fulltime-Temporary,
+785352,Jasper,Leathart,Legal,D168.Department Name.Division Name.01,Technical Writer,2009-07-11,2009-07-11,90047.81,M,Active Assignment,Fulltime-Regular,Black or African American
+391188,Timmie,Colerick,Legal,H531.Department Name.Division Name.09,Nuclear Power Engineer,2011-05-15,2011-05-15,66066.93,F,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+925451,Edan,Deniscke,Accounting,Q349.Department Name.Division Name.00,Senior Financial Analyst,2001-03-30,2001-03-30,105929.18,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+788076,Austine,Kenewel,Legal,X815.Department Name.Division Name.09,VP Quality Control,2006-05-24,2006-05-24,70623.63,F,Active Assignment,Fulltime-Regular,Black or African American
+463240,Harwilll,Vautin,Support,H682.Department Name.Division Name.09,Office Assistant IV,2000-12-17,2000-12-17,105626.72,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+925439,Lisetta,Fairham,Product Management,E230.Department Name.Division Name.05,VP Product Management,2005-06-09,2005-06-09,131866.83,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+228943,Kristina,Reiach,Business Development,G644.Department Name.Division Name.05,Quality Engineer,2015-09-13,2015-09-13,67921.29,F,Active Assignment,Fulltime-Regular,White
+725435,Wallie,Darnbrook,Marketing,Y240.Department Name.Division Name.06,Web Developer I,2003-04-20,2003-04-20,86513.76,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+782041,Wat,Elsmore,Sales,G180.Department Name.Division Name.03,Automation Specialist I,2006-09-11,2006-09-11,90526.63,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+213247,Rianon,Teare,Human Resources,M941.Department Name.Division Name.01,Assistant Professor,2011-08-14,2011-08-14,110893.31,F,Active Assignment,Parttime-Regular,
+434679,Lemar,Wimp,Business Development,I665.Department Name.Division Name.01,Associate Professor,2016-02-09,2016-02-09,130172.92,M,Active Assignment,Fulltime-Regular,White
+772683,Kliment,Wallwood,Training,B384.Department Name.Division Name.02,Administrative Officer,2008-01-12,2008-01-12,124501.09,M,Active Assignment,Fulltime-Temporary,Black or African American
+806283,Lezlie,Crookes,Human Resources,U476.Department Name.Division Name.00,Marketing Manager,2003-09-19,2003-09-19,101083.47,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+391580,Steward,Cottle,Legal,N317.Department Name.Division Name.07,Budget/Accounting Analyst IV,2010-05-20,2010-05-20,100789.94,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+456130,Sterling,Thursfield,Support,U118.Department Name.Division Name.00,Software Consultant,2008-01-04,2008-01-04,133810.45,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+158020,Leroy,Scare,Business Development,Q829.Department Name.Division Name.03,Media Manager III,2002-01-21,2002-01-21,60633.41,M,Active Assignment,Fulltime-Temporary,
+927800,Deanna,Foort,Training,X223.Department Name.Division Name.08,Internal Auditor,2009-01-09,2009-01-09,112817.32,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+240835,Ada,MacQueen,Engineering,D725.Department Name.Division Name.06,Help Desk Operator,2008-06-28,2008-06-28,45578.93,F,Active Assignment,Fulltime-Regular,Asian
+135226,Starla,Graybeal,Research and Development,L835.Department Name.Division Name.07,Recruiting Manager,2011-07-07,2011-07-07,58227.22,F,Active Assignment,Parttime-Regular,White
+102224,Fabiano,Roelofs,Services,V863.Department Name.Division Name.05,Health Coach II,2006-05-20,2006-05-20,143860.66,M,Active Assignment,Parttime-Regular,White
+263325,Eunice,Veivers,Accounting,M065.Department Name.Division Name.04,Senior Sales Associate,2010-05-22,2010-05-22,42504.36,F,Active Assignment,Fulltime-Regular,
+489340,Arturo,Wintle,Support,L836.Department Name.Division Name.02,Senior Sales Associate,2003-04-16,2003-04-16,52244.53,M,Active Assignment,Parttime-Regular,
+873463,Lezley,Tokell,Sales,H246.Department Name.Division Name.03,Social Worker,2012-12-27,2012-12-27,143874.60,M,Active Assignment,Fulltime-Temporary,Black or African American
+329259,Padraic,Micheau,Human Resources,Z680.Department Name.Division Name.09,Assistant Manager,2012-04-15,2012-04-15,44648.51,M,Active Assignment,Parttime-Regular,White
+983838,Aila,Bawcock,Services,O909.Department Name.Division Name.05,Editor,2016-03-23,2016-03-23,58865.78,F,Active Assignment,Fulltime-Regular,Black or African American
+606858,Morlee,Potten,Sales,Y137.Department Name.Division Name.04,Physical Therapy Assistant,2016-01-11,2016-01-11,97054.76,M,Active Assignment,Parttime-Regular,Black or African American
+592129,Blanca,Deschelle,Accounting,H914.Department Name.Division Name.05,Quality Control Specialist,2017-01-29,2017-01-29,137126.63,F,Active Assignment,Parttime-Regular,
+493023,Sancho,Baudouin,Product Management,A625.Department Name.Division Name.01,Editor,2007-10-25,2007-10-25,105197.75,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+987867,Lemmie,Merrin,Research and Development,R517.Department Name.Division Name.05,Nurse,2002-05-29,2002-05-29,110176.06,M,Active Assignment,Fulltime-Temporary,Asian
+715687,Archie,Strafford,Support,Y610.Department Name.Division Name.04,Speech Pathologist,2006-05-08,2006-05-08,142173.74,M,Active Assignment,Fulltime-Regular,Asian
+151526,Roman,Oliphard,Accounting,L825.Department Name.Division Name.00,Editor,2008-09-05,2008-09-05,123323.34,M,Active Assignment,Parttime-Regular,
+884306,Isis,Skipp,Sales,T939.Department Name.Division Name.01,Automation Specialist III,2016-07-18,2016-07-18,117204.68,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+437766,Corine,Yukhov,Human Resources,K649.Department Name.Division Name.05,Database Administrator II,2003-10-25,2003-10-25,103477.66,F,Active Assignment,Fulltime-Temporary,White
+514661,Oralia,Claibourn,Legal,Q395.Department Name.Division Name.02,Senior Sales Associate,2013-11-12,2013-11-12,131554.80,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+269944,Jeanette,Andrin,Engineering,J938.Department Name.Division Name.06,Payment Adjustment Coordinator,2007-10-21,2007-10-21,122931.00,F,Active Assignment,Parttime-Regular,White
+428705,Aron,Derricoat,Business Development,L429.Department Name.Division Name.01,Environmental Tech,2002-10-27,2002-10-27,113594.96,M,Active Assignment,Parttime-Regular,White
+299042,Boyce,Hurley,Research and Development,T428.Department Name.Division Name.06,Quality Engineer,2011-04-30,2011-04-30,142733.52,M,Active Assignment,Fulltime-Regular,Black or African American
+370876,Oliviero,Pickersail,Support,O717.Department Name.Division Name.04,Financial Advisor,2001-11-04,2001-11-04,91650.15,M,Active Assignment,Parttime-Regular,Asian
+763044,Felisha,Cord,Services,U198.Department Name.Division Name.06,Health Coach I,2012-06-05,2012-06-05,78660.83,F,Active Assignment,Fulltime-Regular,Black or African American
+871004,Sissy,Danelut,Support,B027.Department Name.Division Name.04,Quality Control Specialist,2005-09-05,2005-09-05,122836.83,F,Active Assignment,Fulltime-Temporary,Asian
+838115,Susy,Lots,Services,M158.Department Name.Division Name.00,Business Systems Development Analyst,2011-08-22,2011-08-22,52474.83,F,Active Assignment,Fulltime-Temporary,
+253437,Tracey,Flecknoe,Accounting,I965.Department Name.Division Name.05,Administrative Assistant II,2000-09-05,2000-09-05,84023.04,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+166717,Paulo,Pesak,Services,O778.Department Name.Division Name.04,Accountant I,2003-06-18,2003-06-18,88682.59,M,Active Assignment,Fulltime-Regular,Black or African American
+705967,Ericka,Wellen,Human Resources,H841.Department Name.Division Name.08,Budget/Accounting Analyst II,2005-03-27,2005-03-27,106544.18,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+223312,Meredeth,Comins,Engineering,V665.Department Name.Division Name.01,Registered Nurse,2008-10-24,2008-10-24,48009.10,M,Active Assignment,Fulltime-Regular,Asian
+421847,Gilemette,Busher,Marketing,T917.Department Name.Division Name.09,Actuary,2013-05-25,2013-05-25,145153.20,F,Active Assignment,Fulltime-Temporary,White
+512816,Rich,Augar,Training,E192.Department Name.Division Name.09,Senior Editor,2005-11-23,2005-11-23,102349.26,M,Active Assignment,Fulltime-Regular,Black or African American
+505467,Sim,Blowfield,Research and Development,B551.Department Name.Division Name.05,Librarian,2007-09-06,2007-09-06,80723.79,M,Active Assignment,Parttime-Regular,Black or African American
+198113,Sylas,Okenfold,Product Management,Q972.Department Name.Division Name.01,Nurse Practicioner,2015-09-25,2015-09-25,60175.79,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+566958,Gil,Aleksankin,Training,C008.Department Name.Division Name.02,Budget/Accounting Analyst II,2012-03-04,2012-03-04,116643.22,M,Active Assignment,Parttime-Regular,Asian
+499313,Paco,Lydiate,Engineering,D391.Department Name.Division Name.07,Desktop Support Technician,2007-01-03,2007-01-03,117015.22,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+180796,Englebert,Rains,Training,H992.Department Name.Division Name.07,Mechanical Systems Engineer,2009-07-19,2009-07-19,90615.99,M,Active Assignment,Fulltime-Regular,White
+597359,Patrizia,Vitet,Legal,V624.Department Name.Division Name.03,Sales Associate,2007-04-15,2007-04-15,127045.73,F,Active Assignment,Fulltime-Regular,White
+289904,Shirline,Kemetz,Sales,N081.Department Name.Division Name.04,Systems Administrator IV,2009-11-02,2009-11-02,119437.11,F,Active Assignment,Parttime-Regular,Black or African American
+803913,Hortense,La Vigne,Engineering,J893.Department Name.Division Name.03,Chief Design Engineer,2012-11-29,2012-11-29,139652.14,F,Active Assignment,Fulltime-Regular,White
+394801,Marcelia,Coburn,Research and Development,H996.Department Name.Division Name.02,Chemical Engineer,2012-07-12,2012-07-12,109424.43,F,Active Assignment,Fulltime-Regular,Black or African American
+410670,Gordy,Lyston,Engineering,X275.Department Name.Division Name.01,Account Representative II,2007-08-06,2007-08-06,87407.26,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+999368,Justinn,Giriardelli,Support,H590.Department Name.Division Name.00,Librarian,2012-10-23,2012-10-23,98071.69,F,Active Assignment,Fulltime-Regular,Black or African American
+263155,Ferdy,Pescud,Research and Development,W893.Department Name.Division Name.01,Analyst Programmer,2014-01-27,2014-01-27,51850.10,M,Active Assignment,Fulltime-Regular,Black or African American
+654636,Pearla,Milvarnie,Legal,S544.Department Name.Division Name.02,Compensation Analyst,2004-08-04,2004-08-04,58471.71,F,Active Assignment,Fulltime-Regular,Asian
+802838,Dimitry,Gammell,Marketing,P272.Department Name.Division Name.07,Recruiting Manager,2015-05-18,2015-05-18,80411.62,M,Active Assignment,Fulltime-Temporary,White
+461882,Orren,Di Nisco,Legal,K377.Department Name.Division Name.00,Compensation Analyst,2001-07-26,2001-07-26,105542.82,M,Active Assignment,Fulltime-Temporary,Black or African American
+985795,Alex,Risbrough,Services,F745.Department Name.Division Name.03,Clinical Specialist,2009-09-23,2009-09-23,62422.74,M,Active Assignment,Fulltime-Temporary,Black or African American
+152442,Rebe,Leeming,Product Management,A963.Department Name.Division Name.01,Director of Sales,2009-02-07,2009-02-07,59142.11,F,Active Assignment,Parttime-Regular,Asian
+370177,Bartolomeo,Cowpertwait,Marketing,Q013.Department Name.Division Name.06,Statistician II,2012-10-14,2012-10-14,139710.83,M,Active Assignment,Fulltime-Regular,Black or African American
+284066,Lilas,Koschke,Services,N059.Department Name.Division Name.05,Project Manager,2008-11-08,2008-11-08,52914.50,F,Active Assignment,Fulltime-Regular,Black or African American
+334952,Launce,Broad,Services,H604.Department Name.Division Name.09,Marketing Assistant,2015-07-07,2015-07-07,90440.07,M,Active Assignment,Fulltime-Temporary,
+512320,Dorise,Rudge,Product Management,N540.Department Name.Division Name.01,VP Accounting,2008-01-14,2008-01-14,93045.43,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+997811,Lyndsie,Grinin,Human Resources,R860.Department Name.Division Name.02,Speech Pathologist,2005-06-08,2005-06-08,57217.54,F,Active Assignment,Fulltime-Regular,Black or African American
+863567,Lynnell,Thorp,Legal,T971.Department Name.Division Name.00,Statistician II,2007-01-16,2007-01-16,83694.98,F,Active Assignment,Fulltime-Temporary,
+419945,Eduard,Elvey,Engineering,Q352.Department Name.Division Name.00,Data Coordiator,2003-06-25,2003-06-25,139093.95,M,Active Assignment,Fulltime-Regular,White
+989852,Rosaline,Bugs,Research and Development,R120.Department Name.Division Name.05,Statistician IV,2017-06-02,2017-06-02,80376.67,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+629948,Jared,Carstairs,Support,B792.Department Name.Division Name.04,Civil Engineer,2001-11-16,2001-11-16,100794.48,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+878999,Constantine,Snape,Marketing,G676.Department Name.Division Name.01,Financial Advisor,2006-11-14,2006-11-14,86141.94,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+733775,Marjorie,Andresen,Accounting,Q436.Department Name.Division Name.09,Programmer Analyst III,2009-08-18,2009-08-18,124439.40,F,Active Assignment,Parttime-Regular,White
+210180,Shaine,Jaspar,Research and Development,X876.Department Name.Division Name.08,Health Coach I,2010-06-15,2010-06-15,92845.68,M,Active Assignment,Parttime-Regular,Asian
+266126,Mela,Clynter,Sales,S229.Department Name.Division Name.04,Project Manager,2003-11-22,2003-11-22,40893.43,F,Active Assignment,Parttime-Regular,Black or African American
+213822,Butch,Leathley,Sales,R672.Department Name.Division Name.08,Administrative Officer,2010-11-18,2010-11-18,93005.33,M,Active Assignment,Parttime-Regular,Asian
+569623,Adela,Couper,Services,L210.Department Name.Division Name.03,Analog Circuit Design manager,2010-09-26,2010-09-26,92265.56,F,Active Assignment,Fulltime-Temporary,Asian
+417383,Barbette,Been,Research and Development,P964.Department Name.Division Name.07,Editor,2017-03-21,2017-03-21,102579.09,F,Active Assignment,Parttime-Regular,White
+787686,Myrtie,Christol,Training,D817.Department Name.Division Name.01,Electrical Engineer,2011-06-08,2011-06-08,52252.71,F,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+911021,Margot,Baise,Human Resources,C145.Department Name.Division Name.01,Recruiting Manager,2003-02-07,2003-02-07,46973.13,F,Active Assignment,Fulltime-Temporary,Asian
+195565,Denise,Millthorpe,Marketing,T113.Department Name.Division Name.04,Chief Design Engineer,2002-01-11,2002-01-11,47895.84,F,Active Assignment,Parttime-Regular,
+830190,Skip,Avramovsky,Sales,Y393.Department Name.Division Name.08,Biostatistician III,2015-04-02,2015-04-02,74409.01,M,Active Assignment,Fulltime-Temporary,
+249086,Cheryl,Coulter,Legal,U111.Department Name.Division Name.05,Financial Analyst,2005-06-14,2005-06-14,54607.39,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+942692,Gaven,Stares,Marketing,W473.Department Name.Division Name.08,Operator,2005-06-25,2005-06-25,45291.70,M,Active Assignment,Fulltime-Regular,Asian
+596187,Clem,Crowley,Sales,W653.Department Name.Division Name.02,Clinical Specialist,2002-05-18,2002-05-18,130843.90,M,Active Assignment,Fulltime-Temporary,Black or African American
+901293,Reggi,Pyne,Support,L671.Department Name.Division Name.05,Media Manager I,2001-12-07,2001-12-07,93905.03,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+310201,Addy,Galliford,Business Development,B862.Department Name.Division Name.06,Research Associate,2003-06-01,2003-06-01,139942.08,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+263266,Camella,Twittey,Human Resources,S262.Department Name.Division Name.02,Technical Writer,2016-09-22,2016-09-22,99970.91,F,Active Assignment,Fulltime-Regular,Black or African American
+143710,Mimi,Mahood,Human Resources,U553.Department Name.Division Name.06,Electrical Engineer,2011-10-29,2011-10-29,90606.85,F,Active Assignment,Fulltime-Temporary,Black or African American
+838525,Clementia,Breffit,Marketing,B333.Department Name.Division Name.06,Safety Technician II,2008-07-29,2008-07-29,127898.79,F,Active Assignment,Parttime-Regular,Black or African American
+559799,Keslie,Ferreira,Sales,D372.Department Name.Division Name.04,Office Assistant I,2002-08-18,2002-08-18,138660.45,F,Active Assignment,Parttime-Regular,White
+577464,Dannie,Littleproud,Support,I960.Department Name.Division Name.07,Human Resources Assistant II,2004-04-18,2004-04-18,125275.32,M,Active Assignment,Parttime-Regular,
+972718,Indira,Dosdale,Marketing,R596.Department Name.Division Name.07,Account Representative I,2010-11-07,2010-11-07,140844.23,F,Active Assignment,Parttime-Regular,Asian
+507534,Phyllida,Tick,Business Development,Q947.Department Name.Division Name.05,Occupational Therapist,2007-03-27,2007-03-27,147707.71,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+739241,Kayla,Bertl,Engineering,S570.Department Name.Division Name.04,Financial Analyst,2004-09-12,2004-09-12,123790.52,F,Active Assignment,Fulltime-Regular,Asian
+992212,Frants,Bartoloma,Engineering,I359.Department Name.Division Name.01,Analyst Programmer,2008-02-01,2008-02-01,122337.84,M,Active Assignment,Parttime-Regular,Asian
+419267,Bing,Baldrey,Product Management,A214.Department Name.Division Name.02,Accountant IV,2001-09-29,2001-09-29,120677.09,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+815077,Zea,Linfoot,Engineering,Z359.Department Name.Division Name.06,Engineer III,2014-04-20,2014-04-20,69217.91,F,Active Assignment,Fulltime-Regular,Black or African American
+555272,Emmalynn,Ede,Support,A893.Department Name.Division Name.09,Tax Accountant,2012-08-12,2012-08-12,120332.01,F,Active Assignment,Fulltime-Temporary,White
+520634,Ortensia,Gosford,Legal,T271.Department Name.Division Name.06,Desktop Support Technician,2006-08-26,2006-08-26,82132.37,F,Active Assignment,Parttime-Regular,Asian
+275010,Christan,Goose,Accounting,X059.Department Name.Division Name.00,Payment Adjustment Coordinator,2010-06-30,2010-06-30,85349.42,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+514582,Allin,Hawkslee,Support,N275.Department Name.Division Name.02,Human Resources Assistant II,2009-04-11,2009-04-11,45661.90,M,Active Assignment,Fulltime-Temporary,White
+601254,Thibaud,Downer,Legal,O859.Department Name.Division Name.08,Human Resources Assistant IV,2012-08-05,2012-08-05,48388.11,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+122339,Barnie,Stang-Gjertsen,Accounting,N008.Department Name.Division Name.07,Analyst Programmer,2012-04-02,2012-04-02,103250.15,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+844995,Noam,Roath,Product Management,Y972.Department Name.Division Name.01,VP Product Management,2014-05-10,2014-05-10,47819.55,M,Active Assignment,Fulltime-Regular,White
+522932,Almira,Turville,Human Resources,X499.Department Name.Division Name.09,Electrical Engineer,2016-08-25,2016-08-25,44195.49,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+869344,Mamie,Bunton,Research and Development,X271.Department Name.Division Name.05,Developer II,2006-02-25,2006-02-25,41821.70,F,Active Assignment,Fulltime-Regular,Asian
+873796,Ramona,Yeell,Engineering,I161.Department Name.Division Name.00,Actuary,2014-07-19,2014-07-19,125601.46,F,Active Assignment,Parttime-Regular,Black or African American
+992560,Whitby,Center,Sales,W437.Department Name.Division Name.00,Human Resources Manager,2001-03-14,2001-03-14,62681.90,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+155222,Karlen,Nusche,Research and Development,P188.Department Name.Division Name.07,Programmer Analyst I,2005-08-24,2005-08-24,95697.35,F,Active Assignment,Fulltime-Temporary,Black or African American
+447613,Griff,Whaley,Support,G581.Department Name.Division Name.06,Business Systems Development Analyst,2006-01-26,2006-01-26,41231.25,M,Active Assignment,Parttime-Regular,Black or African American
+649129,Lutero,Cane,Legal,M530.Department Name.Division Name.07,Statistician II,2004-10-13,2004-10-13,144836.28,M,Active Assignment,Fulltime-Temporary,Asian
+871018,Blaire,Handasyde,Legal,L414.Department Name.Division Name.09,Actuary,2009-04-14,2009-04-14,116860.30,F,Active Assignment,Fulltime-Regular,Asian
+206031,Chris,Korneluk,Marketing,E156.Department Name.Division Name.09,Occupational Therapist,2002-06-28,2002-06-28,123498.33,M,Active Assignment,Fulltime-Regular,Asian
+646124,Ned,Ohm,Research and Development,H241.Department Name.Division Name.06,Operator,2004-02-27,2004-02-27,131221.05,M,Active Assignment,Parttime-Regular,Black or African American
+420998,Salvador,Rosenblum,Services,W313.Department Name.Division Name.02,Chemical Engineer,2000-07-26,2000-07-26,45869.21,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+649232,Melba,Osbiston,Accounting,I706.Department Name.Division Name.02,GIS Technical Architect,2010-07-02,2010-07-02,107674.38,F,Active Assignment,Fulltime-Temporary,White
+846397,Rodrick,Codman,Accounting,I756.Department Name.Division Name.05,Analyst Programmer,2000-12-12,2000-12-12,103502.60,M,Active Assignment,Parttime-Regular,Black or African American
+672373,Olenka,Toffaloni,Support,T154.Department Name.Division Name.09,Health Coach I,2006-07-03,2006-07-03,80446.45,F,Active Assignment,Fulltime-Temporary,Black or African American
+548961,Jameson,Prazer,Engineering,H304.Department Name.Division Name.09,Budget/Accounting Analyst III,2005-11-18,2005-11-18,40790.38,M,Active Assignment,Fulltime-Temporary,Black or African American
+793307,Torry,O' Hogan,Research and Development,E269.Department Name.Division Name.07,GIS Technical Architect,2010-06-30,2010-06-30,40932.74,M,Active Assignment,Fulltime-Regular,Black or African American
+323047,Persis,Grigolon,Training,A156.Department Name.Division Name.05,Research Assistant III,2014-05-07,2014-05-07,93875.64,F,Active Assignment,Fulltime-Regular,Asian
+853490,Enid,Regnard,Services,T249.Department Name.Division Name.01,Nurse Practicioner,2006-10-07,2006-10-07,117915.76,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+766002,Lurette,Topp,Support,Z174.Department Name.Division Name.08,Paralegal,2002-01-30,2002-01-30,120150.74,F,Active Assignment,Fulltime-Regular,Black or African American
+429919,Charlot,Friberg,Engineering,W304.Department Name.Division Name.02,VP Product Management,2015-08-04,2015-08-04,94695.45,F,Active Assignment,Fulltime-Regular,
+568024,Monro,Guiel,Product Management,B821.Department Name.Division Name.02,VP Sales,2012-07-20,2012-07-20,129164.57,M,Active Assignment,Fulltime-Regular,Black or African American
+898485,Milty,Upcott,Support,D803.Department Name.Division Name.00,Senior Financial Analyst,2001-09-07,2001-09-07,54421.85,M,Active Assignment,Parttime-Regular,
+528876,Delphinia,Toderi,Legal,N275.Department Name.Division Name.01,Web Developer II,2015-09-23,2015-09-23,86233.70,F,Active Assignment,Parttime-Regular,Asian
+812584,Cris,Lowndesbrough,Sales,K242.Department Name.Division Name.02,Systems Administrator III,2012-03-12,2012-03-12,121633.11,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+798196,Ben,Sparwell,Engineering,N142.Department Name.Division Name.09,Senior Quality Engineer,2005-11-04,2005-11-04,144434.70,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+698851,Augustine,Djurkovic,Research and Development,L198.Department Name.Division Name.06,Tax Accountant,2010-11-03,2010-11-03,148587.51,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+262143,Perla,Overington,Human Resources,O950.Department Name.Division Name.05,Human Resources Assistant II,2004-10-03,2004-10-03,73384.53,F,Active Assignment,Parttime-Regular,
+451403,Ricca,McSkeagan,Training,U838.Department Name.Division Name.03,Help Desk Operator,2008-02-29,2008-02-29,96695.86,F,Active Assignment,Fulltime-Temporary,Asian
+779138,Zacharias,Schoales,Product Management,A799.Department Name.Division Name.08,Account Coordinator,2009-05-19,2009-05-19,136788.59,M,Active Assignment,Fulltime-Temporary,
+851531,Jolyn,Teece,Research and Development,F652.Department Name.Division Name.04,Technical Writer,2014-08-22,2014-08-22,117768.35,F,Active Assignment,Fulltime-Regular,Asian
+214838,Ilyse,Colebrook,Engineering,N849.Department Name.Division Name.01,Web Developer II,2002-07-05,2002-07-05,100262.91,F,Active Assignment,Fulltime-Regular,Black or African American
+596027,Andeee,Gorringe,Sales,W804.Department Name.Division Name.05,Product Engineer,2012-07-05,2012-07-05,56773.22,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+872299,Hillel,Allridge,Services,O078.Department Name.Division Name.02,Financial Analyst,2006-11-25,2006-11-25,45453.70,M,Active Assignment,Parttime-Regular,
+423131,Randolf,Haine,Marketing,C927.Department Name.Division Name.03,Media Manager III,2014-03-25,2014-03-25,68284.31,M,Active Assignment,Fulltime-Regular,Native Hawaiian or Other Pacific
+595263,Catha,Verity,Human Resources,I200.Department Name.Division Name.01,VP Accounting,2014-02-17,2014-02-17,110138.10,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+175625,Cherri,Cassel,Product Management,B775.Department Name.Division Name.05,Quality Control Specialist,2008-10-11,2008-10-11,62069.14,F,Active Assignment,Fulltime-Regular,White
+579004,Abdul,Thurlborn,Human Resources,E130.Department Name.Division Name.02,Analyst Programmer,2013-05-09,2013-05-09,65211.53,M,Active Assignment,Parttime-Regular,Black or African American
+246093,Ashlin,Pelzer,Marketing,T838.Department Name.Division Name.05,Systems Administrator IV,2017-02-03,2017-02-03,101929.55,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+589139,Gibbie,McGurn,Accounting,K902.Department Name.Division Name.09,Graphic Designer,2006-05-23,2006-05-23,47854.15,M,Active Assignment,Fulltime-Temporary,Asian
+739759,Berthe,Savile,Support,P656.Department Name.Division Name.00,VP Marketing,2014-10-30,2014-10-30,125282.03,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+377221,Anastasia,Pauluzzi,Marketing,F569.Department Name.Division Name.00,Recruiting Manager,2014-09-28,2014-09-28,95853.39,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+539498,Jeanette,Brockie,Business Development,Z081.Department Name.Division Name.03,Geological Engineer,2003-11-03,2003-11-03,89677.23,F,Active Assignment,Fulltime-Temporary,Asian
+822266,Kristine,Petrasso,Accounting,N368.Department Name.Division Name.02,Media Manager III,2011-02-07,2011-02-07,110175.39,F,Active Assignment,Parttime-Regular,Black or African American
+657170,Dale,Lowdeane,Human Resources,T764.Department Name.Division Name.06,Software Test Engineer II,2012-02-29,2012-02-29,92927.23,F,Active Assignment,Parttime-Regular,Black or African American
+292150,Jacobo,Yetton,Legal,Z411.Department Name.Division Name.04,Registered Nurse,2012-02-16,2012-02-16,137411.96,M,Active Assignment,Parttime-Regular,
+333817,Gleda,Conelly,Marketing,N030.Department Name.Division Name.09,Senior Quality Engineer,2014-08-08,2014-08-08,129728.25,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+968673,Alwyn,Barkhouse,Research and Development,R715.Department Name.Division Name.07,Account Executive,2007-03-03,2007-03-03,95522.16,M,Active Assignment,Fulltime-Regular,American Indian or Alaskan Native
+680917,Friedrick,Hazley,Business Development,P622.Department Name.Division Name.01,Recruiting Manager,2004-09-11,2004-09-11,87043.13,M,Active Assignment,Parttime-Regular,Asian
+505365,Ruthie,Pawlata,Engineering,U053.Department Name.Division Name.06,Physical Therapy Assistant,2014-11-27,2014-11-27,66117.14,F,Active Assignment,Fulltime-Temporary,Asian
+288185,Trey,Glenton,Services,K849.Department Name.Division Name.02,Quality Engineer,2007-01-09,2007-01-09,65427.56,M,Active Assignment,Parttime-Regular,Asian
+722834,Urban,Flintuff,Sales,B867.Department Name.Division Name.07,Geologist II,2009-06-24,2009-06-24,85902.55,M,Active Assignment,Parttime-Regular,Asian
+583643,Garnet,Ryles,Research and Development,Y956.Department Name.Division Name.03,Senior Editor,2017-01-08,2017-01-08,126310.20,F,Active Assignment,Fulltime-Temporary,White
+591706,Corrina,Locks,Engineering,H501.Department Name.Division Name.08,Community Outreach Specialist,2008-10-26,2008-10-26,149001.77,F,Active Assignment,Fulltime-Temporary,Asian
+533569,Aryn,Gowrich,Business Development,Z820.Department Name.Division Name.06,Senior Quality Engineer,2008-05-04,2008-05-04,68544.17,F,Active Assignment,Fulltime-Temporary,Asian
+202287,Laurice,Hunnybun,Legal,O999.Department Name.Division Name.01,Senior Developer,2009-06-03,2009-06-03,40331.72,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+249709,Holli,Gypson,Business Development,Y303.Department Name.Division Name.00,Geologist III,2008-02-26,2008-02-26,106330.25,F,Active Assignment,Fulltime-Regular,Black or African American
+561209,Amelina,Dumbarton,Legal,G965.Department Name.Division Name.00,Sales Associate,2007-06-13,2007-06-13,67703.56,F,Active Assignment,Parttime-Regular,Asian
+987318,Annabel,Waker,Services,J543.Department Name.Division Name.02,Internal Auditor,2017-03-30,2017-03-30,135986.90,F,Active Assignment,Fulltime-Temporary,
+397693,Lazar,Branch,Sales,H157.Department Name.Division Name.09,Graphic Designer,2005-02-11,2005-02-11,142225.05,M,Active Assignment,Fulltime-Temporary,Black or African American
+295249,Nalani,Sephton,Sales,M809.Department Name.Division Name.08,Senior Editor,2016-11-08,2016-11-08,64596.65,F,Active Assignment,Parttime-Regular,Black or African American
+693657,Elisha,Hawkeridge,Research and Development,C646.Department Name.Division Name.08,Web Developer II,2009-04-19,2009-04-19,125397.89,F,Active Assignment,Parttime-Regular,Asian
+812289,Nessy,Hardware,Product Management,F494.Department Name.Division Name.00,Analyst Programmer,2004-01-28,2004-01-28,129681.47,F,Active Assignment,Parttime-Regular,
+247471,Fredericka,Nial,Training,M465.Department Name.Division Name.02,Developer I,2006-08-26,2006-08-26,137741.68,F,Active Assignment,Parttime-Regular,Black or African American
+865904,Goldy,Fardon,Product Management,M794.Department Name.Division Name.08,Systems Administrator I,2011-07-26,2011-07-26,124073.78,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+605739,Wallie,Leckenby,Product Management,B103.Department Name.Division Name.02,Physical Therapy Assistant,2000-11-06,2000-11-06,137500.40,F,Active Assignment,Fulltime-Regular,
+183087,Renado,Hatherell,Business Development,K286.Department Name.Division Name.07,Dental Hygienist,2006-11-29,2006-11-29,109394.76,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+986084,Yolanthe,Burns,Engineering,I242.Department Name.Division Name.06,Technical Writer,2016-05-17,2016-05-17,69645.25,F,Active Assignment,Fulltime-Temporary,
+784780,Van,Bracco,Services,I129.Department Name.Division Name.07,Occupational Therapist,2006-07-04,2006-07-04,106799.04,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+587634,Peyton,Airey,Accounting,B866.Department Name.Division Name.06,Professor,2007-11-18,2007-11-18,74918.59,M,Active Assignment,Fulltime-Temporary,
+170635,Dagny,Porch,Product Management,C710.Department Name.Division Name.03,Tax Accountant,2003-07-21,2003-07-21,97775.50,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+182002,Hans,Klimov,Training,V039.Department Name.Division Name.05,Quality Engineer,2012-02-21,2012-02-21,109861.24,M,Active Assignment,Fulltime-Regular,Asian
+318917,Elnore,Matzaitis,Training,N313.Department Name.Division Name.01,Programmer Analyst II,2002-10-25,2002-10-25,97408.55,F,Active Assignment,Parttime-Regular,Black or African American
+742302,Laura,Van Merwe,Support,M238.Department Name.Division Name.09,Civil Engineer,2001-06-25,2001-06-25,93676.47,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+374522,Myrtie,McNevin,Research and Development,N889.Department Name.Division Name.09,Help Desk Technician,2013-08-12,2013-08-12,149406.97,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+383234,Tandy,Downham,Legal,V031.Department Name.Division Name.04,Budget/Accounting Analyst III,2016-08-06,2016-08-06,87469.87,F,Active Assignment,Fulltime-Regular,Black or African American
+863295,Livvie,Goss,Engineering,C205.Department Name.Division Name.02,Account Coordinator,2013-01-02,2013-01-02,137253.83,F,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+105596,Melly,MacCartair,Sales,F353.Department Name.Division Name.06,Teacher,2011-03-06,2011-03-06,118755.33,F,Active Assignment,Fulltime-Temporary,Black or African American
+504736,Bryana,Radnedge,Marketing,H819.Department Name.Division Name.07,Budget/Accounting Analyst II,2006-01-06,2006-01-06,140232.15,F,Active Assignment,Fulltime-Temporary,Black or African American
+896804,Marthena,Cromer,Legal,I579.Department Name.Division Name.01,Environmental Tech,2016-10-20,2016-10-20,63476.48,F,Active Assignment,Fulltime-Temporary,Black or African American
+806692,Elvina,Mallya,Research and Development,N064.Department Name.Division Name.08,Clinical Specialist,2010-06-23,2010-06-23,104909.17,F,Active Assignment,Parttime-Regular,Black or African American
+106047,Alikee,Putterill,Engineering,H342.Department Name.Division Name.02,Operator,2007-09-16,2007-09-16,48529.77,F,Active Assignment,Fulltime-Temporary,White
+391908,Jerrold,Schubbert,Engineering,W529.Department Name.Division Name.04,Senior Editor,2002-01-22,2002-01-22,76734.52,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+599670,Mitch,Martynov,Research and Development,Y149.Department Name.Division Name.05,Research Assistant I,2008-07-12,2008-07-12,123880.77,M,Active Assignment,Parttime-Regular,
+200584,Fran,Eppson,Legal,E438.Department Name.Division Name.03,Staff Scientist,2007-05-14,2007-05-14,105139.23,F,Active Assignment,Parttime-Regular,White
+921319,Erick,Tuohy,Training,P003.Department Name.Division Name.02,Nurse,2010-10-23,2010-10-23,80225.01,M,Active Assignment,Fulltime-Regular,
+867539,Yasmin,Darling,Product Management,P799.Department Name.Division Name.09,Teacher,2009-12-28,2009-12-28,47116.45,F,Active Assignment,Fulltime-Temporary,White
+308063,Lyn,Bankes,Training,A798.Department Name.Division Name.07,Food Chemist,2003-06-26,2003-06-26,46868.88,F,Active Assignment,Parttime-Regular,Black or African American
+290888,Zach,Di Ruggero,Research and Development,L154.Department Name.Division Name.09,VP Marketing,2011-03-21,2011-03-21,87454.01,M,Active Assignment,Fulltime-Regular,White
+752384,Louella,Dudin,Business Development,U518.Department Name.Division Name.08,Actuary,2002-05-14,2002-05-14,53057.12,F,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+679792,Reinaldo,Werrit,Training,H078.Department Name.Division Name.00,Assistant Media Planner,2002-11-30,2002-11-30,131191.45,M,Active Assignment,Parttime-Regular,Asian
+570266,Olivier,Cooney,Research and Development,V889.Department Name.Division Name.09,Structural Engineer,2011-04-07,2011-04-07,106255.84,M,Active Assignment,Fulltime-Temporary,Black or African American
+778033,Keir,Roskilly,Sales,C970.Department Name.Division Name.06,Analyst Programmer,2014-04-14,2014-04-14,100979.82,M,Active Assignment,Fulltime-Regular,Asian
+342133,Henrieta,Tennewell,Training,L690.Department Name.Division Name.06,Biostatistician I,2003-02-03,2003-02-03,42778.81,F,Active Assignment,Fulltime-Temporary,Asian
+518528,Candi,Stewartson,Legal,N864.Department Name.Division Name.04,Librarian,2002-11-29,2002-11-29,112712.59,F,Active Assignment,Parttime-Regular,Black or African American
+860044,Griswold,Besque,Legal,T769.Department Name.Division Name.01,Chief Design Engineer,2006-09-16,2006-09-16,108837.75,M,Active Assignment,Fulltime-Regular,Black or African American
+158604,Susi,McCart,Services,M399.Department Name.Division Name.07,Research Assistant III,2010-07-26,2010-07-26,88785.40,F,Active Assignment,Parttime-Regular,Black or African American
+294906,Giacopo,Mauro,Product Management,E194.Department Name.Division Name.06,Recruiter,2007-02-09,2007-02-09,40859.95,M,Active Assignment,Fulltime-Temporary,Asian
+127981,Gearalt,Rentalll,Human Resources,Q851.Department Name.Division Name.05,Information Systems Manager,2011-01-30,2011-01-30,74356.03,M,Active Assignment,Parttime-Regular,
+307083,Annie,Slesser,Sales,Q011.Department Name.Division Name.03,Staff Accountant I,2007-08-20,2007-08-20,81408.76,F,Active Assignment,Fulltime-Temporary,Asian
+446862,Daren,Phelips,Engineering,X531.Department Name.Division Name.03,Mechanical Systems Engineer,2016-08-17,2016-08-17,89134.01,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+469229,Sigismund,Meach,Accounting,M884.Department Name.Division Name.04,Help Desk Technician,2015-03-17,2015-03-17,74612.79,M,Active Assignment,Fulltime-Temporary,Black or African American
+475231,Emmott,Eddowes,Sales,X544.Department Name.Division Name.02,Pharmacist,2007-11-13,2007-11-13,103267.48,M,Active Assignment,Fulltime-Regular,Asian
+801336,Zara,Ewings,Human Resources,N470.Department Name.Division Name.05,Mechanical Systems Engineer,2017-03-24,2017-03-24,82278.27,F,Active Assignment,Fulltime-Regular,White
+100842,Cristiano,Extil,Research and Development,E845.Department Name.Division Name.09,Account Coordinator,2007-10-09,2007-10-09,124770.37,M,Active Assignment,Fulltime-Temporary,
+792453,Cleve,Spikeings,Sales,O072.Department Name.Division Name.06,Senior Developer,2014-03-06,2014-03-06,114066.50,M,Active Assignment,Parttime-Regular,Black or African American
+319987,Whitby,Kinde,Research and Development,I479.Department Name.Division Name.08,Geological Engineer,2001-03-26,2001-03-26,123895.16,M,Active Assignment,Fulltime-Regular,Asian
+310775,Stephie,Rayman,Sales,A021.Department Name.Division Name.04,Marketing Assistant,2006-01-03,2006-01-03,114616.52,F,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+826564,Abraham,Seager,Research and Development,X666.Department Name.Division Name.06,Technical Writer,2002-10-15,2002-10-15,89854.89,M,Active Assignment,Fulltime-Regular,White
+748092,Fabien,Cargo,Services,G287.Department Name.Division Name.01,Research Assistant I,2002-07-05,2002-07-05,137536.83,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+955141,Connor,Yegorchenkov,Sales,W327.Department Name.Division Name.01,Research Nurse,2015-01-17,2015-01-17,128898.24,M,Active Assignment,Parttime-Regular,Black or African American
+774383,Joachim,Petchell,Support,Q663.Department Name.Division Name.07,Media Manager I,2009-06-21,2009-06-21,58388.34,M,Active Assignment,Parttime-Regular,
+284926,Noll,Darrel,Engineering,N731.Department Name.Division Name.08,Research Nurse,2015-05-30,2015-05-30,81126.10,M,Active Assignment,Parttime-Regular,Black or African American
+458359,Joyous,Delgardo,Human Resources,A715.Department Name.Division Name.07,Payment Adjustment Coordinator,2014-07-26,2014-07-26,135094.34,F,Active Assignment,Fulltime-Temporary,White
+549309,Rochell,Pauleit,Legal,N696.Department Name.Division Name.03,Software Test Engineer III,2010-11-18,2010-11-18,53475.79,F,Active Assignment,Fulltime-Regular,Black or African American
+593669,Gino,Stile,Accounting,L450.Department Name.Division Name.08,Teacher,2010-12-05,2010-12-05,53529.95,M,Active Assignment,Parttime-Regular,Black or African American
+896401,Davita,Butten,Training,E801.Department Name.Division Name.03,VP Sales,2007-07-24,2007-07-24,148793.76,F,Active Assignment,Fulltime-Temporary,Black or African American
+137023,Rowland,Trimble,Legal,B335.Department Name.Division Name.01,Junior Executive,2011-08-01,2011-08-01,69497.04,M,Active Assignment,Fulltime-Regular,
+178707,Thibaud,Batterbee,Legal,O594.Department Name.Division Name.04,Developer IV,2003-12-01,2003-12-01,41306.03,M,Active Assignment,Fulltime-Regular,Asian
+969304,Pia,Charrisson,Legal,I662.Department Name.Division Name.08,Payment Adjustment Coordinator,2008-12-16,2008-12-16,97412.81,F,Active Assignment,Parttime-Regular,Asian
+396633,Cleve,Bartkiewicz,Legal,L849.Department Name.Division Name.01,Structural Analysis Engineer,2008-09-30,2008-09-30,142148.58,M,Active Assignment,Fulltime-Temporary,
+701377,Osbert,Dulin,Training,J049.Department Name.Division Name.07,Senior Financial Analyst,2010-12-09,2010-12-09,147733.59,M,Active Assignment,Fulltime-Temporary,Black or African American
+275661,Gage,Macauley,Human Resources,K405.Department Name.Division Name.01,Help Desk Operator,2013-12-20,2013-12-20,53094.16,M,Active Assignment,Parttime-Regular,Asian
+643362,Roderich,Frawley,Marketing,S484.Department Name.Division Name.01,Pharmacist,2016-06-08,2016-06-08,130493.72,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+226746,Annamarie,Tooker,Human Resources,P172.Department Name.Division Name.05,Database Administrator II,2007-09-16,2007-09-16,110082.19,F,Active Assignment,Fulltime-Regular,White
+676786,Amble,Gentiry,Marketing,E038.Department Name.Division Name.07,Media Manager IV,2011-02-11,2011-02-11,124990.17,M,Active Assignment,Fulltime-Temporary,Asian
+281141,Nelia,Apdell,Business Development,T551.Department Name.Division Name.07,Tax Accountant,2003-12-18,2003-12-18,112861.71,F,Active Assignment,Fulltime-Regular,
+890351,Arty,De Fraine,Services,B903.Department Name.Division Name.04,Administrative Assistant IV,2000-11-18,2000-11-18,62207.82,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+595017,Ilario,Gillopp,Services,K964.Department Name.Division Name.08,Web Designer III,2010-07-25,2010-07-25,111355.55,M,Active Assignment,Fulltime-Regular,Hispanic or Latino of any race
+720989,Torrance,Barlthrop,Sales,M776.Department Name.Division Name.06,Database Administrator II,2009-03-04,2009-03-04,112908.00,M,Active Assignment,Parttime-Regular,Native Hawaiian or Other Pacific
+176357,Lindy,Chinery,Support,D240.Department Name.Division Name.04,Operator,2013-12-19,2013-12-19,41357.69,M,Active Assignment,Fulltime-Regular,White
+381003,Osbourne,Arkcoll,Training,C078.Department Name.Division Name.01,VP Quality Control,2015-02-22,2015-02-22,124474.00,M,Active Assignment,Parttime-Regular,Asian
+334021,Rustin,Southerton,Research and Development,O514.Department Name.Division Name.05,Payment Adjustment Coordinator,2016-04-18,2016-04-18,41767.33,M,Active Assignment,Fulltime-Regular,White
+924622,Vi,Bendik,Legal,L127.Department Name.Division Name.03,Registered Nurse,2005-06-08,2005-06-08,58240.42,F,Active Assignment,Parttime-Regular,Asian
+678628,Zahara,Delucia,Business Development,N588.Department Name.Division Name.09,Data Coordiator,2011-12-06,2011-12-06,60224.44,F,Active Assignment,Fulltime-Temporary,White
+298369,Willie,Kleinplac,Support,R574.Department Name.Division Name.08,Community Outreach Specialist,2010-05-14,2010-05-14,88927.19,F,Active Assignment,Fulltime-Temporary,Asian
+667994,Huberto,Henmarsh,Marketing,Y671.Department Name.Division Name.08,Recruiter,2002-08-05,2002-08-05,86001.06,M,Active Assignment,Fulltime-Temporary,Asian
+135598,Ibrahim,Cranfield,Support,V545.Department Name.Division Name.08,Paralegal,2000-07-21,2000-07-21,132249.08,M,Active Assignment,Fulltime-Temporary,Asian
+617409,Ora,Drexel,Product Management,D101.Department Name.Division Name.05,Desktop Support Technician,2012-08-04,2012-08-04,135640.76,F,Active Assignment,Parttime-Regular,
+233299,Fairleigh,Fulun,Legal,O885.Department Name.Division Name.09,Senior Editor,2011-06-16,2011-06-16,136871.46,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+114906,Dennison,Myderscough,Engineering,E328.Department Name.Division Name.00,Legal Assistant,2005-12-19,2005-12-19,125731.49,M,Active Assignment,Fulltime-Regular,
+402953,Jorge,McCurley,Research and Development,K369.Department Name.Division Name.06,Senior Cost Accountant,2009-12-04,2009-12-04,125514.02,M,Active Assignment,Fulltime-Regular,Black or African American
+991640,Freddie,Strelitzki,Services,S302.Department Name.Division Name.02,Software Test Engineer III,2005-06-23,2005-06-23,49108.90,M,Active Assignment,Parttime-Regular,Black or African American
+546859,Petronella,Dufton,Research and Development,O649.Department Name.Division Name.09,Automation Specialist IV,2013-06-19,2013-06-19,119174.02,F,Active Assignment,Fulltime-Temporary,Black or African American
+292387,Rolf,Tapp,Engineering,K227.Department Name.Division Name.01,VP Accounting,2010-10-15,2010-10-15,100923.52,M,Active Assignment,Parttime-Regular,Asian
+771866,Judd,Desantis,Research and Development,W840.Department Name.Division Name.00,Geological Engineer,2015-06-14,2015-06-14,107617.43,M,Active Assignment,Parttime-Regular,Hispanic or Latino of any race
+252150,Traci,Prate,Business Development,Y575.Department Name.Division Name.00,Web Designer IV,2005-01-22,2005-01-22,62445.60,F,Active Assignment,Fulltime-Regular,Asian
+970079,Reid,Ackermann,Marketing,R938.Department Name.Division Name.04,Database Administrator III,2000-07-02,2000-07-02,81912.11,M,Active Assignment,Fulltime-Temporary,
+844199,Ericka,Matejic,Sales,Q158.Department Name.Division Name.00,Teacher,2012-06-10,2012-06-10,83371.70,F,Active Assignment,Fulltime-Temporary,Black or African American
+442987,Rutger,Tesoe,Training,S966.Department Name.Division Name.08,Associate Professor,2002-07-19,2002-07-19,55923.66,M,Active Assignment,Fulltime-Temporary,Black or African American
+786117,Reina,Killigrew,Training,M036.Department Name.Division Name.02,Recruiting Manager,2003-12-14,2003-12-14,61527.56,F,Active Assignment,Parttime-Regular,White
+911677,Shermy,Stanway,Sales,Q938.Department Name.Division Name.09,Physical Therapy Assistant,2009-04-23,2009-04-23,95869.55,M,Active Assignment,Parttime-Regular,Black or African American
+331273,Gwyneth,Siward,Human Resources,J843.Department Name.Division Name.04,Cost Accountant,2008-03-25,2008-03-25,76350.89,F,Active Assignment,Fulltime-Temporary,Black or African American
+482515,Gustavus,Jiroutka,Services,X092.Department Name.Division Name.09,Web Developer III,2002-11-16,2002-11-16,121093.11,M,Active Assignment,Fulltime-Temporary,Native Hawaiian or Other Pacific
+146970,Ellerey,Gemmill,Services,C947.Department Name.Division Name.04,Geologist I,2003-03-24,2003-03-24,51180.42,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+893302,Ninnetta,Ranahan,Legal,R774.Department Name.Division Name.07,Design Engineer,2002-04-01,2002-04-01,139841.61,F,Active Assignment,Parttime-Regular,Asian
+330139,Gray,Sandels,Services,V136.Department Name.Division Name.09,Paralegal,2008-08-01,2008-08-01,53395.79,M,Active Assignment,Fulltime-Temporary,Asian
+844933,Holly,Denison,Business Development,W882.Department Name.Division Name.06,Compensation Analyst,2005-03-16,2005-03-16,110399.79,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race
+638424,Dimitry,Strickett,Sales,N383.Department Name.Division Name.03,Civil Engineer,2016-05-21,2016-05-21,114296.42,M,Active Assignment,Fulltime-Temporary,Black or African American
+879481,Fernandina,Ruffle,Services,Q268.Department Name.Division Name.01,Nurse Practicioner,2003-06-14,2003-06-14,67158.67,F,Active Assignment,Fulltime-Temporary,White
+481307,Lemmie,Branson,Business Development,C656.Department Name.Division Name.07,Administrative Assistant III,2000-12-05,2000-12-05,141894.52,M,Active Assignment,Fulltime-Temporary,Hispanic or Latino of any race

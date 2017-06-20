@@ -1,2 +1,6 @@
 venv
 desired output
+input/*
+!input/hires-sample.csv
+output/*
+!output/hires-sample.csv
