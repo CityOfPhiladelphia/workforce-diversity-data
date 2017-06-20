@@ -38,7 +38,7 @@ def process(hires):
         .select('{latest_start_date} == {job_seniority_date}') \
         .addfield('race_ethnicity', add_race_ethnicity) \
         .cutout(*RACES)
-    print(etl.tocsv(table))
+    etl.tocsv(table)
 
 if __name__ == '__main__':
     process()
