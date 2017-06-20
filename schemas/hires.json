@@ -57,10 +57,17 @@
       }
     },
     {
+      "name": "total_salary",
+      "type": "number",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
       "name": "gender",
       "type": "string",
       "constraints": {
-        "required": true
+        "required": false
       }
     },
     {
@@ -74,14 +81,14 @@
       "name": "assignment_category",
       "type": "string",
       "constraints": {
-        "required": true
+        "required": false
       }
     },
     {
       "name": "race_ethnicity",
       "type": "string",
       "constraints": {
-        "required": true
+        "required": false
       }
     }
   ],
