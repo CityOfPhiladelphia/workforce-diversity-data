@@ -11,12 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
 ```bash
-python main.py hires-sample.csv
+python main.py hires_and_promotions_excel.xlsx separations_excel.xlsx
 ```
-
-Note: use [`in2csv`][in2csv] to convert Excel files to `.csv`.
-You may need to specify `--format xls` despite the file extension
-of `.xlsx` that Oracle provides.
-
-[in2csv]: http://csvkit.readthedocs.io/en/833/scripts/in2csv.html

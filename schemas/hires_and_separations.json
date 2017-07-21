@@ -1,4 +1,7 @@
 {
+  "primaryKey": [
+    "payroll_number"
+  ],
   "fields": [
     {
       "name": "payroll_number",
@@ -44,17 +47,19 @@
     },
     {
       "name": "latest_start_date",
-      "type": "date",
+      "type": "datetime",
       "constraints": {
         "required": true
-      }
+      },
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
     },
     {
       "name": "job_seniority_date",
-      "type": "date",
+      "type": "datetime",
       "constraints": {
-        "required": true
-      }
+        "required": false
+      },
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
     },
     {
       "name": "total_salary",
@@ -65,6 +70,55 @@
     },
     {
       "name": "gender",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "hispanic_or_latino_of_any_race",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "american_indian_or_alaskan_native",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "asian",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "black_or_african_american",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "native_hawaiian_or_other_pacific",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "white",
+      "type": "string",
+      "constraints": {
+        "required": false
+      }
+    },
+    {
+      "name": "two_or_more_races",
       "type": "string",
       "constraints": {
         "required": false
@@ -85,14 +139,19 @@
       }
     },
     {
-      "name": "race_ethnicity",
+      "name": "leave_reason",
       "type": "string",
       "constraints": {
         "required": false
       }
+    },
+    {
+      "name": "termination_date",
+      "type": "datetime",
+      "constraints": {
+        "required": false
+      },
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
     }
-  ],
-  "primaryKey": [
-    "payroll_number"
   ]
 }
