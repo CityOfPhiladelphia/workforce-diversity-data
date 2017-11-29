@@ -1,8 +1,16 @@
 {
   "primaryKey": [
+    "snapshot_date",
     "payroll_number"
   ],
   "fields": [
+    {
+      "name": "snapshot_date",
+      "type": "datetime",
+      "constraints": {
+        "required": true
+      }
+    },
     {
       "name": "payroll_number",
       "type": "string",
@@ -32,6 +40,20 @@
       }
     },
     {
+      "name": "division",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "index_code",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
       "name": "position",
       "type": "string",
       "constraints": {
@@ -50,79 +72,50 @@
       "type": "datetime",
       "constraints": {
         "required": true
-      },
-      "format": "fmt:%Y-%m-%d %H:%M:%S"
+      }
     },
     {
       "name": "job_seniority_date",
       "type": "datetime",
       "constraints": {
-        "required": false
-      },
-      "format": "fmt:%Y-%m-%d %H:%M:%S"
+        "required": true
+      }
     },
     {
       "name": "total_salary",
-      "type": "number",
-      "constraints": {
-        "required": false
-      }
+      "type": "number"
     },
     {
       "name": "gender",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "hispanic_or_latino_of_any_race",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "american_indian_or_alaskan_native",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "asian",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "black_or_african_american",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "native_hawaiian_or_other_pacific",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "white",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "two_or_more_races",
-      "type": "string",
-      "constraints": {
-        "required": false
-      }
+      "type": "string"
     },
     {
       "name": "assignment_status",
@@ -135,23 +128,22 @@
       "name": "assignment_category",
       "type": "string",
       "constraints": {
-        "required": false
+        "required": true
       }
     },
     {
       "name": "leave_reason",
-      "type": "string",
+      "type": "datetime",
       "constraints": {
-        "required": false
+        "required": true
       }
     },
     {
       "name": "termination_date",
       "type": "datetime",
       "constraints": {
-        "required": false
-      },
-      "format": "fmt:%Y-%m-%d %H:%M:%S"
+        "required": true
+      }
     }
   ]
 }
