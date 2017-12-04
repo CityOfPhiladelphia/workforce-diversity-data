@@ -82,6 +82,10 @@
       }
     },
     {
+      "name": "hiring_department",
+      "type": "string"
+    },
+    {
       "name": "total_salary",
       "type": "number"
     },
@@ -132,7 +136,7 @@
       }
     },
     {
-      "name": "leave_reason",
+      "name": "leaving_reason",
       "type": "datetime",
       "constraints": {
         "required": true

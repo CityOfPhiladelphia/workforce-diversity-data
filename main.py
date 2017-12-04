@@ -17,6 +17,7 @@ column_map_shared = OrderedDict([
     ('Job', 'job'),
     ('Latest Start Date', 'latest_start_date'),
     ('Job Seniority Date', 'job_seniority_date'),
+    ('Hiring Department', 'hiring_department'),
     ('Total Salary', 'total_salary'),
     ('Gender', 'gender'),
     ('Hispanic or Latino of any race', 'hispanic_or_latino_of_any_race'),
@@ -31,7 +32,7 @@ column_map_shared = OrderedDict([
 ])
 
 column_map_separations = OrderedDict([
-    ('Leave Reason', 'leave_reason'),
+    ('Leaving Reason', 'leaving_reason'),
     ('Termination Date', 'termination_date')
 ])
 
@@ -80,7 +81,7 @@ roster_date_fields = [
 ]
 
 def convert_date(value):
-    return datetime.strptime(value, '%Y/%m/%d %I:%M:%S %p').isoformat()
+    return datetime.strptime(value, '%Y/%m/%d %I:%M:%S %p').isoformat() + 'Z'
 
 def transformer(snapshot_date, date_fields):
     def transform_row(row):

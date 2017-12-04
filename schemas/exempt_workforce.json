@@ -3,6 +3,10 @@
     "snapshot_date",
     "payroll_number"
   ],
+  "missingValues": [
+    "",
+    "NULL"
+  ],
   "fields": [
     {
       "name": "snapshot_date",
@@ -48,10 +52,7 @@
     },
     {
       "name": "division",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "index_code",
@@ -119,10 +120,7 @@
     },
     {
       "name": "hiring_department",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "position",
@@ -140,10 +138,7 @@
     },
     {
       "name": "pay_group_name",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "base_salary",
@@ -159,10 +154,7 @@
     },
     {
       "name": "assignment_status",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "eeo_category",
