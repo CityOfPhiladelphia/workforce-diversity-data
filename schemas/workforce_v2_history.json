@@ -1,0 +1,181 @@
+{
+  "missingValues": [
+    "",
+    "null"
+  ],
+  "fields": [
+    {
+      "name": "person_id",
+      "type": "integer"
+    },
+    {
+      "name": "assignment_id",
+      "type": "integer"
+    },
+    {
+      "name": "last_name",
+      "type": "string"
+    },
+    {
+      "name": "first_name",
+      "type": "string"
+    },
+    {
+      "name": "employee_name",
+      "type": "string"
+    },
+    {
+      "name": "employee_number",
+      "type": "string"
+    },
+    {
+      "name": "original_hire_date",
+      "type": "datetime",
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
+    },
+    {
+      "name": "latest_hire_date",
+      "type": "datetime",
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
+    },
+    {
+      "name": "assignment_type",
+      "type": "string"
+    },
+    {
+      "name": "transaction_effective_date",
+      "type": "datetime",
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
+    },
+    {
+      "name": "transaction_reason",
+      "type": "string"
+    },
+    {
+      "name": "department",
+      "type": "string"
+    },
+    {
+      "name": "department_number",
+      "type": "string"
+    },
+    {
+      "name": "position",
+      "type": "string"
+    },
+    {
+      "name": "job",
+      "type": "string"
+    },
+    {
+      "name": "grade",
+      "type": "string"
+    },
+    {
+      "name": "grade_step",
+      "type": "string"
+    },
+    {
+      "name": "civil_service_description",
+      "type": "string"
+    },
+    {
+      "name": "union_representation_type",
+      "type": "string"
+    },
+    {
+      "name": "time_eligibility",
+      "type": "string"
+    },
+    {
+      "name": "bargaining_unit",
+      "type": "string"
+    },
+    {
+      "name": "assignment_category",
+      "type": "string"
+    },
+    {
+      "name": "salary_basis",
+      "type": "string"
+    },
+    {
+      "name": "salary_effective_date",
+      "type": "datetime",
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
+    },
+    {
+      "name": "base_salary",
+      "type": "number"
+    },
+    {
+      "name": "longevity_amount",
+      "type": "string"
+    },
+    {
+      "name": "total_salary",
+      "type": "number"
+    },
+    {
+      "name": "salary_reason_for_change",
+      "type": "string"
+    },
+    {
+      "name": "job_speciality",
+      "type": "string"
+    },
+    {
+      "name": "longevity_date",
+      "type": "string"
+    },
+    {
+      "name": "union_local",
+      "type": "string"
+    },
+    {
+      "name": "department_abbrev",
+      "type": "string"
+    },
+    {
+      "name": "hispanic",
+      "type": "string"
+    },
+    {
+      "name": "american_indian_alaskan_native",
+      "type": "string"
+    },
+    {
+      "name": "asian",
+      "type": "string"
+    },
+    {
+      "name": "black_or_african_american",
+      "type": "string"
+    },
+    {
+      "name": "native_hawaiian_or_other_pacif",
+      "type": "string"
+    },
+    {
+      "name": "white",
+      "type": "string"
+    },
+    {
+      "name": "two_or_more_race",
+      "type": "string"
+    },
+    {
+      "name": "sex",
+      "type": "string"
+    },
+    {
+      "name": "hiring_department",
+      "type": "string"
+    },
+    {
+      "name": "last_update_date",
+      "type": "datetime",
+      "format": "fmt:%Y-%m-%d %H:%M:%S"
+    }
+  ]
+}

@@ -3,6 +3,10 @@
     "snapshot_date",
     "payroll_number"
   ],
+  "missingValues": [
+    "",
+    "NULL"
+  ],
   "fields": [
     {
       "name": "snapshot_date",
@@ -41,10 +45,7 @@
     },
     {
       "name": "division",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "index_code",
@@ -76,6 +77,10 @@
     },
     {
       "name": "job_seniority_date",
+      "type": "datetime"
+    },
+    {
+      "name": "orig_appointment_date",
       "type": "datetime",
       "constraints": {
         "required": true
@@ -123,31 +128,11 @@
     },
     {
       "name": "assignment_status",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "assignment_category",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
-    },
-    {
-      "name": "leaving_reason",
-      "type": "datetime",
-      "constraints": {
-        "required": true
-      }
-    },
-    {
-      "name": "termination_date",
-      "type": "datetime",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     }
   ]
 }

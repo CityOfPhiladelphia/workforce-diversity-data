@@ -1,0 +1,60 @@
+number,department,cabinet
+1,PCC City Council,null
+3,OLR Office of Labor,Labor
+4,OIT Ofc of Innovation and Tech,CAO
+5,MAY Mayor,null
+6,HCD Div Housng and Comunty Dev,Planning and Development
+8,CEO Community Empowerment Ofc,MDO HHS
+10,MDO Managing Director Office,null
+11,PPD Police,MDO Public Safety
+12,STS Streets,MDO OTIS
+13,PFD Fire,MDO Public Safety
+14,DPH Health,MDO HHS
+15,DBH Behav Hlth ID Svcs,MDO HHS
+16,PPR Parks and Recreation,MDO Community and Culture
+18,AKM Atwater Kent Museum,MDO Community and Culture
+19,CWP Camp William Penn,null
+20,DPP Public Property,CAO
+22,DHS Dept of Human Services,MDO HHS
+23,PPS Prisons,MDO Public Safety
+24,OSH Ofc of Homeless Services,MDO HHS
+25,OFM Fleet Management,CAO
+26,LNI Licenses and Inspections,MDO Public Safety
+27,LRB L and I Review Board,MDO Public Safety
+28,PWD Water,MDO OTIS
+29,BBS Board of Buildng Standards,Planning and Development
+30,ZBA Zoning Board of Adjustment,Planning and Development
+31,REC Records,CAO
+32,HIS Historical Commission,Planning and Development
+35,FIN Finance,Finance
+36,REV Revenue,Finance
+38,PRO Procurement,CAO
+39,Tax Board Revenue,null
+40,CTO City Treasurer,Finance
+41,REP City Representative,Commerce & City Rep
+42,COM Commerce,Commerce & City Rep
+44,LAW Law Dept,Law
+45,BOE Board of Ethics,null
+46,MOT Mayor Ofc of Transportation,null
+48,OIG Ofc of Inspector General,OIG
+49,MOS Office of Sustainability,null
+50,MAP Mural Arts Program,MDO Community and Culture
+51,CPC City Planning Commission,Planning and Development
+52,FLP Free Library of Phila,MDO Community and Culture
+53,BPR Board of Pensions Retiremt,Finance
+54,CHR Phila Comsn on Hum Relatns,PCHR
+55,CSC Civil Service Commission,CAO
+56,OHR Office of Human Resources,CAO
+58,OAC Ofc Arts Culture Creativ E,MDO Community and Culture
+59,OPA Ofc of Property Assessment,Finance
+61,CLR City Controller,null
+63,BRT Board of Revision of Taxes,CAO
+65,CAO Ofc of Chief Admin Officer,CAO
+66,MOE Mayors Office of Education,MOE
+68,ROW Register of Wills,null
+69,DAO District Attorney,null
+70,SHF Sheriff,null
+72,DPD Planning and Development,Planning and Development
+73,CMS City Commissioner's Office,null
+84,FJD 1st Judicial District of PA,null
+422,Airport,Commerce & City Rep

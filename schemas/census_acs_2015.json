@@ -1,0 +1,22 @@
+{
+  "primaryKey": [
+    "subject",
+    "count"
+  ],
+  "fields": [
+    {
+      "name": "subject",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "count",
+      "type": "integer",
+      "constraints": {
+        "required": true
+      }
+    }
+  ]
+}

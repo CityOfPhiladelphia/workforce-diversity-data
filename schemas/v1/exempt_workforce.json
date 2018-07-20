@@ -38,10 +38,7 @@
     },
     {
       "name": "dob",
-      "type": "datetime",
-      "constraints": {
-        "required": true
-      }
+      "type": "datetime"
     },
     {
       "name": "department",
@@ -113,10 +110,7 @@
     },
     {
       "name": "department_number",
-      "type": "string",
-      "constraints": {
-        "required": true
-      }
+      "type": "string"
     },
     {
       "name": "hiring_department",

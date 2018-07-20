@@ -5,6 +5,39 @@ from collections import OrderedDict
 
 import click
 import petl
+import arrow
+
+column_map_hires = OrderedDict([
+    ('Payroll Number', 'payroll_number'),
+    ('First Name', 'first_name'),
+    ('Last Name', 'last_name'),
+    ('Department', 'department'),
+    ('Division', 'division'),
+    ('Index Code', 'index_code'),
+    ('Position', 'position'),
+    ('Job', 'job'),
+    ('Latest Start Date', 'latest_start_date'),
+    ('Job Seniority Date', 'job_seniority_date'),
+    ('Orig Appointment Date', 'orig_appointment_date'),
+    ('Hiring Department', 'hiring_department'),
+    ('Total Salary', 'total_salary'),
+    ('Gender', 'gender'),
+    ('Hispanic or Latino of any race', 'hispanic_or_latino_of_any_race'),
+    ('American Indian or Alaskan Native', 'american_indian_or_alaskan_native'),
+    ('Asian', 'asian'),
+    ('Black or African American', 'black_or_african_american'),
+    ('Native Hawaiian or Other Pacific', 'native_hawaiian_or_other_pacific'),
+    ('White', 'white'),
+    ('Two or More Races', 'two_or_more_races'),
+    ('Assignment Status', 'assignment_status'),
+    ('Assignment Category', 'assignment_category')
+])
+
+hires_date_fields = [
+    'orig_appointment_date',
+    'job_seniority_date',
+    'latest_start_date'
+]
 
 column_map_shared = OrderedDict([
     ('Payroll Number', 'payroll_number'),
@@ -81,7 +114,15 @@ roster_date_fields = [
 ]
 
 def convert_date(value):
+    if value == '':
+        return None
     return datetime.strptime(value, '%Y/%m/%d %I:%M:%S %p').isoformat() + 'Z'
+    #return arrow.get(value, 'M/D/YYYY H:mm').isoformat().replace('+00:00', 'Z')
+
+    # try:
+    #     return arrow.get(value, 'M/D/YYYY').isoformat().replace('+00:00', 'Z')
+    # except:
+    #     return arrow.get(value, 'D-MMM-YYYY').isoformat().replace('+00:00', 'Z')
 
 def transformer(snapshot_date, date_fields):
     def transform_row(row):
@@ -112,6 +153,20 @@ def transform_exempt_roster():
         .fromcsv()
         .rename(column_map_roster)
         .rowmap(transformer(snapshot_date, roster_date_fields), new_headers, failonerror=True)
+        .tocsv()
+    )
+
+@main.command()
+def transform_hires():
+    snapshot_date = get_last_modified()
+
+    new_headers = ['snapshot_date'] + list(column_map_hires.values())
+
+    (
+        petl
+        .fromcsv()
+        .rename(column_map_hires)
+        .rowmap(transformer(snapshot_date, hires_date_fields), new_headers, failonerror=True)
         .tocsv()
     )
 

@@ -1,0 +1,148 @@
+{
+  "primaryKey": [
+    "snapshot_date",
+    "payroll_number"
+  ],
+  "missingValues": [
+    "",
+    "NULL"
+  ],
+  "fields": [
+    {
+      "name": "snapshot_date",
+      "type": "datetime",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "payroll_number",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "first_name",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "last_name",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "department",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "division",
+      "type": "string"
+    },
+    {
+      "name": "index_code",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "position",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "job",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "latest_start_date",
+      "type": "datetime",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "job_seniority_date",
+      "type": "datetime",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "hiring_department",
+      "type": "string"
+    },
+    {
+      "name": "total_salary",
+      "type": "number"
+    },
+    {
+      "name": "gender",
+      "type": "string"
+    },
+    {
+      "name": "hispanic_or_latino_of_any_race",
+      "type": "string"
+    },
+    {
+      "name": "american_indian_or_alaskan_native",
+      "type": "string"
+    },
+    {
+      "name": "asian",
+      "type": "string"
+    },
+    {
+      "name": "black_or_african_american",
+      "type": "string"
+    },
+    {
+      "name": "native_hawaiian_or_other_pacific",
+      "type": "string"
+    },
+    {
+      "name": "white",
+      "type": "string"
+    },
+    {
+      "name": "two_or_more_races",
+      "type": "string"
+    },
+    {
+      "name": "assignment_status",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "assignment_category",
+      "type": "string"
+    },
+    {
+      "name": "leaving_reason",
+      "type": "string"
+    },
+    {
+      "name": "termination_date",
+      "type": "datetime",
+      "constraints": {
+        "required": true
+      }
+    }
+  ]
+}

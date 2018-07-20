@@ -1,0 +1,29 @@
+{
+  "primaryKey": [
+    "number"
+  ],
+  "missingValues": [
+    "",
+    "null"
+  ],
+  "fields": [
+    {
+      "name": "number",
+      "type": "integer",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "department",
+      "type": "string",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "cabinet",
+      "type": "string"
+    }
+  ]
+}
